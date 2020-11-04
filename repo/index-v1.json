@@ -1,0 +1,3912 @@
+{
+  "repo": {
+    "timestamp": 1604501107000,
+    "version": 21,
+    "name": "Wind Offline",
+    "icon": "icon.png",
+    "address": "https://guardianproject-wind.s3.amazonaws.com/fdroid/repo",
+    "description": "This is a collection of apps that work offline or with limited internet. ",
+    "mirrors": [
+      "https://guardianproject-wind.s3.amazonaws.com/fdroid/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "17",
+      "license": "Unknown",
+      "name": "Acrylic Paint",
+      "added": 315532800000,
+      "icon": "anupam.acrylic.17.png",
+      "packageName": "anupam.acrylic",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "35",
+      "license": "Unknown",
+      "name": "andOTP",
+      "added": 315532800000,
+      "icon": "org.shadowice.flocke.andotp.35.png",
+      "packageName": "org.shadowice.flocke.andotp",
+      "lastUpdated": 347158862000
+    },
+    {
+      "suggestedVersionCode": "15",
+      "license": "Unknown",
+      "name": "Baby Sleep Sounds",
+      "added": 315532800000,
+      "icon": "protect.babysleepsounds.15.png",
+      "packageName": "protect.babysleepsounds",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "108",
+      "license": "Unknown",
+      "name": "Barcode Scanner",
+      "added": 1500488384000,
+      "icon": "com.google.zxing.client.android.108.png",
+      "packageName": "com.google.zxing.client.android",
+      "lastUpdated": 1537242994000
+    },
+    {
+      "suggestedVersionCode": "72",
+      "license": "Unknown",
+      "name": "Binary Eye",
+      "added": 315532800000,
+      "icon": "de.markusfisch.android.binaryeye.72.png",
+      "packageName": "de.markusfisch.android.binaryeye",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "39",
+      "license": "Unknown",
+      "name": "Binaural Beats Therapy",
+      "added": 1328972642000,
+      "icon": "com.ihunda.android.binauralbeat.39.png",
+      "packageName": "com.ihunda.android.binauralbeat",
+      "lastUpdated": 1349945350000
+    },
+    {
+      "suggestedVersionCode": "10212",
+      "license": "Unknown",
+      "name": "Briar",
+      "added": 1601969806000,
+      "icon": "org.briarproject.briar.android.10212.png",
+      "packageName": "org.briarproject.briar.android",
+      "lastUpdated": 1604499027000
+    },
+    {
+      "suggestedVersionCode": "16",
+      "license": "Unknown",
+      "name": "Character Recognition",
+      "added": 1401081258000,
+      "icon": "org.atai.TessUI.16.png",
+      "packageName": "org.atai.TessUI",
+      "lastUpdated": 1536588864000
+    },
+    {
+      "suggestedVersionCode": "101",
+      "license": "Unknown",
+      "name": "Checkey",
+      "added": 1422310230000,
+      "icon": "info.guardianproject.checkey.101.png",
+      "packageName": "info.guardianproject.checkey",
+      "lastUpdated": 1422310230000
+    },
+    {
+      "suggestedVersionCode": "10405",
+      "license": "Unknown",
+      "name": "Community compass",
+      "added": 1394952364000,
+      "icon": "com.sgr_b2.compass.10405.png",
+      "packageName": "com.sgr_b2.compass",
+      "lastUpdated": 1518733552000
+    },
+    {
+      "suggestedVersionCode": "165",
+      "license": "Unknown",
+      "name": "CrossWords",
+      "added": 315532800000,
+      "icon": "org.eehouse.android.xw4.165.png",
+      "packageName": "org.eehouse.android.xw4",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "2827",
+      "license": "Unknown",
+      "name": "Document Viewer",
+      "added": 315532800000,
+      "icon": "org.sufficientlysecure.viewer.2827.png",
+      "packageName": "org.sufficientlysecure.viewer",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "2300",
+      "license": "Unknown",
+      "name": "DV FontPack",
+      "added": 1376580888000,
+      "icon": "org.sufficientlysecure.viewer.fontpack.2300.png",
+      "packageName": "org.sufficientlysecure.viewer.fontpack",
+      "lastUpdated": 1424987570000
+    },
+    {
+      "suggestedVersionCode": "42",
+      "license": "Unknown",
+      "name": "Flashlight",
+      "added": 315532800000,
+      "icon": "com.simplemobiletools.flashlight.42.png",
+      "packageName": "com.simplemobiletools.flashlight",
+      "lastUpdated": 1601969874000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Freebloks",
+      "added": 315532800000,
+      "icon": "de.saschahlusiak.freebloks.110.png",
+      "packageName": "de.saschahlusiak.freebloks",
+      "lastUpdated": 1601969890000
+    },
+    {
+      "suggestedVersionCode": "2001",
+      "license": "Unknown",
+      "name": "Haven",
+      "added": 1601969800000,
+      "icon": "org.havenapp.main.2001.png",
+      "packageName": "org.havenapp.main",
+      "lastUpdated": 1604499039000
+    },
+    {
+      "suggestedVersionCode": "15",
+      "license": "Unknown",
+      "name": "LibreOffice Viewer",
+      "added": 315532800000,
+      "icon": "org.documentfoundation.libreoffice.15.png",
+      "packageName": "org.documentfoundation.libreoffice",
+      "lastUpdated": 1477527120000
+    },
+    {
+      "suggestedVersionCode": "92",
+      "license": "Unknown",
+      "name": "Manyverse",
+      "added": 315532800000,
+      "icon": "se.manyver.92.png",
+      "packageName": "se.manyver",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "1063",
+      "license": "Unknown",
+      "name": "Maps",
+      "added": 315532800000,
+      "icon": "com.github.axet.maps.1063.png",
+      "packageName": "com.github.axet.maps",
+      "lastUpdated": 315532800000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Medic Log",
+      "added": 315532800000,
+      "icon": "org.paladyn.mediclog.12.png",
+      "packageName": "org.paladyn.mediclog",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "5320",
+      "license": "Unknown",
+      "name": "MediLog",
+      "added": 315532800000,
+      "icon": "com.zell_mbc.medilog.5320.png",
+      "packageName": "com.zell_mbc.medilog",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "10008",
+      "license": "Unknown",
+      "name": "Mitzuli",
+      "added": 1434866826000,
+      "icon": "com.mitzuli.10008.png",
+      "packageName": "com.mitzuli",
+      "lastUpdated": 1460191210000
+    },
+    {
+      "suggestedVersionCode": "34",
+      "license": "Unknown",
+      "name": "Noice",
+      "added": 315532800000,
+      "icon": "com.github.ashutoshgngwr.noice.34.png",
+      "packageName": "com.github.ashutoshgngwr.noice",
+      "lastUpdated": 347158862000
+    },
+    {
+      "suggestedVersionCode": "4011",
+      "license": "Unknown",
+      "name": "ObscuraCam",
+      "added": 315532800000,
+      "icon": "org.witness.sscphase1.4011.png",
+      "packageName": "org.witness.sscphase1",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "33",
+      "license": "Unknown",
+      "name": "OCR Test",
+      "added": 1365575636000,
+      "icon": "edu.sfsu.cs.orange.ocr.33.png",
+      "packageName": "edu.sfsu.cs.orange.ocr",
+      "lastUpdated": 1424939436000
+    },
+    {
+      "suggestedVersionCode": "35",
+      "license": "Unknown",
+      "name": "Open Note Scanner",
+      "added": 315532800000,
+      "icon": "com.todobom.opennotescanner.35.png",
+      "packageName": "com.todobom.opennotescanner",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "2673",
+      "license": "Unknown",
+      "name": "OpenMRS Android Client",
+      "added": 1601970005000,
+      "icon": "org.openmrs.mobile.2673.png",
+      "packageName": "org.openmrs.mobile",
+      "lastUpdated": 1601970008000
+    },
+    {
+      "suggestedVersionCode": "383",
+      "license": "Unknown",
+      "name": "OsmAnd~",
+      "added": 315532800000,
+      "icon": "net.osmand.plus.383.png",
+      "packageName": "net.osmand.plus",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "101",
+      "license": "Unknown",
+      "name": "PixelKnot",
+      "added": 315532800000,
+      "icon": "info.guardianproject.pixelknot.101.png",
+      "packageName": "info.guardianproject.pixelknot",
+      "lastUpdated": 1436158462000
+    },
+    {
+      "suggestedVersionCode": "37",
+      "license": "Unknown",
+      "name": "PocketMaps",
+      "added": 315532800000,
+      "icon": "com.junjunguo.pocketmaps.37.png",
+      "packageName": "com.junjunguo.pocketmaps",
+      "lastUpdated": 315532800000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Puerto-rico_centralamerica_2.obf",
+      "added": 1604500996000,
+      "packageName": "e5bf1c2b09707cfeb350a37605fa6fb01452af9ca72702b5f49c7024819279c0",
+      "lastUpdated": 1604500996000
+    },
+    {
+      "suggestedVersionCode": "120",
+      "license": "Unknown",
+      "name": "Puzzles",
+      "added": 315532800000,
+      "icon": "name.boyle.chris.sgtpuzzles.120.png",
+      "packageName": "name.boyle.chris.sgtpuzzles",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "139",
+      "license": "Unknown",
+      "name": "Ripple",
+      "added": 315532800000,
+      "icon": "info.guardianproject.ripple.139.png",
+      "packageName": "info.guardianproject.ripple",
+      "lastUpdated": 315532800000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Rumble",
+      "added": 1451513590000,
+      "icon": "org.disrupted.rumble.16.png",
+      "packageName": "org.disrupted.rumble",
+      "lastUpdated": 1473346096000
+    },
+    {
+      "suggestedVersionCode": "8",
+      "license": "Unknown",
+      "name": "Silent Night",
+      "added": 1386720536000,
+      "icon": "ru.neverdark.silentnight.8.png",
+      "packageName": "ru.neverdark.silentnight",
+      "lastUpdated": 1398498806000
+    },
+    {
+      "suggestedVersionCode": "18",
+      "license": "Unknown",
+      "name": "Simple Brick Games",
+      "added": 315532800000,
+      "icon": "de.tobiasbielefeld.brickgames.18.png",
+      "packageName": "de.tobiasbielefeld.brickgames",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "25",
+      "license": "Unknown",
+      "name": "SINE Isochronic Entrainer",
+      "added": 315532800000,
+      "icon": "com.dosse.bwentrain.androidPlayer.25.png",
+      "packageName": "com.dosse.bwentrain.androidPlayer",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "730",
+      "license": "Unknown",
+      "name": "SolitaireCG",
+      "added": 315532800000,
+      "icon": "net.sourceforge.solitaire_cg.730.png",
+      "packageName": "net.sourceforge.solitaire_cg",
+      "lastUpdated": 1518704146000
+    },
+    {
+      "suggestedVersionCode": "426",
+      "license": "Unknown",
+      "name": "Survival Manual",
+      "added": 315532800000,
+      "icon": "org.ligi.survivalmanual.426.png",
+      "packageName": "org.ligi.survivalmanual",
+      "lastUpdated": 315532800000
+    },
+    {
+      "suggestedVersionCode": "46",
+      "license": "Unknown",
+      "name": "Trackbook",
+      "added": 315532800000,
+      "icon": "org.y20k.trackbook.46.png",
+      "packageName": "org.y20k.trackbook",
+      "lastUpdated": 1604497090000
+    },
+    {
+      "suggestedVersionCode": "22",
+      "license": "Unknown",
+      "name": "Trail Sense",
+      "added": 315532800000,
+      "icon": "com.kylecorry.trail_sense.22.png",
+      "packageName": "com.kylecorry.trail_sense",
+      "lastUpdated": 1604497061000
+    },
+    {
+      "suggestedVersionCode": "9",
+      "license": "Unknown",
+      "name": "Units",
+      "added": 1308614084000,
+      "icon": "info.staticfree.android.units.9.png",
+      "packageName": "info.staticfree.android.units",
+      "lastUpdated": 1329382844000
+    },
+    {
+      "suggestedVersionCode": "3",
+      "license": "Unknown",
+      "name": "US Travel Converter",
+      "added": 315532800000,
+      "icon": "uscartools.USTravelConverter.3.png",
+      "packageName": "uscartools.USTravelConverter",
+      "lastUpdated": 315532800000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Virgin-islands-british_centralamerica_2.obf",
+      "added": 1604500995000,
+      "packageName": "402ee0799d5da535276b5a3672fb049d6df3e1727cfb35369c8962c4a42cac3d",
+      "lastUpdated": 1604500995000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Virgin-islands-us_centralamerica_2.obf",
+      "added": 1604500996000,
+      "packageName": "c0a38d7cd0d8603c0053a0e40b13544a845fdd1f2165fa8c7ac9aaea51a4cb76",
+      "lastUpdated": 1604500996000
+    }
+  ],
+  "packages": {
+    "402ee0799d5da535276b5a3672fb049d6df3e1727cfb35369c8962c4a42cac3d": [
+      {
+        "added": 1604500995000,
+        "apkName": "Virgin-islands-british_centralamerica_2.obf.zip",
+        "hash": "402ee0799d5da535276b5a3672fb049d6df3e1727cfb35369c8962c4a42cac3d",
+        "hashType": "sha256",
+        "packageName": "402ee0799d5da535276b5a3672fb049d6df3e1727cfb35369c8962c4a42cac3d",
+        "size": 916622,
+        "versionName": "402ee07"
+      }
+    ],
+    "anupam.acrylic": [
+      {
+        "added": 315532800000,
+        "apkName": "anupam.acrylic_17.apk",
+        "hash": "b06660fd279f443c74aa35b2fc79bd1689f04fb8a23a892d4cf73340de8a261e",
+        "hashType": "sha256",
+        "minSdkVersion": 9,
+        "packageName": "anupam.acrylic",
+        "sig": "084de7333f3442c6631420eaf9b9b7d5",
+        "signer": "02267696f5c442ab634bb7a2673a7d65a9e17a2c7aae7bc13f55f9b512febb34",
+        "size": 461248,
+        "targetSdkVersion": 21,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 17,
+        "versionName": "2.3.0"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "anupam.acrylic_16.apk",
+        "hash": "5538b3f1241879e05dfd119d38435af95fe9229c68ebc5d12c7885fce1e77c54",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "packageName": "anupam.acrylic",
+        "sig": "084de7333f3442c6631420eaf9b9b7d5",
+        "signer": "02267696f5c442ab634bb7a2673a7d65a9e17a2c7aae7bc13f55f9b512febb34",
+        "size": 465285,
+        "targetSdkVersion": 21,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 16,
+        "versionName": "2.2.1"
+      }
+    ],
+    "c0a38d7cd0d8603c0053a0e40b13544a845fdd1f2165fa8c7ac9aaea51a4cb76": [
+      {
+        "added": 1604500996000,
+        "apkName": "Virgin-islands-us_centralamerica_2.obf.zip",
+        "hash": "c0a38d7cd0d8603c0053a0e40b13544a845fdd1f2165fa8c7ac9aaea51a4cb76",
+        "hashType": "sha256",
+        "packageName": "c0a38d7cd0d8603c0053a0e40b13544a845fdd1f2165fa8c7ac9aaea51a4cb76",
+        "size": 2771375,
+        "versionName": "c0a38d7"
+      }
+    ],
+    "com.dosse.bwentrain.androidPlayer": [
+      {
+        "added": 315532800000,
+        "apkName": "com.dosse.bwentrain.androidPlayer_25.apk",
+        "hash": "09e0dc485886b016710a0b54c19acf8a200379d58a9c01a9ce1691f49474fb90",
+        "hashType": "sha256",
+        "minSdkVersion": 15,
+        "packageName": "com.dosse.bwentrain.androidPlayer",
+        "sig": "f1cb46c9cfa978433f66ffb1ba79c227",
+        "signer": "0ccc34f88c9f52a7dce57d56f36266bce202cf18bd300f4c5f09e7b18459edd9",
+        "size": 1879113,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ]
+        ],
+        "versionCode": 25,
+        "versionName": "1.7.1"
+      }
+    ],
+    "com.github.ashutoshgngwr.noice": [
+      {
+        "added": 347158862000,
+        "apkName": "com.github.ashutoshgngwr.noice_34.apk",
+        "hash": "840c8fd1bf32af8faa130ed298f4c586091f428b94e402565f5846222882ffc9",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.github.ashutoshgngwr.noice",
+        "sig": "0ac4bbda2b62c2b10d2bec6dcca8efc6",
+        "signer": "55afb1b9ecbc0d443be9cfa75459112c0da7672b774bc548bc4f38bc96ebbc23",
+        "size": 26555891,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 34,
+        "versionName": "0.12.0"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "com.github.ashutoshgngwr.noice_33.apk",
+        "hash": "c344e3791fcc4c45b8b31c762f60487de2823587fb62eb10cb3aac63875e811d",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.github.ashutoshgngwr.noice",
+        "sig": "0ac4bbda2b62c2b10d2bec6dcca8efc6",
+        "signer": "55afb1b9ecbc0d443be9cfa75459112c0da7672b774bc548bc4f38bc96ebbc23",
+        "size": 26616668,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 33,
+        "versionName": "0.11.1"
+      }
+    ],
+    "com.github.axet.maps": [
+      {
+        "added": 315532800000,
+        "apkName": "com.github.axet.maps_1063.apk",
+        "features": [
+          "android.hardware.touchscreen"
+        ],
+        "hash": "ba9335feca6517bc358f702e0c3f0ba118fa465453ca60cd322dc5ffd8190d6b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.github.axet.maps",
+        "sig": "98e735e84b6f82f7abe483f3edc43fb6",
+        "signer": "8668deef92cfe5948787261471b75146d001735d797f381d3d64ce55e8f2f093",
+        "size": 117668601,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.BATTERY_STATS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.github.axet.maps.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ]
+        ],
+        "versionCode": 1063,
+        "versionName": "10.2.0"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "com.github.axet.maps_1062.apk",
+        "features": [
+          "android.hardware.touchscreen"
+        ],
+        "hash": "505273ddc6972c8dca20fe3f922b59baa32abd22bc0585b27a89a3a1445ee974",
+        "hashType": "sha256",
+        "minSdkVersion": 15,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.github.axet.maps",
+        "sig": "98e735e84b6f82f7abe483f3edc43fb6",
+        "signer": "8668deef92cfe5948787261471b75146d001735d797f381d3d64ce55e8f2f093",
+        "size": 75230726,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.BATTERY_STATS",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.github.axet.maps.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1062,
+        "versionName": "9.1.8-8"
+      }
+    ],
+    "com.google.zxing.client.android": [
+      {
+        "added": 1537242994000,
+        "apkName": "com.google.zxing.client.android_108.apk",
+        "features": [
+          "android.hardware.camera.any",
+          "android.hardware.screen.landscape"
+        ],
+        "hash": "2ed4c2661ed0e2e56b2980d59291dacd58040d219cb7e83b3f6db1102d2ed483",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "packageName": "com.google.zxing.client.android",
+        "sig": "c3bb49636af03e7c23a63724eb529ea9",
+        "signer": "1f97ed3c5800111d4627d53512bb38102fda0385c45f763b4b92d6341d29f1ad",
+        "size": 771339,
+        "targetSdkVersion": 22,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 108,
+        "versionName": "4.7.8"
+      },
+      {
+        "added": 1510644478000,
+        "apkName": "com.google.zxing.client.android_107.apk",
+        "features": [
+          "android.hardware.camera.any",
+          "android.hardware.screen.landscape"
+        ],
+        "hash": "6989fb06707b668a3ba32a8f490181adb3191a7b93229cfc4c2de85e6e4f3da2",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "packageName": "com.google.zxing.client.android",
+        "sig": "c3bb49636af03e7c23a63724eb529ea9",
+        "signer": "1f97ed3c5800111d4627d53512bb38102fda0385c45f763b4b92d6341d29f1ad",
+        "size": 766879,
+        "targetSdkVersion": 22,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "com.android.browser.permission.READ_HISTORY_BOOKMARKS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 107,
+        "versionName": "4.7.7"
+      }
+    ],
+    "com.ihunda.android.binauralbeat": [
+      {
+        "added": 1349945350000,
+        "apkName": "com.ihunda.android.binauralbeat_39.apk",
+        "hash": "e8ff6f85ad6c55bac4f2a532bd9641166706db6b786411068fabbe1c492a729c",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "packageName": "com.ihunda.android.binauralbeat",
+        "sig": "4805bb900f264b989f8c82d6e62cb0b8",
+        "signer": "9abaa6fdd15183ea152a61cf1542bac6a321be8b5e134a5b88066d96c97363ea",
+        "size": 1732151,
+        "uses-permission": [
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ]
+        ],
+        "versionCode": 39,
+        "versionName": "2.0.3"
+      },
+      {
+        "added": 1328972642000,
+        "apkName": "com.ihunda.android.binauralbeat_24.apk",
+        "hash": "180eb54d9913a4e875b7859728231885989735a63f62dfee7598c085e9c12270",
+        "hashType": "sha256",
+        "minSdkVersion": 7,
+        "packageName": "com.ihunda.android.binauralbeat",
+        "sig": "4805bb900f264b989f8c82d6e62cb0b8",
+        "signer": "9abaa6fdd15183ea152a61cf1542bac6a321be8b5e134a5b88066d96c97363ea",
+        "size": 990720,
+        "uses-permission": [
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 24,
+        "versionName": "1.2"
+      }
+    ],
+    "com.junjunguo.pocketmaps": [
+      {
+        "added": 315532800000,
+        "apkName": "com.junjunguo.pocketmaps_37.apk",
+        "features": [
+          "android.hardware.location.gps"
+        ],
+        "hash": "c498791cab70e33df336d70f425a1cc0998e602a77a063dcfffc20f5b9f5ffd8",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.junjunguo.pocketmaps",
+        "sig": "cff35ac763a1dd2bc322eacd7303d90e",
+        "signer": "794c8cc1ffc18a2ca8440f5c8c06221b6146850875ad0716754c5d8f178692b9",
+        "size": 8050117,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_INTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DOCUMENTS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 37,
+        "versionName": "3.7"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "com.junjunguo.pocketmaps_34.apk",
+        "features": [
+          "android.hardware.location.gps"
+        ],
+        "hash": "7cded2a44786eca9b0fc7a1aea28cefc6d8a0c752ae21afe3ee990dbc44a192a",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.junjunguo.pocketmaps",
+        "sig": "cff35ac763a1dd2bc322eacd7303d90e",
+        "signer": "794c8cc1ffc18a2ca8440f5c8c06221b6146850875ad0716754c5d8f178692b9",
+        "size": 9102929,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_INTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DOCUMENTS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 34,
+        "versionName": "3.4"
+      }
+    ],
+    "com.kylecorry.trail_sense": [
+      {
+        "added": 347158862000,
+        "apkName": "com.kylecorry.trail_sense_22.apk",
+        "hash": "5137d843c8c03106ee666357ccd1b9ae3059c966838df4d72d4c12d4d80473e8",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.kylecorry.trail_sense",
+        "sig": "51536c26e09721b199e29c2f5d2385b3",
+        "signer": "afa319dce22c6a8fb3e4d852a2c0df6c07cf995dab2f78331e4bc5b5dd48bfaf",
+        "size": 3171015,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 22,
+        "versionName": "1.0.2"
+      },
+      {
+        "added": 1604497061000,
+        "apkName": "com.kylecorry.trail_sense_21.apk",
+        "hash": "62ec40d7ccec502f834720bb543ca13fe76927b7314ccf71ffedeecea980dfb7",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.kylecorry.trail_sense",
+        "sig": "51536c26e09721b199e29c2f5d2385b3",
+        "signer": "afa319dce22c6a8fb3e4d852a2c0df6c07cf995dab2f78331e4bc5b5dd48bfaf",
+        "size": 3339611,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 21,
+        "versionName": "1.0.1"
+      }
+    ],
+    "com.mitzuli": [
+      {
+        "added": 1460191210000,
+        "apkName": "com.mitzuli_10008.apk",
+        "hash": "d13c0bb0fe7085b35475eee773fb6d815bdfb2821239dcc0f58a402716f43128",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "nativecode": [
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "x86"
+        ],
+        "packageName": "com.mitzuli",
+        "sig": "f1c7c2b2708ce04dbfe4b619cb144e50",
+        "signer": "3151f0fed1dafc11a2bc3f6bc318108f0b665b4c0b42d7f7f48d74ddf3179476",
+        "size": 31355184,
+        "targetSdkVersion": 22,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.hardware.camera.autofocus",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 10008,
+        "versionName": "1.0.8"
+      },
+      {
+        "added": 1452026038000,
+        "apkName": "com.mitzuli_10007.apk",
+        "hash": "c5ef3b9d0e03048e33234b5788ebf64bad93b26d3b5d063fdde931884a587e36",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "nativecode": [
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "x86"
+        ],
+        "packageName": "com.mitzuli",
+        "sig": "f1c7c2b2708ce04dbfe4b619cb144e50",
+        "signer": "3151f0fed1dafc11a2bc3f6bc318108f0b665b4c0b42d7f7f48d74ddf3179476",
+        "size": 31355093,
+        "targetSdkVersion": 22,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.hardware.camera.autofocus",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 10007,
+        "versionName": "1.0.7"
+      }
+    ],
+    "com.sgr_b2.compass": [
+      {
+        "added": 1518733552000,
+        "apkName": "com.sgr_b2.compass_10405.apk",
+        "hash": "52f319bae362cde1c32c279bf32aee94865d3f0e0cf7a6aafe8b1dac3d6e7437",
+        "hashType": "sha256",
+        "minSdkVersion": 5,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.sgr_b2.compass",
+        "sig": "8c2f21d27c3f0b7400e45aa5408a2cc1",
+        "signer": "084f74293389c193a2922dc7ceb2c07e442eb078a0b3b3643ecf51e64144bf74",
+        "size": 159631,
+        "targetSdkVersion": 20,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_SMS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SMS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ]
+        ],
+        "versionCode": 10405,
+        "versionName": "1.4.5"
+      },
+      {
+        "added": 1406612782000,
+        "apkName": "com.sgr_b2.compass_10403.apk",
+        "hash": "6600884e1f37f9703f96ee048e724d1991eca32fe580988ad8966f7ba504be02",
+        "hashType": "sha256",
+        "minSdkVersion": 5,
+        "nativecode": [
+          "armeabi"
+        ],
+        "packageName": "com.sgr_b2.compass",
+        "sig": "8c2f21d27c3f0b7400e45aa5408a2cc1",
+        "signer": "084f74293389c193a2922dc7ceb2c07e442eb078a0b3b3643ecf51e64144bf74",
+        "size": 78920,
+        "targetSdkVersion": 20,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_SMS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SMS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ]
+        ],
+        "versionCode": 10403,
+        "versionName": "1.4.3"
+      }
+    ],
+    "com.simplemobiletools.flashlight": [
+      {
+        "added": 1601969874000,
+        "apkName": "com.simplemobiletools.flashlight_42.apk",
+        "features": [
+          "android.hardware.camera.flash"
+        ],
+        "hash": "f99582461fc2f87d85cd1b39898c9b26a5e52fda44d63a4f24f4b6d4cdf7ce90",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.simplemobiletools.flashlight",
+        "sig": "06f944519827a579ad419350dba97cc4",
+        "signer": "aa91d60a9f96812da5d557f2f0edcd40dc3e488619ff1b5c9ffcca16fe1bdf8d",
+        "size": 5853252,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            23
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ]
+        ],
+        "versionCode": 42,
+        "versionName": "5.2.0"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "com.simplemobiletools.flashlight_41.apk",
+        "features": [
+          "android.hardware.camera.flash"
+        ],
+        "hash": "c0bf78edee3de69daee7e07c48a98265105020b5eb6df161c109e60a93db107e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.simplemobiletools.flashlight",
+        "sig": "06f944519827a579ad419350dba97cc4",
+        "signer": "aa91d60a9f96812da5d557f2f0edcd40dc3e488619ff1b5c9ffcca16fe1bdf8d",
+        "size": 5677235,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            23
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ]
+        ],
+        "versionCode": 41,
+        "versionName": "5.1.1"
+      }
+    ],
+    "com.todobom.opennotescanner": [
+      {
+        "added": 315532800000,
+        "apkName": "com.todobom.opennotescanner_35.apk",
+        "hash": "84a5b1bf4084f35a19068937c86b98eba550033f81f558288bb846a59721a177",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.todobom.opennotescanner",
+        "sig": "e48c12e626bb655e7783bda71fce7035",
+        "signer": "6ef283e5e6a90fb4a0845727fb3959d5d60f2e8fb95124bb341472f2a0dfe0a5",
+        "size": 5374751,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 35,
+        "versionName": "1.0.35-fdroid"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "com.todobom.opennotescanner_34.apk",
+        "hash": "6820f520866f0c1ff8fd765e9d987ab137d15cd1e56423a193d0c3bb38df10fb",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.todobom.opennotescanner",
+        "sig": "e48c12e626bb655e7783bda71fce7035",
+        "signer": "6ef283e5e6a90fb4a0845727fb3959d5d60f2e8fb95124bb341472f2a0dfe0a5",
+        "size": 2249152,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 34,
+        "versionName": "1.0.34-fdroid"
+      }
+    ],
+    "com.zell_mbc.medilog": [
+      {
+        "added": 315532800000,
+        "apkName": "com.zell_mbc.medilog_5320.apk",
+        "hash": "7aa9f4d2ea798d0bc31587d0d4f08365713c8d9e3aa570186c2a295069b91179",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.zell_mbc.medilog",
+        "sig": "ee332e55c7a9120f024d0c8f839d3d3f",
+        "signer": "4535b52b526f50b9cd3e3d8b9fc658bb959a9fe8ee0450154085e28d4b004198",
+        "size": 17506047,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "versionCode": 5320,
+        "versionName": "1.9.1.0"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "com.zell_mbc.medilog_5319.apk",
+        "hash": "ed1883e98802c4d30693f02d7e27fd88b2fcb8811c9b86590d7f053367d6b931",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.zell_mbc.medilog",
+        "sig": "ee332e55c7a9120f024d0c8f839d3d3f",
+        "signer": "4535b52b526f50b9cd3e3d8b9fc658bb959a9fe8ee0450154085e28d4b004198",
+        "size": 17466997,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ]
+        ],
+        "versionCode": 5319,
+        "versionName": "1.9.0.3"
+      }
+    ],
+    "de.markusfisch.android.binaryeye": [
+      {
+        "added": 315532800000,
+        "apkName": "de.markusfisch.android.binaryeye_72.apk",
+        "features": [
+          "android.hardware.camera",
+          "android.hardware.camera.autofocus"
+        ],
+        "hash": "f010f0525032a1227bc2dbdbd9c4dfee4d4ccd9b6b2f56ac616bab7be141d5e2",
+        "hashType": "sha256",
+        "minSdkVersion": 9,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "de.markusfisch.android.binaryeye",
+        "sig": "9b1d4803c42bdd5ab534aa27f38b2127",
+        "signer": "9ecdbf0677dd50609c76c2ba05dbe362232327b10a1c37cd58722993d9fe5d57",
+        "size": 6302693,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 72,
+        "versionName": "1.34.0"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "de.markusfisch.android.binaryeye_71.apk",
+        "features": [
+          "android.hardware.camera",
+          "android.hardware.camera.autofocus"
+        ],
+        "hash": "5a7f7ba822bc639c310f7aa97eaf9cb05299859351eb78b425de328283ca0961",
+        "hashType": "sha256",
+        "minSdkVersion": 9,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "de.markusfisch.android.binaryeye",
+        "sig": "9b1d4803c42bdd5ab534aa27f38b2127",
+        "signer": "9ecdbf0677dd50609c76c2ba05dbe362232327b10a1c37cd58722993d9fe5d57",
+        "size": 3832680,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 71,
+        "versionName": "1.33.0"
+      }
+    ],
+    "de.saschahlusiak.freebloks": [
+      {
+        "added": 1601969890000,
+        "apkName": "de.saschahlusiak.freebloks_110.apk",
+        "hash": "ce42ee79a5fa39adfb501f0ed89ae621b413e91ab31eedb19b4951426a017d66",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "de.saschahlusiak.freebloks",
+        "sig": "2cc1780efc6ff88a58080eb5edfd3ec0",
+        "signer": "b84ad1afd452a019934fbe6a6b8417d8a278373917b738a6776f4db30214d470",
+        "size": 6121112,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            21
+          ]
+        ],
+        "versionCode": 110,
+        "versionName": "1.3.0"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "de.saschahlusiak.freebloks_105.apk",
+        "hash": "1bfa3a745fed454e1fd0d7be5728d4a7726f683cfe7597eb1cbe489e7a29daad",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "de.saschahlusiak.freebloks",
+        "sig": "2cc1780efc6ff88a58080eb5edfd3ec0",
+        "signer": "b84ad1afd452a019934fbe6a6b8417d8a278373917b738a6776f4db30214d470",
+        "size": 4776345,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            21
+          ]
+        ],
+        "versionCode": 105,
+        "versionName": "1.2.5"
+      }
+    ],
+    "de.tobiasbielefeld.brickgames": [
+      {
+        "added": 315532800000,
+        "apkName": "de.tobiasbielefeld.brickgames_18.apk",
+        "hash": "99b7422c01cfbbfabf3d9857c860f1c19570ba770e3303a585b7bac02cddb737",
+        "hashType": "sha256",
+        "minSdkVersion": 9,
+        "packageName": "de.tobiasbielefeld.brickgames",
+        "sig": "51c6ccc0ba05e992f7faa2719ef660a4",
+        "signer": "05a2456e71a4762562adfa6065a627b156943379b78348c65fc6a9248a6cfcc4",
+        "size": 1951252,
+        "targetSdkVersion": 24,
+        "uses-permission": [
+          [
+            "android.permission.VIBRATE",
+            null
+          ]
+        ],
+        "versionCode": 18,
+        "versionName": "2.2.4"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "de.tobiasbielefeld.brickgames_17.apk",
+        "hash": "828923851a6456ff4465b97480e5737a37b7dd2fed7fa8020bb4c62c9bd23b59",
+        "hashType": "sha256",
+        "minSdkVersion": 9,
+        "packageName": "de.tobiasbielefeld.brickgames",
+        "sig": "51c6ccc0ba05e992f7faa2719ef660a4",
+        "signer": "05a2456e71a4762562adfa6065a627b156943379b78348c65fc6a9248a6cfcc4",
+        "size": 1946899,
+        "targetSdkVersion": 24,
+        "uses-permission": [
+          [
+            "android.permission.VIBRATE",
+            null
+          ]
+        ],
+        "versionCode": 17,
+        "versionName": "2.2.3"
+      }
+    ],
+    "e5bf1c2b09707cfeb350a37605fa6fb01452af9ca72702b5f49c7024819279c0": [
+      {
+        "added": 1604500996000,
+        "apkName": "Puerto-rico_centralamerica_2.obf.zip",
+        "hash": "e5bf1c2b09707cfeb350a37605fa6fb01452af9ca72702b5f49c7024819279c0",
+        "hashType": "sha256",
+        "packageName": "e5bf1c2b09707cfeb350a37605fa6fb01452af9ca72702b5f49c7024819279c0",
+        "size": 61705332,
+        "versionName": "e5bf1c2"
+      }
+    ],
+    "edu.sfsu.cs.orange.ocr": [
+      {
+        "added": 1424939436000,
+        "apkName": "edu.sfsu.cs.orange.ocr_33.apk",
+        "features": [
+          "android.hardware.camera.autofocus",
+          "android.hardware.camera",
+          "android.hardware.screen.landscape"
+        ],
+        "hash": "c417dc1bd84bf4b860398205d4fdfcbe097ae68ce4d4cc91a3aed7c16d8ab542",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "nativecode": [
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "x86"
+        ],
+        "packageName": "edu.sfsu.cs.orange.ocr",
+        "sig": "f0092dc228fae053dfbf0dc0b18a699d",
+        "signer": "87c94ea115097d485e551b584f31e0453d05b4e0674b71b5d069dbcc8db5b61d",
+        "size": 8919574,
+        "targetSdkVersion": 10,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 33,
+        "versionName": "0.5.14"
+      },
+      {
+        "added": 1365575636000,
+        "apkName": "edu.sfsu.cs.orange.ocr_31.apk",
+        "features": [
+          "android.hardware.camera.autofocus",
+          "android.hardware.camera"
+        ],
+        "hash": "5defac8da76d387b9240164be028d3eeddc3c9929626425d8cce43d5abbda784",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "nativecode": [
+          "armeabi",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "edu.sfsu.cs.orange.ocr",
+        "sig": "f0092dc228fae053dfbf0dc0b18a699d",
+        "signer": "87c94ea115097d485e551b584f31e0453d05b4e0674b71b5d069dbcc8db5b61d",
+        "size": 5313183,
+        "targetSdkVersion": 13,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 31,
+        "versionName": "0.5.12"
+      }
+    ],
+    "info.guardianproject.checkey": [
+      {
+        "added": 1422310230000,
+        "apkName": "info.guardianproject.checkey_101.apk",
+        "hash": "2d81f339bb69626af42e8868dc6928c9072ebcbae76e1ff5ac8172e78ebe9cdd",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "packageName": "info.guardianproject.checkey",
+        "sig": "d70ac6a02b53ebdd1354ea7af7b9ceee",
+        "signer": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a",
+        "size": 967083,
+        "targetSdkVersion": 21,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 101,
+        "versionName": "0.1.1"
+      }
+    ],
+    "info.guardianproject.pixelknot": [
+      {
+        "added": 315532800000,
+        "apkName": "info.guardianproject.pixelknot_101.apk",
+        "hash": "ca0d4f40e95078a5d5f709f7d7e21357a0412fdc4fd42ab68373cba9a98850f5",
+        "hashType": "sha256",
+        "minSdkVersion": 17,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "info.guardianproject.pixelknot",
+        "sig": "32d6c8c2bef297e6642500e20f37c7f8",
+        "signer": "af0d13a1d236a1f8d232e916cbc01fafe2305e54d9eb66961df80374c01e146e",
+        "size": 1995873,
+        "targetSdkVersion": 25,
+        "uses-permission": [
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.VIBRATE",
+            18
+          ]
+        ],
+        "versionCode": 101,
+        "versionName": "1.0.1"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "info.guardianproject.pixelknot_10.apk",
+        "hash": "79c1ba7d8e602e9d76491ae0510230103bbec5a0c5fbd2f7fe8dfff1e1054cf1",
+        "hashType": "sha256",
+        "minSdkVersion": 17,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "info.guardianproject.pixelknot",
+        "sig": "32d6c8c2bef297e6642500e20f37c7f8",
+        "signer": "af0d13a1d236a1f8d232e916cbc01fafe2305e54d9eb66961df80374c01e146e",
+        "size": 1985208,
+        "targetSdkVersion": 25,
+        "uses-permission": [
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.VIBRATE",
+            18
+          ]
+        ],
+        "versionCode": 10,
+        "versionName": "1.0"
+      }
+    ],
+    "info.guardianproject.ripple": [
+      {
+        "added": 315532800000,
+        "apkName": "info.guardianproject.ripple_139.apk",
+        "hash": "a4032a1a61210de28b61af60ec12c92cdfa1741970f8d88cb16a03c7c317d492",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "packageName": "info.guardianproject.ripple",
+        "sig": "d47234c2500f43d3b273a1ee047497ed",
+        "signer": "927f7e38b6acbecd84e02dace33efa9a7a2f0979750f28f585688ee38b3a4e28",
+        "size": 2196585,
+        "targetSdkVersion": 27,
+        "versionCode": 139,
+        "versionName": "0.2.5"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "info.guardianproject.ripple_104.apk",
+        "hash": "c51da9a0ecf5960c9a08a4a77bc261e80b27e479f719ca641866b8a7422dcd47",
+        "hashType": "sha256",
+        "minSdkVersion": 10,
+        "packageName": "info.guardianproject.ripple",
+        "sig": "d47234c2500f43d3b273a1ee047497ed",
+        "signer": "927f7e38b6acbecd84e02dace33efa9a7a2f0979750f28f585688ee38b3a4e28",
+        "size": 1640290,
+        "targetSdkVersion": 23,
+        "versionCode": 104,
+        "versionName": "0.2.4"
+      }
+    ],
+    "info.staticfree.android.units": [
+      {
+        "added": 1329382844000,
+        "apkName": "info.staticfree.android.units_9.apk",
+        "hash": "348e8bf5c52cd2263994b2898f6cf85dd250601ff45377adcb278f74beee2021",
+        "hashType": "sha256",
+        "minSdkVersion": 4,
+        "packageName": "info.staticfree.android.units",
+        "sig": "0fd773176b59c23583515d2e2f191fda",
+        "signer": "e58c8307de2bd527f087c72cec5266854096a36618d26cfceb5b64e750a14b35",
+        "size": 234327,
+        "targetSdkVersion": 10,
+        "versionCode": 9,
+        "versionName": "1.0"
+      },
+      {
+        "added": 1308614100000,
+        "apkName": "info.staticfree.android.units_8.apk",
+        "hash": "07142a701327b1933926fc74b23e2ae6e3535cbf0bd3819789c27b8d55f86797",
+        "hashType": "sha256",
+        "minSdkVersion": 3,
+        "packageName": "info.staticfree.android.units",
+        "sig": "0fd773176b59c23583515d2e2f191fda",
+        "signer": "e58c8307de2bd527f087c72cec5266854096a36618d26cfceb5b64e750a14b35",
+        "size": 203250,
+        "targetSdkVersion": 4,
+        "versionCode": 8,
+        "versionName": "0.9"
+      }
+    ],
+    "name.boyle.chris.sgtpuzzles": [
+      {
+        "added": 315532800000,
+        "apkName": "name.boyle.chris.sgtpuzzles_120.apk",
+        "hash": "15a837e470eb8526927c206f5b513aedb2de245b510bd8ab754c0d37bfda077b",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "name.boyle.chris.sgtpuzzles",
+        "sig": "9acc9530d4ee77d1eb22f1c0e383314b",
+        "signer": "9e8a696693c6cd0873455f80d406f84dc15951fdb23e5f2499c596909c2fd44f",
+        "size": 5024501,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ]
+        ],
+        "versionCode": 120,
+        "versionName": "2019-03-26-0844-68363231"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "name.boyle.chris.sgtpuzzles_117.apk",
+        "hash": "60740860f692ecdc19030d7bded75258d230e42cb10305ac9bcd77220d549373",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "name.boyle.chris.sgtpuzzles",
+        "sig": "9acc9530d4ee77d1eb22f1c0e383314b",
+        "signer": "9e8a696693c6cd0873455f80d406f84dc15951fdb23e5f2499c596909c2fd44f",
+        "size": 5025962,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ]
+        ],
+        "versionCode": 117,
+        "versionName": "2018-10-27-1350-f281644b"
+      }
+    ],
+    "net.osmand.plus": [
+      {
+        "added": 315532800000,
+        "apkName": "net.osmand.plus_383.apk",
+        "hash": "16c2934dc77bbd3c5910a2586db8723309e5a211df6509f30af51fab5506165b",
+        "hashType": "sha256",
+        "minSdkVersion": 15,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "net.osmand.plus",
+        "sig": "62de1ed5da5b716973da89258848e7bc",
+        "signer": "38294eaac95c3bb5a994692cd7758f8bcdbffb40819af6e806eb7fe482324dcd",
+        "size": 95486218,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_STICKY",
+            18
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            18
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 383,
+        "versionName": "3.8.3"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "net.osmand.plus_374.apk",
+        "hash": "e124610d801778fd9f6e57d4ea0885f643bd96f7c20a81658444d739e833a7ef",
+        "hashType": "sha256",
+        "minSdkVersion": 15,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "net.osmand.plus",
+        "sig": "62de1ed5da5b716973da89258848e7bc",
+        "signer": "38294eaac95c3bb5a994692cd7758f8bcdbffb40819af6e806eb7fe482324dcd",
+        "size": 95761249,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_STICKY",
+            18
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            18
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 374,
+        "versionName": "3.7.4"
+      }
+    ],
+    "net.sourceforge.solitaire_cg": [
+      {
+        "added": 315532800000,
+        "apkName": "net.sourceforge.solitaire_cg_730.apk",
+        "hash": "079b208cf3904c5179e432e5f887981a7f28fab74500c8623e3b0c024d1b7792",
+        "hashType": "sha256",
+        "minSdkVersion": 4,
+        "packageName": "net.sourceforge.solitaire_cg",
+        "sig": "3a570ec5424f5adc281133b5f607f59e",
+        "signer": "2698bcbaef8cf9162406e4f49290989e2271648bc51dd6c5698ae60607e8271d",
+        "size": 574077,
+        "targetSdkVersion": 4,
+        "versionCode": 730,
+        "versionName": "3.3"
+      },
+      {
+        "added": 1518704146000,
+        "apkName": "net.sourceforge.solitaire_cg_711.apk",
+        "hash": "4a1a9436b641c417f7bb3fbb171d5ba92ad1ddddb47242b76d9e08236bb29335",
+        "hashType": "sha256",
+        "minSdkVersion": 4,
+        "packageName": "net.sourceforge.solitaire_cg",
+        "sig": "3a570ec5424f5adc281133b5f607f59e",
+        "signer": "2698bcbaef8cf9162406e4f49290989e2271648bc51dd6c5698ae60607e8271d",
+        "size": 639032,
+        "versionCode": 711,
+        "versionName": "3.2.1"
+      }
+    ],
+    "org.atai.TessUI": [
+      {
+        "added": 1536588864000,
+        "apkName": "org.atai.TessUI_16.apk",
+        "hash": "dc730417a787e68360c722ee8d8859a92eb6b958f119db6e24f17f17c5733bdd",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.atai.TessUI",
+        "sig": "d70dcae51ca8f2e03c847823f0d4b50c",
+        "signer": "cd2fa1cdc88e6a8ec1b9eb3325f8960bf34a6e57d4c93bb09f1f37a989d18df2",
+        "size": 11495242,
+        "targetSdkVersion": 19,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 16,
+        "versionName": "0.3.10"
+      },
+      {
+        "added": 1405064514000,
+        "apkName": "org.atai.TessUI_13.apk",
+        "hash": "47eac4caef8c123a3365fd01030885ca16b898d1bd57428c6a3fb190765e0af7",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "nativecode": [
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "x86"
+        ],
+        "packageName": "org.atai.TessUI",
+        "sig": "d70dcae51ca8f2e03c847823f0d4b50c",
+        "signer": "cd2fa1cdc88e6a8ec1b9eb3325f8960bf34a6e57d4c93bb09f1f37a989d18df2",
+        "size": 7993832,
+        "targetSdkVersion": 16,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 13,
+        "versionName": "0.3.7"
+      }
+    ],
+    "org.briarproject.briar.android": [
+      {
+        "added": 1604497048000,
+        "apkName": "org.briarproject.briar.android_10212.apk",
+        "hash": "1dd34a6a0f2edb3a3372604074668e63732df33dd024e8693d5c07ec48b30c4a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.briarproject.briar.android",
+        "sig": "c47c736234483df29c95f62bc7bf0333",
+        "signer": "501ddf14a6ecf904fb20285c56a565cb987a867f91572ee33c2d43771cca4e37",
+        "size": 32012100,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 10212,
+        "versionName": "1.2.12"
+      },
+      {
+        "added": 1604499027000,
+        "apkName": "org.briarproject.briar.android_10212_c47c736.apk",
+        "hash": "1dd34a6a0f2edb3a3372604074668e63732df33dd024e8693d5c07ec48b30c4a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.briarproject.briar.android",
+        "sig": "c47c736234483df29c95f62bc7bf0333",
+        "signer": "501ddf14a6ecf904fb20285c56a565cb987a867f91572ee33c2d43771cca4e37",
+        "size": 32012100,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 10212,
+        "versionName": "1.2.12"
+      }
+    ],
+    "org.disrupted.rumble": [
+      {
+        "added": 1473346096000,
+        "apkName": "org.disrupted.rumble_16.apk",
+        "features": [
+          "android.hardware.screen.landscape",
+          "android.hardware.touchscreen"
+        ],
+        "hash": "db6f4e5d797c95f6cf111f22c4ae17f07aa65cc2eececc7a7ad18f8cc473343e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "org.disrupted.rumble",
+        "sig": "f2f99ae555a5d123b22dee10512f3efd",
+        "signer": "f1bb37e9ce65e9948e593ba580d3b96f683f0194575aa708795522c4d2530b19",
+        "size": 2831152,
+        "targetSdkVersion": 24,
+        "uses-permission": [
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ]
+        ],
+        "versionCode": 16,
+        "versionName": "1.0.2"
+      },
+      {
+        "added": 1472118678000,
+        "apkName": "org.disrupted.rumble_15.apk",
+        "features": [
+          "android.hardware.screen.landscape",
+          "android.hardware.touchscreen"
+        ],
+        "hash": "5f317ef2b3eb534294e154371b0c755a5bbc33f092b4d688176ff0285fb4afa9",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "org.disrupted.rumble",
+        "sig": "f2f99ae555a5d123b22dee10512f3efd",
+        "signer": "f1bb37e9ce65e9948e593ba580d3b96f683f0194575aa708795522c4d2530b19",
+        "size": 2870069,
+        "targetSdkVersion": 24,
+        "uses-permission": [
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ]
+        ],
+        "versionCode": 15,
+        "versionName": "1.0.2"
+      }
+    ],
+    "org.documentfoundation.libreoffice": [
+      {
+        "added": 315532800000,
+        "apkName": "org.documentfoundation.libreoffice_15.apk",
+        "hash": "c74c615f8911e6b3d1255d168b0a21fbf800449e3d56d6e03bb5824c684ee91c",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "org.documentfoundation.libreoffice",
+        "sig": "c93156ef0cc80111956d3ef71ab0692b",
+        "signer": "af71ba344cab259fa625f079ff520f511d17a372bb2e8fa27532791bd5fea8cb",
+        "size": 60145572,
+        "targetSdkVersion": 24,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 15,
+        "versionName": "6.1.0.0.alpha0+/484d0ea842da"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "org.documentfoundation.libreoffice_14.apk",
+        "hash": "315721f1bdc1f9f8132e133df12e6533ed3a6db2725a6975255e95d07b98278f",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "x86"
+        ],
+        "packageName": "org.documentfoundation.libreoffice",
+        "sig": "c93156ef0cc80111956d3ef71ab0692b",
+        "signer": "af71ba344cab259fa625f079ff520f511d17a372bb2e8fa27532791bd5fea8cb",
+        "size": 69342540,
+        "targetSdkVersion": 24,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 14,
+        "versionName": "6.1.0.0.alpha0+/484d0ea842da"
+      }
+    ],
+    "org.eehouse.android.xw4": [
+      {
+        "added": 315532800000,
+        "apkName": "org.eehouse.android.xw4_165.apk",
+        "hash": "c3fde6956064c8240ec1b88985bda8bbe0c508386d2dee59cd0f90b419a435e5",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "org.eehouse.android.xw4",
+        "sig": "c4300d12a421ee0f0baf183a97c918fe",
+        "signer": "c1b74f6608af4133ac514710a60b97bb731702abf72b8f82ffe90bab9c171a63",
+        "size": 3422825,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_SMS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 165,
+        "versionName": "4.4.169"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "org.eehouse.android.xw4_164.apk",
+        "hash": "def36540a8d5c180163be9840e9e3142b4b795475fce594300c23b960fa14218",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "org.eehouse.android.xw4",
+        "sig": "c4300d12a421ee0f0baf183a97c918fe",
+        "signer": "c1b74f6608af4133ac514710a60b97bb731702abf72b8f82ffe90bab9c171a63",
+        "size": 3402597,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_SMS",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 164,
+        "versionName": "4.4.168"
+      }
+    ],
+    "org.havenapp.main": [
+      {
+        "added": 1604497031000,
+        "apkName": "org.havenapp.main_2001.apk",
+        "hash": "70273f262b8490dd1fa7147501e911e72ef02c0d89259cb459c2347aabfbfa1d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "org.havenapp.main",
+        "sig": "d70ac6a02b53ebdd1354ea7af7b9ceee",
+        "signer": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a",
+        "size": 15881868,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 2001,
+        "versionName": "0.2.0-RC-1"
+      },
+      {
+        "added": 1604499033000,
+        "apkName": "org.havenapp.main_2001_d70ac6a.apk",
+        "hash": "70273f262b8490dd1fa7147501e911e72ef02c0d89259cb459c2347aabfbfa1d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "org.havenapp.main",
+        "sig": "d70ac6a02b53ebdd1354ea7af7b9ceee",
+        "signer": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a",
+        "size": 15881868,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 2001,
+        "versionName": "0.2.0-RC-1"
+      }
+    ],
+    "org.ligi.survivalmanual": [
+      {
+        "added": 315532800000,
+        "apkName": "org.ligi.survivalmanual_426.apk",
+        "hash": "40fff370b82abac60924b4245659ccf38c38c16401d46bcb0b5f33abbb0dee29",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "packageName": "org.ligi.survivalmanual",
+        "sig": "f7604945ef3f796c79d6b38c1d765a34",
+        "signer": "a8e05cfbc343d0335477e4c85b1f0324538668626a20b4dc348fcf0d4cd5728b",
+        "size": 6238971,
+        "targetSdkVersion": 29,
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 426,
+        "versionName": "4.2.6"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "org.ligi.survivalmanual_425.apk",
+        "hash": "1e8c9eb28ac3c95bd3060a1fca447400c0603cdd884566cd7f393f0b3ce07670",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "packageName": "org.ligi.survivalmanual",
+        "sig": "f7604945ef3f796c79d6b38c1d765a34",
+        "signer": "a8e05cfbc343d0335477e4c85b1f0324538668626a20b4dc348fcf0d4cd5728b",
+        "size": 6239175,
+        "targetSdkVersion": 29,
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 425,
+        "versionName": "4.2.5"
+      }
+    ],
+    "org.openmrs.mobile": [
+      {
+        "added": 1601970008000,
+        "apkName": "org.openmrs.mobile_2673.apk",
+        "hash": "a72e4dcd63397e84fcbe7c20931b10b7a5521bb22e253c392cfd827fb267c79a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.openmrs.mobile",
+        "sig": "2db1f5ce5cbc9dc56542c881b4e840af",
+        "signer": "a1fb3907d51f7c7307d1865140af481210ca0157a9cfd15f5c0595ab0caf035d",
+        "size": 13364118,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 2673,
+        "versionName": "v2.8.4.2673"
+      },
+      {
+        "added": 1601970005000,
+        "apkName": "org.openmrs.mobile_1988.apk",
+        "hash": "cce6e06192f5c205492848684f4990ee3d56c1faaa7a8ad6cf8b38aefb37a544",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.openmrs.mobile",
+        "sig": "2db1f5ce5cbc9dc56542c881b4e840af",
+        "signer": "a1fb3907d51f7c7307d1865140af481210ca0157a9cfd15f5c0595ab0caf035d",
+        "size": 12535092,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1988,
+        "versionName": "v2.8.1988"
+      }
+    ],
+    "org.paladyn.mediclog": [
+      {
+        "added": 315532800000,
+        "apkName": "org.paladyn.mediclog_12.apk",
+        "hash": "82c8cc45f1606e5e77dfb152dd822c448596e8d91507aa862f55779f02a3c7b6",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "packageName": "org.paladyn.mediclog",
+        "sig": "e3452728c78c618b2a00fc2d1ed8baba",
+        "signer": "a7f7f3730727bee58d84b09ae54bcdf9cf1828ef557235a5a8a04da9656068ab",
+        "size": 52721,
+        "targetSdkVersion": 23,
+        "versionCode": 12,
+        "versionName": "0.2.8"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "org.paladyn.mediclog_11.apk",
+        "hash": "42fe7c162d7dbc4e94c23f895f0bf637eb4ad67cad5fc4440488685908601025",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "packageName": "org.paladyn.mediclog",
+        "sig": "e3452728c78c618b2a00fc2d1ed8baba",
+        "signer": "a7f7f3730727bee58d84b09ae54bcdf9cf1828ef557235a5a8a04da9656068ab",
+        "size": 55752,
+        "targetSdkVersion": 23,
+        "versionCode": 11,
+        "versionName": "0.2.7"
+      }
+    ],
+    "org.shadowice.flocke.andotp": [
+      {
+        "added": 347158862000,
+        "apkName": "org.shadowice.flocke.andotp_35.apk",
+        "hash": "81db07b4657d277b640f80f70a7cbd04fb36f4e977d96165c5448f85f7303e70",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "packageName": "org.shadowice.flocke.andotp",
+        "sig": "06d3eef50cc0ebb4c47a5c02038a5e47",
+        "signer": "987ccce4a1fa8ab28cd6ea1bedf129cbb31b8db24ee434fd6e3619adc924a122",
+        "size": 6696200,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ]
+        ],
+        "versionCode": 35,
+        "versionName": "0.8.0"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "org.shadowice.flocke.andotp_34.apk",
+        "hash": "7c10c8981bd9eb2aef847286c6b6be8c3a4d48c92a69a97c36f55b073519aa17",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "packageName": "org.shadowice.flocke.andotp",
+        "sig": "06d3eef50cc0ebb4c47a5c02038a5e47",
+        "signer": "987ccce4a1fa8ab28cd6ea1bedf129cbb31b8db24ee434fd6e3619adc924a122",
+        "size": 6613371,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ]
+        ],
+        "versionCode": 34,
+        "versionName": "0.8.0-beta2"
+      }
+    ],
+    "org.sufficientlysecure.viewer": [
+      {
+        "added": 315532800000,
+        "apkName": "org.sufficientlysecure.viewer_2827.apk",
+        "hash": "db70dff8c43ab37a1a3eb2478f4ee0d2fbd5ed62330a098eb2bd3ba90d07a5e7",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "mips64"
+        ],
+        "packageName": "org.sufficientlysecure.viewer",
+        "sig": "a5ddeed2036dbf12baaf7170c97f10ae",
+        "signer": "2fddba860ca52e0aa10bae4001f107fa2e0c99832425e6a3c2ab4114d1e266b0",
+        "size": 9365333,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 2827,
+        "versionName": "2.8.2"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "org.sufficientlysecure.viewer_2824.apk",
+        "hash": "63a7112c43b4376f6da36f9852f2a51d63438ba57fbf2dc9ecbc6f33f166a62f",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "mips"
+        ],
+        "packageName": "org.sufficientlysecure.viewer",
+        "sig": "a5ddeed2036dbf12baaf7170c97f10ae",
+        "signer": "2fddba860ca52e0aa10bae4001f107fa2e0c99832425e6a3c2ab4114d1e266b0",
+        "size": 9398255,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 2824,
+        "versionName": "2.8.2"
+      }
+    ],
+    "org.sufficientlysecure.viewer.fontpack": [
+      {
+        "added": 1424987570000,
+        "apkName": "org.sufficientlysecure.viewer.fontpack_2300.apk",
+        "hash": "67ca7bd92632072311f78592d7b3126cc0687bdd140eefd77045abd145f38c51",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "packageName": "org.sufficientlysecure.viewer.fontpack",
+        "sig": "03e874371e1762829f6b0671a74aea39",
+        "signer": "acb45f45f14a27e9442d66a47e7bf9d4b90b7d8646c375f208c75fb31f947457",
+        "size": 12098904,
+        "targetSdkVersion": 19,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 2300,
+        "versionName": "2.3"
+      },
+      {
+        "added": 1388123898000,
+        "apkName": "org.sufficientlysecure.viewer.fontpack_2200.apk",
+        "hash": "3558a5eb03f3cde976b497baf38d45d4118a99121e5d9b39d1f2a175c87bcfd1",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "packageName": "org.sufficientlysecure.viewer.fontpack",
+        "sig": "03e874371e1762829f6b0671a74aea39",
+        "signer": "acb45f45f14a27e9442d66a47e7bf9d4b90b7d8646c375f208c75fb31f947457",
+        "size": 6874337,
+        "targetSdkVersion": 19,
+        "uses-permission": [
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 2200,
+        "versionName": "2.2"
+      }
+    ],
+    "org.witness.sscphase1": [
+      {
+        "added": 315532800000,
+        "apkName": "org.witness.sscphase1_4011.apk",
+        "hash": "d13d82d102480787bb5c0a916947abda65c291a42e5c546646bb400330571ea6",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.witness.sscphase1",
+        "sig": "da13fd9fe510342769a35cbea4d53a2c",
+        "signer": "79fc008c7f9b8c6b5b1b43f0d09853d440b49205e5cc622909ca91063fdeb278",
+        "size": 24601747,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_MEDIA_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            18
+          ]
+        ],
+        "versionCode": 4011,
+        "versionName": "4.0.1-alpha-1"
+      }
+    ],
+    "org.y20k.trackbook": [
+      {
+        "added": 347158862000,
+        "apkName": "org.y20k.trackbook_46.apk",
+        "features": [
+          "android.hardware.location.gps",
+          "android.hardware.location.network"
+        ],
+        "hash": "16778a20208b571486a39d872e2dc2cf4f71d28a2ef3878572557e0784487ae4",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "packageName": "org.y20k.trackbook",
+        "sig": "b487edcdfd7ed77981fdcd506a414548",
+        "signer": "ee00b55e7f1562a5ae52574a755c094a88786fecee1eb1da99634d569a4e6f54",
+        "size": 1784704,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 46,
+        "versionName": "2.0.9"
+      },
+      {
+        "added": 1604497090000,
+        "apkName": "org.y20k.trackbook_45.apk",
+        "features": [
+          "android.hardware.location.gps",
+          "android.hardware.location.network"
+        ],
+        "hash": "af27e17eaf0a9890b9c49af1ceb1e787562213b04eba9d18c74e0356d91a2ea6",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "packageName": "org.y20k.trackbook",
+        "sig": "b487edcdfd7ed77981fdcd506a414548",
+        "signer": "ee00b55e7f1562a5ae52574a755c094a88786fecee1eb1da99634d569a4e6f54",
+        "size": 1878789,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 45,
+        "versionName": "2.0.8"
+      }
+    ],
+    "protect.babysleepsounds": [
+      {
+        "added": 315532800000,
+        "apkName": "protect.babysleepsounds_15.apk",
+        "hash": "c5879e5de0add4665368b532a056d92336b7a270b65ef022d112ef731b1d7408",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "protect.babysleepsounds",
+        "sig": "045496dfe23f69a10ad56d2e043ec58b",
+        "signer": "5c1071989fb2b2fde536e5ac6072cfc59a035fe4625b800f566ce30729a30102",
+        "size": 39976272,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 15,
+        "versionName": "0.11"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "protect.babysleepsounds_14.apk",
+        "hash": "0d0007d2d7ab79feeb54f84bca9ffb1763b0da62dd7052cde0a7b9ba815c1f2a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "armeabi",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "protect.babysleepsounds",
+        "sig": "045496dfe23f69a10ad56d2e043ec58b",
+        "signer": "5c1071989fb2b2fde536e5ac6072cfc59a035fe4625b800f566ce30729a30102",
+        "size": 22182781,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 14,
+        "versionName": "0.10"
+      }
+    ],
+    "ru.neverdark.silentnight": [
+      {
+        "added": 1398498806000,
+        "apkName": "ru.neverdark.silentnight_8.apk",
+        "hash": "7bdc18fccf2f61653a8c9948ff00d722476f295242df462c697d3cb8fcc74b03",
+        "hashType": "sha256",
+        "minSdkVersion": 11,
+        "packageName": "ru.neverdark.silentnight",
+        "sig": "6025e02acfadd031b8594aabc51313af",
+        "signer": "9022df4844adefbc7d64af6fbec4e08ed2c95aa8636587a178bdc9445e582246",
+        "size": 59511,
+        "targetSdkVersion": 18,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SUPERUSER",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "0.3"
+      },
+      {
+        "added": 1392711142000,
+        "apkName": "ru.neverdark.silentnight_7.apk",
+        "hash": "8537a1c7841b12caa18340d4d9e4fad8a2eae2c5dfc62ef1cea78731e98adeb2",
+        "hashType": "sha256",
+        "minSdkVersion": 11,
+        "packageName": "ru.neverdark.silentnight",
+        "sig": "6025e02acfadd031b8594aabc51313af",
+        "signer": "9022df4844adefbc7d64af6fbec4e08ed2c95aa8636587a178bdc9445e582246",
+        "size": 58698,
+        "targetSdkVersion": 18,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SUPERUSER",
+            null
+          ]
+        ],
+        "versionCode": 7,
+        "versionName": "0.2"
+      }
+    ],
+    "se.manyver": [
+      {
+        "added": 315532800000,
+        "apkName": "se.manyver_92.apk",
+        "hash": "3d4016d7c34660527f298d05b94136ccf8baafd2dc475ede78440406360410ea",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "se.manyver",
+        "sig": "b6d66a5f333f2635662be0dd430f80b2",
+        "signer": "df7acab2c2a0cab543b0ed37a2d30f553ee3430ec20d486168ed91b62cd44ab2",
+        "size": 44757478,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "com.android.vending.CHECK_LICENSE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 92,
+        "versionName": "0.2010.5-beta-fdroid"
+      },
+      {
+        "added": 315532800000,
+        "apkName": "se.manyver_87.apk",
+        "hash": "0cd53a6635555fc6207992a41ed965933f3cb4e06b325032b8908643abbbf5f6",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "se.manyver",
+        "sig": "b6d66a5f333f2635662be0dd430f80b2",
+        "signer": "df7acab2c2a0cab543b0ed37a2d30f553ee3430ec20d486168ed91b62cd44ab2",
+        "size": 44623919,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 87,
+        "versionName": "0.2006.5-beta-fdroid"
+      }
+    ],
+    "uscartools.USTravelConverter": [
+      {
+        "added": 315532800000,
+        "apkName": "uscartools.USTravelConverter_3.apk",
+        "hash": "0c28d471a1ee273a03f761e373e98250f60e37a99c2ccadfef5036ececce6516",
+        "hashType": "sha256",
+        "minSdkVersion": 15,
+        "packageName": "uscartools.USTravelConverter",
+        "sig": "bb4d67e1efc77c82d16310a98b2e8854",
+        "signer": "00a30e5824d4f089ef3ad5f39e30577bf9e81eedbabfef977ab75a07a4a18794",
+        "size": 3121266,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "1.0"
+      }
+    ]
+  }
+}
