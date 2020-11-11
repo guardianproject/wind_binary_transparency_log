@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Wind Offline" pubkey="308204e7308202cfa0030201020204644b9f99300d06092a864886f70d01010b050030243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e65301e170d3230313030363037323931335a170d3438303232323037323931335a30243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e6530820222300d06092a864886f70d01010105000382020f003082020a0282020100870a38cdb32a53cea16cf2d7ce6a8430a208e250ab8bb52075218d545b38057ddddd7855c204fa9ba73ec31b6546b98ef6b178b7581be411facff1de28d66b6e2d3397a3e4bfe3a8a4671a45c39ff1c6329b240f3b2b9bd0b6f5d962a52b4498bf211efb3a2fb509ea88f6bd12390bba9a13ed9cff88a44cff115141394da5945bdea257a24c788a7866bde6eef7f55db45d021c5f31c5fd98f7daec8d6d02da80da2dfd053fe1191cf852bf6ec981bfcc8b0bd420d2e0bea8c736db7b2e7250c207f6267cb702a3d276c2848118c875e85a2914a076c333f7d510b6dfa72e8d36bb10c17cb68cd8e5e1e80662e18d323bcb0bd26659d7069f3810e7f559d436641accaf7f0e01cca64b192e98932df8e2c7cba22bb170564d16ccc99beb4c1eae0e75e62cdf3244ad942553da708e2c73f93f59b137de888fa755da50e7b30af7d8560ad68ae154a126f60e711bdd3bda21c3917859fdd9f0e12e3e046e4d1b98ea9a6e7e95acbd686f12d9baa9cf08bb6eb24f61683044f039c388c94a6c227bd26436ca1ead608a5525f77e1f6c60f326f65d3665954dc1548d45118a4815f899497f9e992412fb7d9b9592da63db0195d693eacdb715a11ef2ab8a3525cb45a0647ab91c5ad09b17478e1e6bea51a1d8f98b4a9db802715341d5d00e0d9a4281be43d6e798806dd613ebbe44b6cb0ff5858f40816b3d2876a812d648a7bf0203010001a321301f301d0603551d0e04160414c99f32d2051f7b6db612aa694a0534b02247f0c9300d06092a864886f70d01010b0500038202010062dda92e505ae79d41fffa0495b55a13fa4b0a47e3982009414ae7ac124d600f1576c57a448c7512db39975a72e5358d1e548f5313c11567f55cc44b949e27272615638093b2c32abed536d8172f0eee9eca0a2039c899e3734dc61f93cca0b33dce740a4090589c91b572af8da45c38644a54baae699745c7da6d4b60b5e94343721478387806c97cd9a0c1e41d4e8ec7eb55df2cec076cc3b9c5ac8feb390448fe513832ecd540653517e0710e95c3c4785520729fbf48a3f47e4d29fa32cddb6540b6a9fa786d9e95ce41385c3832549ceed4628f7ccd68af07806f2f4964e0ed5599e1fdedae40b1fa75b70233fd87102c07e624003da4aeb6751ab535d3482f05756b7f85ccfe475f9be99d3585669c4bf4c521cf045574f6e766f78e145d49449b71f6ad066a62ca1bd512e870af5082d495be5d2e53af4dcad92c206f7737226041505e045337f84d7dafa729a28df8e429ab94cc6abe108fa5ba4897743ffb5e30a58c253fb362fe4952d6b92167aad23e8f785920ce390399f0dafc602891edff6d1bd286fe4dd4946f9db7ba46c4a1afef9659431d88c43b9d770cf36acd1fec74705cdbfc9737f6ea22e1f3b0bffc4d259b16e9678524c1d4a66c76980f21372680c559b2ce26e85f57fd11a3d4e13a7555360e93f2ffda8058703423187c4ea3b51c64b8c38e787cf4179dbcfdc3ae0151bcf15ff225fb1a39e0" timestamp="1605127145" url="https://guardianproject-wind.s3.amazonaws.com/fdroid/repo" version="21">
+	<repo icon="icon.png" name="Wind Offline" pubkey="308204e7308202cfa0030201020204644b9f99300d06092a864886f70d01010b050030243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e65301e170d3230313030363037323931335a170d3438303232323037323931335a30243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e6530820222300d06092a864886f70d01010105000382020f003082020a0282020100870a38cdb32a53cea16cf2d7ce6a8430a208e250ab8bb52075218d545b38057ddddd7855c204fa9ba73ec31b6546b98ef6b178b7581be411facff1de28d66b6e2d3397a3e4bfe3a8a4671a45c39ff1c6329b240f3b2b9bd0b6f5d962a52b4498bf211efb3a2fb509ea88f6bd12390bba9a13ed9cff88a44cff115141394da5945bdea257a24c788a7866bde6eef7f55db45d021c5f31c5fd98f7daec8d6d02da80da2dfd053fe1191cf852bf6ec981bfcc8b0bd420d2e0bea8c736db7b2e7250c207f6267cb702a3d276c2848118c875e85a2914a076c333f7d510b6dfa72e8d36bb10c17cb68cd8e5e1e80662e18d323bcb0bd26659d7069f3810e7f559d436641accaf7f0e01cca64b192e98932df8e2c7cba22bb170564d16ccc99beb4c1eae0e75e62cdf3244ad942553da708e2c73f93f59b137de888fa755da50e7b30af7d8560ad68ae154a126f60e711bdd3bda21c3917859fdd9f0e12e3e046e4d1b98ea9a6e7e95acbd686f12d9baa9cf08bb6eb24f61683044f039c388c94a6c227bd26436ca1ead608a5525f77e1f6c60f326f65d3665954dc1548d45118a4815f899497f9e992412fb7d9b9592da63db0195d693eacdb715a11ef2ab8a3525cb45a0647ab91c5ad09b17478e1e6bea51a1d8f98b4a9db802715341d5d00e0d9a4281be43d6e798806dd613ebbe44b6cb0ff5858f40816b3d2876a812d648a7bf0203010001a321301f301d0603551d0e04160414c99f32d2051f7b6db612aa694a0534b02247f0c9300d06092a864886f70d01010b0500038202010062dda92e505ae79d41fffa0495b55a13fa4b0a47e3982009414ae7ac124d600f1576c57a448c7512db39975a72e5358d1e548f5313c11567f55cc44b949e27272615638093b2c32abed536d8172f0eee9eca0a2039c899e3734dc61f93cca0b33dce740a4090589c91b572af8da45c38644a54baae699745c7da6d4b60b5e94343721478387806c97cd9a0c1e41d4e8ec7eb55df2cec076cc3b9c5ac8feb390448fe513832ecd540653517e0710e95c3c4785520729fbf48a3f47e4d29fa32cddb6540b6a9fa786d9e95ce41385c3832549ceed4628f7ccd68af07806f2f4964e0ed5599e1fdedae40b1fa75b70233fd87102c07e624003da4aeb6751ab535d3482f05756b7f85ccfe475f9be99d3585669c4bf4c521cf045574f6e766f78e145d49449b71f6ad066a62ca1bd512e870af5082d495be5d2e53af4dcad92c206f7737226041505e045337f84d7dafa729a28df8e429ab94cc6abe108fa5ba4897743ffb5e30a58c253fb362fe4952d6b92167aad23e8f785920ce390399f0dafc602891edff6d1bd286fe4dd4946f9db7ba46c4a1afef9659431d88c43b9d770cf36acd1fec74705cdbfc9737f6ea22e1f3b0bffc4d259b16e9678524c1d4a66c76980f21372680c559b2ce26e85f57fd11a3d4e13a7555360e93f2ffda8058703423187c4ea3b51c64b8c38e787cf4179dbcfdc3ae0151bcf15ff225fb1a39e0" timestamp="1605127364" url="https://guardianproject-wind.s3.amazonaws.com/fdroid/repo" version="21">
 		<description>This is a collection of apps that work offline or with limited internet. </description>
 		<mirror>https://guardianproject-wind.s3.amazonaws.com/fdroid/repo</mirror>
 	</repo>
 	<application id="anupam.acrylic">
 		<id>anupam.acrylic</id>
-		<added>2016-10-11</added>
+		<added>2017-09-11</added>
 		<lastupdated>2019-04-20</lastupdated>
 		<name>Acrylic Paint</name>
 		<summary/>
@@ -45,7 +45,7 @@
 	</application>
 	<application id="org.shadowice.flocke.andotp">
 		<id>org.shadowice.flocke.andotp</id>
-		<added>2020-03-08</added>
+		<added>2020-09-30</added>
 		<lastupdated>2020-10-30</lastupdated>
 		<name>andOTP</name>
 		<summary/>
@@ -84,7 +84,7 @@
 	</application>
 	<application id="protect.babysleepsounds">
 		<id>protect.babysleepsounds</id>
-		<added>2018-01-02</added>
+		<added>2018-02-06</added>
 		<lastupdated>2018-06-02</lastupdated>
 		<name>Baby Sleep Sounds</name>
 		<summary/>
@@ -124,7 +124,7 @@
 	</application>
 	<application id="com.google.zxing.client.android">
 		<id>com.google.zxing.client.android</id>
-		<added>2015-02-16</added>
+		<added>2017-11-14</added>
 		<lastupdated>2018-09-20</lastupdated>
 		<name>Barcode Scanner</name>
 		<summary/>
@@ -165,7 +165,7 @@
 	</application>
 	<application id="de.markusfisch.android.binaryeye">
 		<id>de.markusfisch.android.binaryeye</id>
-		<added>2020-07-07</added>
+		<added>2020-07-29</added>
 		<lastupdated>2020-08-10</lastupdated>
 		<name>Binary Eye</name>
 		<summary/>
@@ -286,7 +286,7 @@
 	</application>
 	<application id="org.atai.TessUI">
 		<id>org.atai.TessUI</id>
-		<added>2014-05-26</added>
+		<added>2014-07-11</added>
 		<lastupdated>2018-09-11</lastupdated>
 		<name>Character Recognition</name>
 		<summary/>
@@ -327,7 +327,7 @@
 	</application>
 	<application id="info.guardianproject.checkey">
 		<id>info.guardianproject.checkey</id>
-		<added>2014-07-12</added>
+		<added>2015-01-28</added>
 		<lastupdated>2015-03-09</lastupdated>
 		<name>Checkey</name>
 		<summary/>
@@ -366,7 +366,7 @@
 	</application>
 	<application id="com.sgr_b2.compass">
 		<id>com.sgr_b2.compass</id>
-		<added>2014-03-16</added>
+		<added>2014-07-29</added>
 		<lastupdated>2014-10-31</lastupdated>
 		<name>Community compass</name>
 		<summary/>
@@ -407,7 +407,7 @@
 	</application>
 	<application id="org.eehouse.android.xw4">
 		<id>org.eehouse.android.xw4</id>
-		<added>2020-09-07</added>
+		<added>2020-10-03</added>
 		<lastupdated>2020-10-15</lastupdated>
 		<name>CrossWords</name>
 		<summary/>
@@ -448,7 +448,7 @@
 	</application>
 	<application id="org.sufficientlysecure.viewer">
 		<id>org.sufficientlysecure.viewer</id>
-		<added>2017-11-28</added>
+		<added>2020-08-04</added>
 		<lastupdated>2020-08-08</lastupdated>
 		<name>Document Viewer</name>
 		<summary/>
@@ -489,7 +489,7 @@
 	</application>
 	<application id="org.sufficientlysecure.viewer.fontpack">
 		<id>org.sufficientlysecure.viewer.fontpack</id>
-		<added>2013-08-15</added>
+		<added>2013-12-27</added>
 		<lastupdated>2015-02-27</lastupdated>
 		<name>DV FontPack</name>
 		<summary/>
@@ -528,7 +528,7 @@
 	</application>
 	<application id="com.simplemobiletools.flashlight">
 		<id>com.simplemobiletools.flashlight</id>
-		<added>2020-03-30</added>
+		<added>2020-06-02</added>
 		<lastupdated>2020-08-22</lastupdated>
 		<name>Flashlight</name>
 		<summary/>
@@ -571,7 +571,7 @@
 	</application>
 	<application id="de.saschahlusiak.freebloks">
 		<id>de.saschahlusiak.freebloks</id>
-		<added>2017-01-29</added>
+		<added>2020-09-13</added>
 		<lastupdated>2020-10-10</lastupdated>
 		<name>Freebloks</name>
 		<summary/>
@@ -616,8 +616,8 @@
 	</application>
 	<application id="org.havenapp.main">
 		<id>org.havenapp.main</id>
-		<added>2019-02-28</added>
-		<lastupdated>2020-11-11</lastupdated>
+		<added>2019-04-17</added>
+		<lastupdated>2019-12-07</lastupdated>
 		<name>Haven</name>
 		<summary/>
 		<icon>org.havenapp.main.2001.png</icon>
@@ -657,7 +657,7 @@
 	</application>
 	<application id="org.documentfoundation.libreoffice">
 		<id>org.documentfoundation.libreoffice</id>
-		<added>2016-10-27</added>
+		<added>2018-07-02</added>
 		<lastupdated>2018-07-02</lastupdated>
 		<name>LibreOffice Viewer</name>
 		<summary/>
@@ -698,7 +698,7 @@
 	</application>
 	<application id="se.manyver">
 		<id>se.manyver</id>
-		<added>2020-04-06</added>
+		<added>2020-06-15</added>
 		<lastupdated>2020-10-10</lastupdated>
 		<name>Manyverse</name>
 		<summary/>
@@ -739,7 +739,7 @@
 	</application>
 	<application id="com.github.axet.maps">
 		<id>com.github.axet.maps</id>
-		<added>2019-08-11</added>
+		<added>2019-08-26</added>
 		<lastupdated>2020-08-21</lastupdated>
 		<name>Maps</name>
 		<summary/>
@@ -782,7 +782,7 @@
 	</application>
 	<application id="org.paladyn.mediclog">
 		<id>org.paladyn.mediclog</id>
-		<added>2019-12-04</added>
+		<added>2020-01-10</added>
 		<lastupdated>2020-07-12</lastupdated>
 		<name>Medic Log</name>
 		<summary/>
@@ -821,7 +821,7 @@
 	</application>
 	<application id="com.zell_mbc.medilog">
 		<id>com.zell_mbc.medilog</id>
-		<added>2020-09-08</added>
+		<added>2020-10-25</added>
 		<lastupdated>2020-10-31</lastupdated>
 		<name>MediLog</name>
 		<summary/>
@@ -862,7 +862,7 @@
 	</application>
 	<application id="com.mitzuli">
 		<id>com.mitzuli</id>
-		<added>2015-06-21</added>
+		<added>2016-01-05</added>
 		<lastupdated>2016-04-09</lastupdated>
 		<name>Mitzuli</name>
 		<summary/>
@@ -903,7 +903,7 @@
 	</application>
 	<application id="com.github.ashutoshgngwr.noice">
 		<id>com.github.ashutoshgngwr.noice</id>
-		<added>2020-09-13</added>
+		<added>2020-10-02</added>
 		<lastupdated>2020-10-20</lastupdated>
 		<name>Noice</name>
 		<summary/>
@@ -1028,7 +1028,7 @@
 	</application>
 	<application id="com.todobom.opennotescanner">
 		<id>com.todobom.opennotescanner</id>
-		<added>2019-07-31</added>
+		<added>2019-08-06</added>
 		<lastupdated>2020-07-25</lastupdated>
 		<name>Open Note Scanner</name>
 		<summary/>
@@ -1108,7 +1108,7 @@
 	</application>
 	<application id="net.osmand.plus">
 		<id>net.osmand.plus</id>
-		<added>2020-06-08</added>
+		<added>2020-06-15</added>
 		<lastupdated>2020-10-03</lastupdated>
 		<name>OsmAnd~</name>
 		<summary/>
@@ -1153,7 +1153,7 @@
 	</application>
 	<application id="info.guardianproject.pixelknot">
 		<id>info.guardianproject.pixelknot</id>
-		<added>2013-07-22</added>
+		<added>2016-11-20</added>
 		<lastupdated>2017-02-18</lastupdated>
 		<name>PixelKnot</name>
 		<summary/>
@@ -1198,7 +1198,7 @@
 	</application>
 	<application id="com.junjunguo.pocketmaps">
 		<id>com.junjunguo.pocketmaps</id>
-		<added>2020-01-07</added>
+		<added>2020-02-29</added>
 		<lastupdated>2020-10-12</lastupdated>
 		<name>PocketMaps</name>
 		<summary/>
@@ -1241,7 +1241,7 @@
 	</application>
 	<application id="name.boyle.chris.sgtpuzzles">
 		<id>name.boyle.chris.sgtpuzzles</id>
-		<added>2016-12-26</added>
+		<added>2019-01-13</added>
 		<lastupdated>2019-06-19</lastupdated>
 		<name>Puzzles</name>
 		<summary/>
@@ -1284,7 +1284,7 @@
 	</application>
 	<application id="info.guardianproject.ripple">
 		<id>info.guardianproject.ripple</id>
-		<added>2017-12-07</added>
+		<added>2019-01-14</added>
 		<lastupdated>2019-09-25</lastupdated>
 		<name>Ripple</name>
 		<summary/>
@@ -1364,7 +1364,7 @@
 	</application>
 	<application id="ru.neverdark.silentnight">
 		<id>ru.neverdark.silentnight</id>
-		<added>2013-12-11</added>
+		<added>2014-02-18</added>
 		<lastupdated>2014-04-26</lastupdated>
 		<name>Silent Night</name>
 		<summary/>
@@ -1403,7 +1403,7 @@
 	</application>
 	<application id="de.tobiasbielefeld.brickgames">
 		<id>de.tobiasbielefeld.brickgames</id>
-		<added>2017-09-14</added>
+		<added>2017-09-27</added>
 		<lastupdated>2017-10-01</lastupdated>
 		<name>Simple Brick Games</name>
 		<summary/>
@@ -1469,7 +1469,7 @@
 	</application>
 	<application id="net.sourceforge.solitaire_cg">
 		<id>net.sourceforge.solitaire_cg</id>
-		<added>2017-03-02</added>
+		<added>2018-02-16</added>
 		<lastupdated>2018-11-02</lastupdated>
 		<name>SolitaireCG</name>
 		<summary/>
@@ -1505,7 +1505,7 @@
 	</application>
 	<application id="org.ligi.survivalmanual">
 		<id>org.ligi.survivalmanual</id>
-		<added>2018-04-16</added>
+		<added>2020-04-19</added>
 		<lastupdated>2020-10-12</lastupdated>
 		<name>Survival Manual</name>
 		<summary/>
@@ -1542,7 +1542,7 @@
 	</application>
 	<application id="org.y20k.trackbook">
 		<id>org.y20k.trackbook</id>
-		<added>2020-05-23</added>
+		<added>2020-10-13</added>
 		<lastupdated>2020-10-17</lastupdated>
 		<name>Trackbook</name>
 		<summary/>
@@ -1583,7 +1583,7 @@
 	</application>
 	<application id="com.kylecorry.trail_sense">
 		<id>com.kylecorry.trail_sense</id>
-		<added>2020-09-03</added>
+		<added>2020-10-24</added>
 		<lastupdated>2020-10-27</lastupdated>
 		<name>Trail Sense</name>
 		<summary/>
