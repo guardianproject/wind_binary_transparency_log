@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Wind Offline Archive" pubkey="308204e7308202cfa0030201020204644b9f99300d06092a864886f70d01010b050030243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e65301e170d3230313030363037323931335a170d3438303232323037323931335a30243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e6530820222300d06092a864886f70d01010105000382020f003082020a0282020100870a38cdb32a53cea16cf2d7ce6a8430a208e250ab8bb52075218d545b38057ddddd7855c204fa9ba73ec31b6546b98ef6b178b7581be411facff1de28d66b6e2d3397a3e4bfe3a8a4671a45c39ff1c6329b240f3b2b9bd0b6f5d962a52b4498bf211efb3a2fb509ea88f6bd12390bba9a13ed9cff88a44cff115141394da5945bdea257a24c788a7866bde6eef7f55db45d021c5f31c5fd98f7daec8d6d02da80da2dfd053fe1191cf852bf6ec981bfcc8b0bd420d2e0bea8c736db7b2e7250c207f6267cb702a3d276c2848118c875e85a2914a076c333f7d510b6dfa72e8d36bb10c17cb68cd8e5e1e80662e18d323bcb0bd26659d7069f3810e7f559d436641accaf7f0e01cca64b192e98932df8e2c7cba22bb170564d16ccc99beb4c1eae0e75e62cdf3244ad942553da708e2c73f93f59b137de888fa755da50e7b30af7d8560ad68ae154a126f60e711bdd3bda21c3917859fdd9f0e12e3e046e4d1b98ea9a6e7e95acbd686f12d9baa9cf08bb6eb24f61683044f039c388c94a6c227bd26436ca1ead608a5525f77e1f6c60f326f65d3665954dc1548d45118a4815f899497f9e992412fb7d9b9592da63db0195d693eacdb715a11ef2ab8a3525cb45a0647ab91c5ad09b17478e1e6bea51a1d8f98b4a9db802715341d5d00e0d9a4281be43d6e798806dd613ebbe44b6cb0ff5858f40816b3d2876a812d648a7bf0203010001a321301f301d0603551d0e04160414c99f32d2051f7b6db612aa694a0534b02247f0c9300d06092a864886f70d01010b0500038202010062dda92e505ae79d41fffa0495b55a13fa4b0a47e3982009414ae7ac124d600f1576c57a448c7512db39975a72e5358d1e548f5313c11567f55cc44b949e27272615638093b2c32abed536d8172f0eee9eca0a2039c899e3734dc61f93cca0b33dce740a4090589c91b572af8da45c38644a54baae699745c7da6d4b60b5e94343721478387806c97cd9a0c1e41d4e8ec7eb55df2cec076cc3b9c5ac8feb390448fe513832ecd540653517e0710e95c3c4785520729fbf48a3f47e4d29fa32cddb6540b6a9fa786d9e95ce41385c3832549ceed4628f7ccd68af07806f2f4964e0ed5599e1fdedae40b1fa75b70233fd87102c07e624003da4aeb6751ab535d3482f05756b7f85ccfe475f9be99d3585669c4bf4c521cf045574f6e766f78e145d49449b71f6ad066a62ca1bd512e870af5082d495be5d2e53af4dcad92c206f7737226041505e045337f84d7dafa729a28df8e429ab94cc6abe108fa5ba4897743ffb5e30a58c253fb362fe4952d6b92167aad23e8f785920ce390399f0dafc602891edff6d1bd286fe4dd4946f9db7ba46c4a1afef9659431d88c43b9d770cf36acd1fec74705cdbfc9737f6ea22e1f3b0bffc4d259b16e9678524c1d4a66c76980f21372680c559b2ce26e85f57fd11a3d4e13a7555360e93f2ffda8058703423187c4ea3b51c64b8c38e787cf4179dbcfdc3ae0151bcf15ff225fb1a39e0" timestamp="1604501008" url="https://guardianproject-wind.s3.amazonaws.com/fdroid/archive" version="21">
+	<repo icon="icon.png" name="Wind Offline Archive" pubkey="308204e7308202cfa0030201020204644b9f99300d06092a864886f70d01010b050030243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e65301e170d3230313030363037323931335a170d3438303232323037323931335a30243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e6530820222300d06092a864886f70d01010105000382020f003082020a0282020100870a38cdb32a53cea16cf2d7ce6a8430a208e250ab8bb52075218d545b38057ddddd7855c204fa9ba73ec31b6546b98ef6b178b7581be411facff1de28d66b6e2d3397a3e4bfe3a8a4671a45c39ff1c6329b240f3b2b9bd0b6f5d962a52b4498bf211efb3a2fb509ea88f6bd12390bba9a13ed9cff88a44cff115141394da5945bdea257a24c788a7866bde6eef7f55db45d021c5f31c5fd98f7daec8d6d02da80da2dfd053fe1191cf852bf6ec981bfcc8b0bd420d2e0bea8c736db7b2e7250c207f6267cb702a3d276c2848118c875e85a2914a076c333f7d510b6dfa72e8d36bb10c17cb68cd8e5e1e80662e18d323bcb0bd26659d7069f3810e7f559d436641accaf7f0e01cca64b192e98932df8e2c7cba22bb170564d16ccc99beb4c1eae0e75e62cdf3244ad942553da708e2c73f93f59b137de888fa755da50e7b30af7d8560ad68ae154a126f60e711bdd3bda21c3917859fdd9f0e12e3e046e4d1b98ea9a6e7e95acbd686f12d9baa9cf08bb6eb24f61683044f039c388c94a6c227bd26436ca1ead608a5525f77e1f6c60f326f65d3665954dc1548d45118a4815f899497f9e992412fb7d9b9592da63db0195d693eacdb715a11ef2ab8a3525cb45a0647ab91c5ad09b17478e1e6bea51a1d8f98b4a9db802715341d5d00e0d9a4281be43d6e798806dd613ebbe44b6cb0ff5858f40816b3d2876a812d648a7bf0203010001a321301f301d0603551d0e04160414c99f32d2051f7b6db612aa694a0534b02247f0c9300d06092a864886f70d01010b0500038202010062dda92e505ae79d41fffa0495b55a13fa4b0a47e3982009414ae7ac124d600f1576c57a448c7512db39975a72e5358d1e548f5313c11567f55cc44b949e27272615638093b2c32abed536d8172f0eee9eca0a2039c899e3734dc61f93cca0b33dce740a4090589c91b572af8da45c38644a54baae699745c7da6d4b60b5e94343721478387806c97cd9a0c1e41d4e8ec7eb55df2cec076cc3b9c5ac8feb390448fe513832ecd540653517e0710e95c3c4785520729fbf48a3f47e4d29fa32cddb6540b6a9fa786d9e95ce41385c3832549ceed4628f7ccd68af07806f2f4964e0ed5599e1fdedae40b1fa75b70233fd87102c07e624003da4aeb6751ab535d3482f05756b7f85ccfe475f9be99d3585669c4bf4c521cf045574f6e766f78e145d49449b71f6ad066a62ca1bd512e870af5082d495be5d2e53af4dcad92c206f7737226041505e045337f84d7dafa729a28df8e429ab94cc6abe108fa5ba4897743ffb5e30a58c253fb362fe4952d6b92167aad23e8f785920ce390399f0dafc602891edff6d1bd286fe4dd4946f9db7ba46c4a1afef9659431d88c43b9d770cf36acd1fec74705cdbfc9737f6ea22e1f3b0bffc4d259b16e9678524c1d4a66c76980f21372680c559b2ce26e85f57fd11a3d4e13a7555360e93f2ffda8058703423187c4ea3b51c64b8c38e787cf4179dbcfdc3ae0151bcf15ff225fb1a39e0" timestamp="1605127144" url="https://guardianproject-wind.s3.amazonaws.com/fdroid/archive" version="21">
 		<description>The repository of older versions of applications from the main repository. </description>
 		<mirror>https://guardianproject-wind.s3.amazonaws.com/fdroid/archive</mirror>
 	</repo>
 	<application id="anupam.acrylic">
 		<id>anupam.acrylic</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2016-10-11</added>
+		<lastupdated>2019-04-20</lastupdated>
 		<name>Acrylic Paint</name>
 		<summary/>
 		<icon>anupam.acrylic.15.png</icon>
@@ -26,15 +26,15 @@
 			<size>455076</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>21</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2016-10-11</added>
 			<sig>084de7333f3442c6631420eaf9b9b7d5</sig>
 			<permissions>READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="org.shadowice.flocke.andotp">
 		<id>org.shadowice.flocke.andotp</id>
-		<added>1980-01-01</added>
-		<lastupdated>1981-01-01</lastupdated>
+		<added>2020-03-08</added>
+		<lastupdated>2020-10-30</lastupdated>
 		<name>andOTP</name>
 		<summary/>
 		<icon>org.shadowice.flocke.andotp.33.png</icon>
@@ -53,7 +53,7 @@
 			<size>6554944</size>
 			<sdkver>22</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-07-13</added>
 			<sig>06d3eef50cc0ebb4c47a5c02038a5e47</sig>
 			<permissions>CAMERA</permissions>
 		</package>
@@ -65,7 +65,7 @@
 			<size>6456526</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-06-02</added>
 			<sig>06d3eef50cc0ebb4c47a5c02038a5e47</sig>
 			<permissions>CAMERA,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -77,15 +77,15 @@
 			<size>6279089</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-03-08</added>
 			<sig>06d3eef50cc0ebb4c47a5c02038a5e47</sig>
 			<permissions>CAMERA,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="protect.babysleepsounds">
 		<id>protect.babysleepsounds</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2018-01-02</added>
+		<lastupdated>2018-06-02</lastupdated>
 		<name>Baby Sleep Sounds</name>
 		<summary/>
 		<icon>protect.babysleepsounds.13.png</icon>
@@ -104,7 +104,7 @@
 			<size>22153639</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-01-02</added>
 			<sig>045496dfe23f69a10ad56d2e043ec58b</sig>
 			<permissions>WAKE_LOCK</permissions>
 			<nativecode>armeabi,armeabi-v7a,x86</nativecode>
@@ -112,8 +112,8 @@
 	</application>
 	<application id="com.google.zxing.client.android">
 		<id>com.google.zxing.client.android</id>
-		<added>2017-07-19</added>
-		<lastupdated>2018-09-18</lastupdated>
+		<added>2015-02-16</added>
+		<lastupdated>2018-09-20</lastupdated>
 		<name>Barcode Scanner</name>
 		<summary/>
 		<icon>com.google.zxing.client.android.103.png</icon>
@@ -132,7 +132,7 @@
 			<size>750622</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>21</targetSdkVersion>
-			<added>2017-07-19</added>
+			<added>2015-02-16</added>
 			<sig>c3bb49636af03e7c23a63724eb529ea9</sig>
 			<permissions>ACCESS_WIFI_STATE,CAMERA,CHANGE_WIFI_STATE,FLASHLIGHT,INTERNET,READ_CONTACTS,READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE,com.android.browser.permission.READ_HISTORY_BOOKMARKS</permissions>
 			<features>android.hardware.screen.landscape,android.hardware.touchscreen</features>
@@ -140,8 +140,8 @@
 	</application>
 	<application id="de.markusfisch.android.binaryeye">
 		<id>de.markusfisch.android.binaryeye</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2020-07-07</added>
+		<lastupdated>2020-08-10</lastupdated>
 		<name>Binary Eye</name>
 		<summary/>
 		<icon>de.markusfisch.android.binaryeye.70.png</icon>
@@ -160,7 +160,7 @@
 			<size>3823746</size>
 			<sdkver>9</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-07-07</added>
 			<sig>9b1d4803c42bdd5ab534aa27f38b2127</sig>
 			<permissions>ACCESS_FINE_LOCATION,ACCESS_WIFI_STATE,CAMERA,CHANGE_WIFI_STATE,READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -169,8 +169,8 @@
 	</application>
 	<application id="org.briarproject.briar.android">
 		<id>org.briarproject.briar.android</id>
-		<added>2020-10-06</added>
-		<lastupdated>2020-11-04</lastupdated>
+		<added>2020-11-11</added>
+		<lastupdated>2020-11-11</lastupdated>
 		<name>Briar</name>
 		<summary/>
 		<icon>org.briarproject.briar.android.10211.png</icon>
@@ -189,7 +189,7 @@
 			<size>31992310</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-11-04</added>
+			<added>2020-11-11</added>
 			<sig>c47c736234483df29c95f62bc7bf0333</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -202,7 +202,7 @@
 			<size>32152305</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-10-06</added>
+			<added>2020-11-11</added>
 			<sig>c47c736234483df29c95f62bc7bf0333</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -214,7 +214,7 @@
 			<size>32082715</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-10-06</added>
+			<added>2020-11-11</added>
 			<sig>c47c736234483df29c95f62bc7bf0333</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -226,7 +226,7 @@
 			<size>32082641</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-10-06</added>
+			<added>2020-11-11</added>
 			<sig>c47c736234483df29c95f62bc7bf0333</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
@@ -234,7 +234,7 @@
 	<application id="org.atai.TessUI">
 		<id>org.atai.TessUI</id>
 		<added>2014-05-26</added>
-		<lastupdated>2018-09-10</lastupdated>
+		<lastupdated>2018-09-11</lastupdated>
 		<name>Character Recognition</name>
 		<summary/>
 		<icon>org.atai.TessUI.12.png</icon>
@@ -258,10 +258,49 @@
 			<nativecode>armeabi,armeabi-v7a,mips,x86</nativecode>
 		</package>
 	</application>
+	<application id="info.guardianproject.checkey">
+		<id>info.guardianproject.checkey</id>
+		<added>2014-07-12</added>
+		<lastupdated>2015-03-09</lastupdated>
+		<name>Checkey</name>
+		<summary/>
+		<icon>info.guardianproject.checkey.101.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web/>
+		<source/>
+		<tracker/>
+		<marketversion/>
+		<marketvercode>101</marketvercode>
+		<package>
+			<version>0.1.1</version>
+			<versioncode>101</versioncode>
+			<apkname>info.guardianproject.checkey_101.apk</apkname>
+			<hash type="sha256">2d81f339bb69626af42e8868dc6928c9072ebcbae76e1ff5ac8172e78ebe9cdd</hash>
+			<size>967083</size>
+			<sdkver>8</sdkver>
+			<targetSdkVersion>21</targetSdkVersion>
+			<added>2015-02-01</added>
+			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
+			<permissions>INTERNET</permissions>
+		</package>
+		<package>
+			<version>0.1</version>
+			<versioncode>1</versioncode>
+			<apkname>Checkey-0.1.apk</apkname>
+			<hash type="sha256">a8e3c102d5279a3029d0eebdeda2ffdbe1f8a3493ea7dbdc31a11affc708ee57</hash>
+			<size>878679</size>
+			<sdkver>8</sdkver>
+			<targetSdkVersion>19</targetSdkVersion>
+			<added>2014-07-12</added>
+			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
+			<permissions>INTERNET</permissions>
+		</package>
+	</application>
 	<application id="com.sgr_b2.compass">
 		<id>com.sgr_b2.compass</id>
 		<added>2014-03-16</added>
-		<lastupdated>2018-02-15</lastupdated>
+		<lastupdated>2014-10-31</lastupdated>
 		<name>Community compass</name>
 		<summary/>
 		<icon>com.sgr_b2.compass.18.png</icon>
@@ -288,8 +327,8 @@
 	</application>
 	<application id="org.eehouse.android.xw4">
 		<id>org.eehouse.android.xw4</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2020-09-07</added>
+		<lastupdated>2020-10-15</lastupdated>
 		<name>CrossWords</name>
 		<summary/>
 		<icon>org.eehouse.android.xw4.162.png</icon>
@@ -308,7 +347,7 @@
 			<size>3423633</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-13</added>
 			<sig>c4300d12a421ee0f0baf183a97c918fe</sig>
 			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,BLUETOOTH_ADMIN,GET_ACCOUNTS,INTERNET,NFC,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECEIVE_SMS,REQUEST_INSTALL_PACKAGES,SEND_SMS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -321,7 +360,7 @@
 			<size>3426865</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-07</added>
 			<sig>c4300d12a421ee0f0baf183a97c918fe</sig>
 			<permissions>ACCESS_NETWORK_STATE,BLUETOOTH,BLUETOOTH_ADMIN,GET_ACCOUNTS,INTERNET,NFC,READ_CONTACTS,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECEIVE_SMS,REQUEST_INSTALL_PACKAGES,SEND_SMS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -329,8 +368,8 @@
 	</application>
 	<application id="org.sufficientlysecure.viewer">
 		<id>org.sufficientlysecure.viewer</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2017-11-28</added>
+		<lastupdated>2020-08-08</lastupdated>
 		<name>Document Viewer</name>
 		<summary/>
 		<icon>org.sufficientlysecure.viewer.2823.png</icon>
@@ -349,7 +388,7 @@
 			<size>9447214</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-08-04</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>x86</nativecode>
@@ -362,7 +401,7 @@
 			<size>8975110</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-08-04</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -375,7 +414,7 @@
 			<size>9116926</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-08-04</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi</nativecode>
@@ -388,7 +427,7 @@
 			<size>9309819</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-02-11</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>mips64</nativecode>
@@ -401,7 +440,7 @@
 			<size>9408880</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-02-11</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>x86_64</nativecode>
@@ -414,7 +453,7 @@
 			<size>9248584</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-02-11</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -427,7 +466,7 @@
 			<size>9342605</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-02-11</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>mips</nativecode>
@@ -440,7 +479,7 @@
 			<size>9391407</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-02-11</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>x86</nativecode>
@@ -453,7 +492,7 @@
 			<size>8920480</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-02-11</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -466,7 +505,7 @@
 			<size>9065598</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-02-11</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi</nativecode>
@@ -479,7 +518,7 @@
 			<size>9895315</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2017-11-28</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>mips64</nativecode>
@@ -492,7 +531,7 @@
 			<size>9481004</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2017-11-28</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>x86_64</nativecode>
@@ -505,7 +544,7 @@
 			<size>9431758</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2017-11-28</added>
 			<sig>a5ddeed2036dbf12baaf7170c97f10ae</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -514,7 +553,7 @@
 	<application id="org.sufficientlysecure.viewer.fontpack">
 		<id>org.sufficientlysecure.viewer.fontpack</id>
 		<added>2013-08-15</added>
-		<lastupdated>2015-02-26</lastupdated>
+		<lastupdated>2015-02-27</lastupdated>
 		<name>DV FontPack</name>
 		<summary/>
 		<icon>org.sufficientlysecure.viewer.fontpack.2100.png</icon>
@@ -540,8 +579,8 @@
 	</application>
 	<application id="com.simplemobiletools.flashlight">
 		<id>com.simplemobiletools.flashlight</id>
-		<added>1980-01-01</added>
-		<lastupdated>2020-10-06</lastupdated>
+		<added>2020-03-30</added>
+		<lastupdated>2020-08-22</lastupdated>
 		<name>Flashlight</name>
 		<summary/>
 		<icon>com.simplemobiletools.flashlight.39.png</icon>
@@ -560,7 +599,7 @@
 			<size>5153590</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-03-30</added>
 			<sig>06f944519827a579ad419350dba97cc4</sig>
 			<permissions>CAMERA,FLASHLIGHT</permissions>
 			<features>android.hardware.camera.flash</features>
@@ -568,11 +607,11 @@
 	</application>
 	<application id="de.saschahlusiak.freebloks">
 		<id>de.saschahlusiak.freebloks</id>
-		<added>1980-01-01</added>
-		<lastupdated>2020-10-06</lastupdated>
+		<added>2017-01-29</added>
+		<lastupdated>2020-10-10</lastupdated>
 		<name>Freebloks</name>
 		<summary/>
-		<icon>de.saschahlusiak.freebloks.70.png</icon>
+		<icon>de.saschahlusiak.freebloks.105.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<categories>fdroid</categories>
@@ -583,6 +622,20 @@
 		<marketversion/>
 		<marketvercode>2147483647</marketvercode>
 		<package>
+			<version>1.2.5</version>
+			<versioncode>105</versioncode>
+			<apkname>de.saschahlusiak.freebloks_105.apk</apkname>
+			<hash type="sha256">1bfa3a745fed454e1fd0d7be5728d4a7726f683cfe7597eb1cbe489e7a29daad</hash>
+			<size>4776345</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-08-10</added>
+			<sig>2cc1780efc6ff88a58080eb5edfd3ec0</sig>
+			<permissions>BLUETOOTH,BLUETOOTH_ADMIN,INTERNET,VIBRATE</permissions>
+			<uses-permission maxSdkVersion="21" name="android.permission.BLUETOOTH_ADMIN"/>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
 			<version>1.0.0</version>
 			<versioncode>70</versioncode>
 			<apkname>de.saschahlusiak.freebloks_70.apk</apkname>
@@ -590,7 +643,7 @@
 			<size>1890443</size>
 			<sdkver>9</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2017-01-29</added>
 			<sig>2cc1780efc6ff88a58080eb5edfd3ec0</sig>
 			<permissions>INTERNET,VIBRATE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
@@ -598,8 +651,8 @@
 	</application>
 	<application id="org.havenapp.main">
 		<id>org.havenapp.main</id>
-		<added>2020-10-06</added>
-		<lastupdated>2020-11-04</lastupdated>
+		<added>2019-02-28</added>
+		<lastupdated>2020-11-11</lastupdated>
 		<name>Haven</name>
 		<summary/>
 		<icon>org.havenapp.main.214.png</icon>
@@ -618,7 +671,7 @@
 			<size>14373028</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-11-04</added>
+			<added>2020-11-11</added>
 			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_MEDIA_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi-v7a,x86</nativecode>
@@ -631,7 +684,7 @@
 			<size>14353577</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-11-04</added>
+			<added>2020-11-11</added>
 			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_MEDIA_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi-v7a,x86</nativecode>
@@ -644,7 +697,7 @@
 			<size>9395119</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>2020-10-06</added>
+			<added>2020-11-11</added>
 			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
 			<permissions>CAMERA,INTERNET,READ_EXTERNAL_STORAGE,READ_MEDIA_STORAGE,READ_PHONE_STATE,RECORD_AUDIO,SEND_SMS,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
@@ -653,8 +706,8 @@
 	</application>
 	<application id="org.documentfoundation.libreoffice">
 		<id>org.documentfoundation.libreoffice</id>
-		<added>1980-01-01</added>
-		<lastupdated>2016-10-27</lastupdated>
+		<added>2016-10-27</added>
+		<lastupdated>2018-07-02</lastupdated>
 		<name>LibreOffice Viewer</name>
 		<summary/>
 		<icon>org.documentfoundation.libreoffice.11.xml</icon>
@@ -686,7 +739,7 @@
 			<size>49748530</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>22</targetSdkVersion>
-			<added>2016-10-26</added>
+			<added>2016-10-27</added>
 			<sig>c93156ef0cc80111956d3ef71ab0692b</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -694,8 +747,8 @@
 	</application>
 	<application id="se.manyver">
 		<id>se.manyver</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2020-04-06</added>
+		<lastupdated>2020-10-10</lastupdated>
 		<name>Manyverse</name>
 		<summary/>
 		<icon>se.manyver.86.png</icon>
@@ -714,7 +767,7 @@
 			<size>44366460</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-06-07</added>
 			<sig>b6d66a5f333f2635662be0dd430f80b2</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -727,7 +780,7 @@
 			<size>36108857</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-04-06</added>
 			<sig>b6d66a5f333f2635662be0dd430f80b2</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
@@ -735,8 +788,8 @@
 	</application>
 	<application id="com.github.axet.maps">
 		<id>com.github.axet.maps</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2019-08-11</added>
+		<lastupdated>2020-08-21</lastupdated>
 		<name>Maps</name>
 		<summary/>
 		<icon>com.github.axet.maps.1061.png</icon>
@@ -755,7 +808,7 @@
 			<size>75230223</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2019-08-11</added>
 			<sig>98e735e84b6f82f7abe483f3edc43fb6</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BATTERY_STATS,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.github.axet.maps.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -764,8 +817,8 @@
 	</application>
 	<application id="org.paladyn.mediclog">
 		<id>org.paladyn.mediclog</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2019-12-04</added>
+		<lastupdated>2020-07-12</lastupdated>
 		<name>Medic Log</name>
 		<summary/>
 		<icon>org.paladyn.mediclog.10.png</icon>
@@ -786,14 +839,14 @@
 			<size>55532</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2019-12-04</added>
 			<sig>e3452728c78c618b2a00fc2d1ed8baba</sig>
 		</package>
 	</application>
 	<application id="com.zell_mbc.medilog">
 		<id>com.zell_mbc.medilog</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2020-09-08</added>
+		<lastupdated>2020-10-31</lastupdated>
 		<name>MediLog</name>
 		<summary/>
 		<icon>com.zell_mbc.medilog.5314.png</icon>
@@ -812,7 +865,7 @@
 			<size>17392882</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-10-15</added>
 			<sig>ee332e55c7a9120f024d0c8f839d3d3f</sig>
 			<permissions>READ_EXTERNAL_STORAGE,USE_BIOMETRIC,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -825,7 +878,7 @@
 			<size>17199803</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-24</added>
 			<sig>ee332e55c7a9120f024d0c8f839d3d3f</sig>
 			<permissions>READ_EXTERNAL_STORAGE,USE_BIOMETRIC,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -838,7 +891,7 @@
 			<size>17193939</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-13</added>
 			<sig>ee332e55c7a9120f024d0c8f839d3d3f</sig>
 			<permissions>READ_EXTERNAL_STORAGE,USE_BIOMETRIC,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -851,7 +904,7 @@
 			<size>17173023</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-08</added>
 			<sig>ee332e55c7a9120f024d0c8f839d3d3f</sig>
 			<permissions>READ_EXTERNAL_STORAGE,USE_BIOMETRIC,USE_FINGERPRINT,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -887,8 +940,8 @@
 	</application>
 	<application id="com.github.ashutoshgngwr.noice">
 		<id>com.github.ashutoshgngwr.noice</id>
-		<added>1980-01-01</added>
-		<lastupdated>1981-01-01</lastupdated>
+		<added>2020-09-13</added>
+		<lastupdated>2020-10-20</lastupdated>
 		<name>Noice</name>
 		<summary/>
 		<icon>com.github.ashutoshgngwr.noice.32.png</icon>
@@ -907,7 +960,7 @@
 			<size>26679833</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-24</added>
 			<sig>0ac4bbda2b62c2b10d2bec6dcca8efc6</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
 		</package>
@@ -919,15 +972,44 @@
 			<size>26603574</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-13</added>
 			<sig>0ac4bbda2b62c2b10d2bec6dcca8efc6</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
 		</package>
 	</application>
+	<application id="org.witness.sscphase1">
+		<id>org.witness.sscphase1</id>
+		<added>2017-12-22</added>
+		<lastupdated>2018-04-28</lastupdated>
+		<name>ObscuraCam</name>
+		<summary/>
+		<icon>org.witness.sscphase1.40.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web/>
+		<source/>
+		<tracker/>
+		<marketversion/>
+		<marketvercode>40</marketvercode>
+		<package>
+			<version>4.0.0-alpha-2</version>
+			<versioncode>40</versioncode>
+			<apkname>ObscuraCam-v4.0.0.40-alpha-2.apk</apkname>
+			<hash type="sha256">71992a2cfbb614f22f7a64f5c0cfe23550463f92d2728282c0092e07de19ff37</hash>
+			<size>24367391</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2017-12-22</added>
+			<sig>a0eeebb161f946e3516945fae8a92a3e</sig>
+			<permissions>READ_EXTERNAL_STORAGE,READ_MEDIA_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.VIBRATE"/>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+	</application>
 	<application id="com.todobom.opennotescanner">
 		<id>com.todobom.opennotescanner</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2019-07-31</added>
+		<lastupdated>2020-07-25</lastupdated>
 		<name>Open Note Scanner</name>
 		<summary/>
 		<icon>com.todobom.opennotescanner.33.png</icon>
@@ -946,15 +1028,15 @@
 			<size>2249320</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2019-07-31</added>
 			<sig>e48c12e626bb655e7783bda71fce7035</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="net.osmand.plus">
 		<id>net.osmand.plus</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2020-06-08</added>
+		<lastupdated>2020-10-03</lastupdated>
 		<name>OsmAnd~</name>
 		<summary/>
 		<icon>net.osmand.plus.373.png</icon>
@@ -973,7 +1055,7 @@
 			<size>95798363</size>
 			<sdkver>15</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-06-08</added>
 			<sig>62de1ed5da5b716973da89258848e7bc</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_LOCATION_EXTRA_COMMANDS,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BROADCAST_STICKY,CAMERA,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECORD_AUDIO,REQUEST_INSTALL_PACKAGES,STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.BLUETOOTH"/>
@@ -983,18 +1065,33 @@
 	</application>
 	<application id="info.guardianproject.pixelknot">
 		<id>info.guardianproject.pixelknot</id>
-		<added>1980-01-01</added>
-		<lastupdated>2015-07-06</lastupdated>
+		<added>2013-07-22</added>
+		<lastupdated>2017-02-18</lastupdated>
 		<name>PixelKnot</name>
 		<summary/>
-		<icon>info.guardianproject.pixelknot.6.png</icon>
+		<icon>info.guardianproject.pixelknot.10.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
 		<tracker/>
 		<marketversion/>
-		<marketvercode>6</marketvercode>
+		<marketvercode>10</marketvercode>
+		<package>
+			<version>1.0</version>
+			<versioncode>10</versioncode>
+			<apkname>info.guardianproject.pixelknot_10.apk</apkname>
+			<hash type="sha256">79c1ba7d8e602e9d76491ae0510230103bbec5a0c5fbd2f7fe8dfff1e1054cf1</hash>
+			<size>1985208</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2016-11-22</added>
+			<sig>32d6c8c2bef297e6642500e20f37c7f8</sig>
+			<permissions>READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.VIBRATE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
 		<package>
 			<version>0.3.3</version>
 			<versioncode>6</versioncode>
@@ -1007,11 +1104,24 @@
 			<sig>32d6c8c2bef297e6642500e20f37c7f8</sig>
 			<permissions>CAMERA,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
+		<package>
+			<version>0.3.1</version>
+			<versioncode>4</versioncode>
+			<apkname>PixelKnot-release-0.3.1.apk</apkname>
+			<hash type="sha256">a3101fe8a2d47ab205cb00459fa62c639a6fac4538f6cd9d06eb48d2965c4d21</hash>
+			<size>3976822</size>
+			<sdkver>9</sdkver>
+			<targetSdkVersion>17</targetSdkVersion>
+			<added>2013-07-22</added>
+			<sig>a0eeebb161f946e3516945fae8a92a3e</sig>
+			<permissions>CAMERA,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi</nativecode>
+		</package>
 	</application>
 	<application id="com.junjunguo.pocketmaps">
 		<id>com.junjunguo.pocketmaps</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2020-01-07</added>
+		<lastupdated>2020-10-12</lastupdated>
 		<name>PocketMaps</name>
 		<summary/>
 		<icon>com.junjunguo.pocketmaps.33.png</icon>
@@ -1030,7 +1140,7 @@
 			<size>9102841</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-01-29</added>
 			<sig>cff35ac763a1dd2bc322eacd7303d90e</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,MANAGE_DOCUMENTS,READ_EXTERNAL_STORAGE,READ_INTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
@@ -1044,7 +1154,7 @@
 			<size>9102513</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-01-07</added>
 			<sig>cff35ac763a1dd2bc322eacd7303d90e</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,MANAGE_DOCUMENTS,READ_EXTERNAL_STORAGE,READ_INTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi,armeabi-v7a,x86,x86_64</nativecode>
@@ -1053,8 +1163,8 @@
 	</application>
 	<application id="name.boyle.chris.sgtpuzzles">
 		<id>name.boyle.chris.sgtpuzzles</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2016-12-26</added>
+		<lastupdated>2019-06-19</lastupdated>
 		<name>Puzzles</name>
 		<summary/>
 		<icon>name.boyle.chris.sgtpuzzles.115.png</icon>
@@ -1073,7 +1183,7 @@
 			<size>6938320</size>
 			<sdkver>9</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2016-12-26</added>
 			<sig>9acc9530d4ee77d1eb22f1c0e383314b</sig>
 			<permissions>NFC,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -1082,8 +1192,8 @@
 	</application>
 	<application id="info.guardianproject.ripple">
 		<id>info.guardianproject.ripple</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2017-12-07</added>
+		<lastupdated>2019-09-25</lastupdated>
 		<name>Ripple</name>
 		<summary/>
 		<icon>info.guardianproject.ripple.83.png</icon>
@@ -1102,14 +1212,14 @@
 			<size>1658673</size>
 			<sdkver>10</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2017-12-07</added>
 			<sig>d47234c2500f43d3b273a1ee047497ed</sig>
 		</package>
 	</application>
 	<application id="org.disrupted.rumble">
 		<id>org.disrupted.rumble</id>
-		<added>2015-12-30</added>
-		<lastupdated>2016-09-08</lastupdated>
+		<added>2020-11-11</added>
+		<lastupdated>2020-11-11</lastupdated>
 		<name>Rumble</name>
 		<summary/>
 		<icon>org.disrupted.rumble.11.png</icon>
@@ -1130,7 +1240,7 @@
 			<size>2597336</size>
 			<sdkver>11</sdkver>
 			<targetSdkVersion>23</targetSdkVersion>
-			<added>2015-12-30</added>
+			<added>2020-11-11</added>
 			<sig>f2f99ae555a5d123b22dee10512f3efd</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,CAMERA,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,FLASHLIGHT,INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
 			<features>android.hardware.camera,android.hardware.camera.autofocus,android.hardware.camera.flash,android.hardware.screen.landscape,android.hardware.touchscreen</features>
@@ -1165,8 +1275,8 @@
 	</application>
 	<application id="de.tobiasbielefeld.brickgames">
 		<id>de.tobiasbielefeld.brickgames</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2017-09-14</added>
+		<lastupdated>2017-10-01</lastupdated>
 		<name>Simple Brick Games</name>
 		<summary/>
 		<icon>de.tobiasbielefeld.brickgames.16.png</icon>
@@ -1185,15 +1295,15 @@
 			<size>1943106</size>
 			<sdkver>9</sdkver>
 			<targetSdkVersion>24</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2017-09-14</added>
 			<sig>51c6ccc0ba05e992f7faa2719ef660a4</sig>
 			<permissions>VIBRATE</permissions>
 		</package>
 	</application>
 	<application id="net.sourceforge.solitaire_cg">
 		<id>net.sourceforge.solitaire_cg</id>
-		<added>1980-01-01</added>
-		<lastupdated>2018-02-15</lastupdated>
+		<added>2017-03-02</added>
+		<lastupdated>2018-11-02</lastupdated>
 		<name>SolitaireCG</name>
 		<summary/>
 		<icon>net.sourceforge.solitaire_cg.710.png</icon>
@@ -1211,14 +1321,14 @@
 			<hash type="sha256">395f4731253c831672e55a3dab5c6670bc163bf6502fc9311556ef34c883fc0b</hash>
 			<size>634977</size>
 			<sdkver>4</sdkver>
-			<added>2017-03-01</added>
+			<added>2017-03-02</added>
 			<sig>3a570ec5424f5adc281133b5f607f59e</sig>
 		</package>
 	</application>
 	<application id="org.ligi.survivalmanual">
 		<id>org.ligi.survivalmanual</id>
-		<added>1980-01-01</added>
-		<lastupdated>1980-01-01</lastupdated>
+		<added>2018-04-16</added>
+		<lastupdated>2020-10-12</lastupdated>
 		<name>Survival Manual</name>
 		<summary/>
 		<icon>org.ligi.survivalmanual.422.png</icon>
@@ -1237,7 +1347,7 @@
 			<size>5763909</size>
 			<sdkver>14</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-12-12</added>
 			<sig>f7604945ef3f796c79d6b38c1d765a34</sig>
 		</package>
 		<package>
@@ -1248,14 +1358,14 @@
 			<size>5375722</size>
 			<sdkver>10</sdkver>
 			<targetSdkVersion>25</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2018-04-16</added>
 			<sig>f7604945ef3f796c79d6b38c1d765a34</sig>
 		</package>
 	</application>
 	<application id="org.y20k.trackbook">
 		<id>org.y20k.trackbook</id>
-		<added>1980-01-01</added>
-		<lastupdated>2020-11-04</lastupdated>
+		<added>2020-05-23</added>
+		<lastupdated>2020-10-17</lastupdated>
 		<name>Trackbook</name>
 		<summary/>
 		<icon>org.y20k.trackbook.44.png</icon>
@@ -1274,7 +1384,7 @@
 			<size>1866501</size>
 			<sdkver>25</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-11-04</added>
+			<added>2020-10-10</added>
 			<sig>b487edcdfd7ed77981fdcd506a414548</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,VIBRATE</permissions>
 			<features>android.hardware.location.gps,android.hardware.location.network</features>
@@ -1287,7 +1397,7 @@
 			<size>1873670</size>
 			<sdkver>25</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-18</added>
 			<sig>b487edcdfd7ed77981fdcd506a414548</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,VIBRATE</permissions>
 			<features>android.hardware.location.gps,android.hardware.location.network</features>
@@ -1300,7 +1410,7 @@
 			<size>1841799</size>
 			<sdkver>25</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-08-03</added>
 			<sig>b487edcdfd7ed77981fdcd506a414548</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,VIBRATE</permissions>
 			<features>android.hardware.location.gps,android.hardware.location.network</features>
@@ -1313,7 +1423,7 @@
 			<size>1994013</size>
 			<sdkver>25</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-05-23</added>
 			<sig>b487edcdfd7ed77981fdcd506a414548</sig>
 			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,VIBRATE</permissions>
 			<features>android.hardware.location.gps,android.hardware.location.network</features>
@@ -1321,8 +1431,8 @@
 	</application>
 	<application id="com.kylecorry.trail_sense">
 		<id>com.kylecorry.trail_sense</id>
-		<added>1980-01-01</added>
-		<lastupdated>2020-11-04</lastupdated>
+		<added>2020-09-03</added>
+		<lastupdated>2020-10-27</lastupdated>
 		<name>Trail Sense</name>
 		<summary/>
 		<icon>com.kylecorry.trail_sense.20.png</icon>
@@ -1341,7 +1451,7 @@
 			<size>3339609</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2020-11-04</added>
+			<added>2020-10-20</added>
 			<sig>51536c26e09721b199e29c2f5d2385b3</sig>
 			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,FLASHLIGHT,FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK</permissions>
 		</package>
@@ -1353,7 +1463,7 @@
 			<size>2953249</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-18</added>
 			<sig>51536c26e09721b199e29c2f5d2385b3</sig>
 			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_FINE_LOCATION,FLASHLIGHT,FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED</permissions>
 		</package>
@@ -1365,7 +1475,7 @@
 			<size>2788114</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-07</added>
 			<sig>51536c26e09721b199e29c2f5d2385b3</sig>
 			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_FINE_LOCATION,FLASHLIGHT,FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED</permissions>
 		</package>
@@ -1377,15 +1487,15 @@
 			<size>2788071</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>1980-01-01</added>
+			<added>2020-09-03</added>
 			<sig>51536c26e09721b199e29c2f5d2385b3</sig>
 			<permissions>ACCESS_BACKGROUND_LOCATION,ACCESS_FINE_LOCATION,FLASHLIGHT,FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED</permissions>
 		</package>
 	</application>
 	<application id="info.staticfree.android.units">
 		<id>info.staticfree.android.units</id>
-		<added>2011-06-20</added>
-		<lastupdated>2012-02-16</lastupdated>
+		<added>2013-05-09</added>
+		<lastupdated>2013-05-09</lastupdated>
 		<name>Units</name>
 		<summary/>
 		<icon>info.staticfree.android.units.7.png</icon>
@@ -1404,7 +1514,7 @@
 			<size>225938</size>
 			<sdkver>3</sdkver>
 			<targetSdkVersion>4</targetSdkVersion>
-			<added>2011-06-20</added>
+			<added>2013-05-09</added>
 			<sig>0fd773176b59c23583515d2e2f191fda</sig>
 		</package>
 	</application>
