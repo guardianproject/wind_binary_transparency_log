@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Wind Offline" pubkey="308204e7308202cfa0030201020204644b9f99300d06092a864886f70d01010b050030243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e65301e170d3230313030363037323931335a170d3438303232323037323931335a30243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e6530820222300d06092a864886f70d01010105000382020f003082020a0282020100870a38cdb32a53cea16cf2d7ce6a8430a208e250ab8bb52075218d545b38057ddddd7855c204fa9ba73ec31b6546b98ef6b178b7581be411facff1de28d66b6e2d3397a3e4bfe3a8a4671a45c39ff1c6329b240f3b2b9bd0b6f5d962a52b4498bf211efb3a2fb509ea88f6bd12390bba9a13ed9cff88a44cff115141394da5945bdea257a24c788a7866bde6eef7f55db45d021c5f31c5fd98f7daec8d6d02da80da2dfd053fe1191cf852bf6ec981bfcc8b0bd420d2e0bea8c736db7b2e7250c207f6267cb702a3d276c2848118c875e85a2914a076c333f7d510b6dfa72e8d36bb10c17cb68cd8e5e1e80662e18d323bcb0bd26659d7069f3810e7f559d436641accaf7f0e01cca64b192e98932df8e2c7cba22bb170564d16ccc99beb4c1eae0e75e62cdf3244ad942553da708e2c73f93f59b137de888fa755da50e7b30af7d8560ad68ae154a126f60e711bdd3bda21c3917859fdd9f0e12e3e046e4d1b98ea9a6e7e95acbd686f12d9baa9cf08bb6eb24f61683044f039c388c94a6c227bd26436ca1ead608a5525f77e1f6c60f326f65d3665954dc1548d45118a4815f899497f9e992412fb7d9b9592da63db0195d693eacdb715a11ef2ab8a3525cb45a0647ab91c5ad09b17478e1e6bea51a1d8f98b4a9db802715341d5d00e0d9a4281be43d6e798806dd613ebbe44b6cb0ff5858f40816b3d2876a812d648a7bf0203010001a321301f301d0603551d0e04160414c99f32d2051f7b6db612aa694a0534b02247f0c9300d06092a864886f70d01010b0500038202010062dda92e505ae79d41fffa0495b55a13fa4b0a47e3982009414ae7ac124d600f1576c57a448c7512db39975a72e5358d1e548f5313c11567f55cc44b949e27272615638093b2c32abed536d8172f0eee9eca0a2039c899e3734dc61f93cca0b33dce740a4090589c91b572af8da45c38644a54baae699745c7da6d4b60b5e94343721478387806c97cd9a0c1e41d4e8ec7eb55df2cec076cc3b9c5ac8feb390448fe513832ecd540653517e0710e95c3c4785520729fbf48a3f47e4d29fa32cddb6540b6a9fa786d9e95ce41385c3832549ceed4628f7ccd68af07806f2f4964e0ed5599e1fdedae40b1fa75b70233fd87102c07e624003da4aeb6751ab535d3482f05756b7f85ccfe475f9be99d3585669c4bf4c521cf045574f6e766f78e145d49449b71f6ad066a62ca1bd512e870af5082d495be5d2e53af4dcad92c206f7737226041505e045337f84d7dafa729a28df8e429ab94cc6abe108fa5ba4897743ffb5e30a58c253fb362fe4952d6b92167aad23e8f785920ce390399f0dafc602891edff6d1bd286fe4dd4946f9db7ba46c4a1afef9659431d88c43b9d770cf36acd1fec74705cdbfc9737f6ea22e1f3b0bffc4d259b16e9678524c1d4a66c76980f21372680c559b2ce26e85f57fd11a3d4e13a7555360e93f2ffda8058703423187c4ea3b51c64b8c38e787cf4179dbcfdc3ae0151bcf15ff225fb1a39e0" timestamp="1605127720" url="https://guardianproject-wind.s3.amazonaws.com/fdroid/repo" version="21">
+	<repo icon="icon.png" name="Wind Offline" pubkey="308204e7308202cfa0030201020204644b9f99300d06092a864886f70d01010b050030243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e65301e170d3230313030363037323931335a170d3438303232323037323931335a30243110300e060355040b1307462d44726f69643110300e060355040313076f66666c696e6530820222300d06092a864886f70d01010105000382020f003082020a0282020100870a38cdb32a53cea16cf2d7ce6a8430a208e250ab8bb52075218d545b38057ddddd7855c204fa9ba73ec31b6546b98ef6b178b7581be411facff1de28d66b6e2d3397a3e4bfe3a8a4671a45c39ff1c6329b240f3b2b9bd0b6f5d962a52b4498bf211efb3a2fb509ea88f6bd12390bba9a13ed9cff88a44cff115141394da5945bdea257a24c788a7866bde6eef7f55db45d021c5f31c5fd98f7daec8d6d02da80da2dfd053fe1191cf852bf6ec981bfcc8b0bd420d2e0bea8c736db7b2e7250c207f6267cb702a3d276c2848118c875e85a2914a076c333f7d510b6dfa72e8d36bb10c17cb68cd8e5e1e80662e18d323bcb0bd26659d7069f3810e7f559d436641accaf7f0e01cca64b192e98932df8e2c7cba22bb170564d16ccc99beb4c1eae0e75e62cdf3244ad942553da708e2c73f93f59b137de888fa755da50e7b30af7d8560ad68ae154a126f60e711bdd3bda21c3917859fdd9f0e12e3e046e4d1b98ea9a6e7e95acbd686f12d9baa9cf08bb6eb24f61683044f039c388c94a6c227bd26436ca1ead608a5525f77e1f6c60f326f65d3665954dc1548d45118a4815f899497f9e992412fb7d9b9592da63db0195d693eacdb715a11ef2ab8a3525cb45a0647ab91c5ad09b17478e1e6bea51a1d8f98b4a9db802715341d5d00e0d9a4281be43d6e798806dd613ebbe44b6cb0ff5858f40816b3d2876a812d648a7bf0203010001a321301f301d0603551d0e04160414c99f32d2051f7b6db612aa694a0534b02247f0c9300d06092a864886f70d01010b0500038202010062dda92e505ae79d41fffa0495b55a13fa4b0a47e3982009414ae7ac124d600f1576c57a448c7512db39975a72e5358d1e548f5313c11567f55cc44b949e27272615638093b2c32abed536d8172f0eee9eca0a2039c899e3734dc61f93cca0b33dce740a4090589c91b572af8da45c38644a54baae699745c7da6d4b60b5e94343721478387806c97cd9a0c1e41d4e8ec7eb55df2cec076cc3b9c5ac8feb390448fe513832ecd540653517e0710e95c3c4785520729fbf48a3f47e4d29fa32cddb6540b6a9fa786d9e95ce41385c3832549ceed4628f7ccd68af07806f2f4964e0ed5599e1fdedae40b1fa75b70233fd87102c07e624003da4aeb6751ab535d3482f05756b7f85ccfe475f9be99d3585669c4bf4c521cf045574f6e766f78e145d49449b71f6ad066a62ca1bd512e870af5082d495be5d2e53af4dcad92c206f7737226041505e045337f84d7dafa729a28df8e429ab94cc6abe108fa5ba4897743ffb5e30a58c253fb362fe4952d6b92167aad23e8f785920ce390399f0dafc602891edff6d1bd286fe4dd4946f9db7ba46c4a1afef9659431d88c43b9d770cf36acd1fec74705cdbfc9737f6ea22e1f3b0bffc4d259b16e9678524c1d4a66c76980f21372680c559b2ce26e85f57fd11a3d4e13a7555360e93f2ffda8058703423187c4ea3b51c64b8c38e787cf4179dbcfdc3ae0151bcf15ff225fb1a39e0" timestamp="1605169286" url="https://guardianproject-wind.s3.amazonaws.com/fdroid/repo" version="21">
 		<description>This is a collection of apps that work offline or with limited internet. </description>
 		<mirror>https://guardianproject-wind.s3.amazonaws.com/fdroid/repo</mirror>
 	</repo>
@@ -9,7 +9,7 @@
 		<added>2017-09-11</added>
 		<lastupdated>2019-04-20</lastupdated>
 		<name>Acrylic Paint</name>
-		<summary/>
+		<summary>Simple finger painting</summary>
 		<icon>anupam.acrylic.17.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -48,7 +48,7 @@
 		<added>2020-09-30</added>
 		<lastupdated>2020-10-30</lastupdated>
 		<name>andOTP</name>
-		<summary/>
+		<summary>Time-based One-time Passwords (TOTP) from QR codes for two-factor authentication</summary>
 		<icon>org.shadowice.flocke.andotp.35.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -87,7 +87,7 @@
 		<added>2018-02-06</added>
 		<lastupdated>2018-06-02</lastupdated>
 		<name>Baby Sleep Sounds</name>
-		<summary/>
+		<summary>Play sounds to help babies sleep</summary>
 		<icon>protect.babysleepsounds.15.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -127,9 +127,36 @@
 		<added>2017-11-14</added>
 		<lastupdated>2018-09-20</lastupdated>
 		<name>Barcode Scanner</name>
-		<summary/>
+		<summary>Scan barcodes on products, or barcodes containing URLs, contact info, and so on</summary>
 		<icon>com.google.zxing.client.android.108.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>Read the information stored in barcodes or create QR-codes for sharing addresses, contacts or text between devices.
+
+Book, product and web searches go to a Google server (depending on the choice of origin country), though a custom search button can be created in the settings e.g. duckduckgo.com/?q=%s or wikibooks.org/w/index.php?search=%s.
+
+Supports following barcode types:
+
+* UPC-A and UPC-E
+* EAN-8 and EAN-13
+* Code 39; 93; 128
+* ITF
+* Codabar
+* RSS-14 (all variants)
+* QR Code
+* Data Matrix
+* Aztec ('beta' quality)
+* PDF 417 ('alpha' quality)
+
+See the website for troubleshooting and explanations of the permissions. The app allows you to share contacts, apps, and bookmarks in a QR Code. This is why contacts permissions are needed. See &quot;Visit Developer Website&quot; below ( https://github.com/zxing/zxing/wiki/Frequently-Asked-Questions ).
+
+If your device is not scanning, first try workarounds for device bugs in Settings. Enable all of them, and then try disabling one at a time to determine which is necessary. If this does not help, try clearing the device cache and settings from Android settings.
+
+If these still do not work and you believe there is an app problem, send a message to the author with the following information. Messages without this information can't be acted on, so are ignored.
+
+- Device type
+- A basic description of what does not work: crashes? does not scan? looks strange?
+- Acknowledgement that you tried the steps above first
+- A device log capture from when it starts
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -168,9 +195,19 @@
 		<added>2020-07-29</added>
 		<lastupdated>2020-08-10</lastupdated>
 		<name>Binary Eye</name>
-		<summary/>
+		<summary>Yet another barcode scanner</summary>
 		<icon>de.markusfisch.android.binaryeye.72.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>Works in portrait and landscape orientation, can read inverted codes,
+is Material Design and can also generate barcodes.
+
+Uses the ZXing (&quot;Zebra Crossing&quot;) barcode scanning library.
+Supported barcode formats are: AZTEC, CODABAR, CODE 39, CODE 93, CODE 128,
+DATA MATRIX, EAN 8, EAN 13, ITF, PDF417, QR CODE, RSS 14, RSS EXPANDED,
+UPC A, UPC E and UPC EAN EXTENSION.
+
+This is open source:
+https://github.com/markusfisch/BinaryEye
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -211,7 +248,7 @@
 		<added>2013-05-09</added>
 		<lastupdated>2013-05-09</lastupdated>
 		<name>Binaural Beats Therapy</name>
-		<summary/>
+		<summary>Sound to brainwave harmonizer</summary>
 		<icon>com.ihunda.android.binauralbeat.39.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -289,7 +326,7 @@
 		<added>2014-07-11</added>
 		<lastupdated>2018-09-11</lastupdated>
 		<name>Character Recognition</name>
-		<summary/>
+		<summary>Extract text from images</summary>
 		<icon>org.atai.TessUI.16.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -330,9 +367,25 @@
 		<added>2015-01-28</added>
 		<lastupdated>2015-03-09</lastupdated>
 		<name>Checkey</name>
-		<summary/>
+		<summary>utility for getting information about the APKs that are installed on your device</summary>
 		<icon>info.guardianproject.checkey.102.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>Checkey is a utility for getting information about the APKs that are installed on your device. Starting with a list of all of the apps that you have installed on your device, it will show you the APK signature with a single touch, and provides links to virustotal.com and androidobservatory.org to easily access the profiles of that APK. It will also let you export the signing certificate and generate ApkSignaturePin pin files for use with the TrustedIntents library.
+
+★ OPEN-SOURCE: Our code is transparent. You can take a look or join the community to help make Checkey even better: https://gitlab.com/guardianproject/checkey
+★ WE SPEAK YOUR LANGUAGE: Checkey is available for friends who speak: Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
+
+Don’t see your language? Join us and help translate the app:
+https://hosted.weblate.org/projects/guardianproject/checkey/
+https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
+
+
+***Learn More***
+★ ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow
+★ OUR WEBSITE: https://GuardianProject.info to learn more about us
+★ ON TWITTER: https://twitter.com/guardianproject
+★ FREE SOFTWARE: Checkey is free software. You can take a look at our source code, or contribute to help make Checkey even better: https://gitlab.com/guardianproject/checkey
+★ MESSAGE US: Are we missing your favorite feature? Found an annoying bug? Please tell us! We’d love to hear from you. Send us an email: support@guardianproject.info or find us in our chat room https://guardianproject.info/contact
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -369,7 +422,7 @@
 		<added>2014-07-29</added>
 		<lastupdated>2014-10-31</lastupdated>
 		<name>Community compass</name>
-		<summary/>
+		<summary>Feature Compass</summary>
 		<icon>com.sgr_b2.compass.10405.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -410,7 +463,7 @@
 		<added>2020-10-03</added>
 		<lastupdated>2020-10-15</lastupdated>
 		<name>CrossWords</name>
-		<summary/>
+		<summary>A Scrabble-like game</summary>
 		<icon>org.eehouse.android.xw4.165.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -451,7 +504,7 @@
 		<added>2020-08-04</added>
 		<lastupdated>2020-08-08</lastupdated>
 		<name>Document Viewer</name>
-		<summary/>
+		<summary>A highly customizable viewer for PDF, DjVu, XPS, cbz, fb2 for Android.</summary>
 		<icon>org.sufficientlysecure.viewer.2827.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -492,7 +545,7 @@
 		<added>2013-12-27</added>
 		<lastupdated>2015-02-27</lastupdated>
 		<name>DV FontPack</name>
-		<summary/>
+		<summary>Extra fonts for Document Viewer</summary>
 		<icon>org.sufficientlysecure.viewer.fontpack.2300.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -531,9 +584,16 @@
 		<added>2020-06-02</added>
 		<lastupdated>2020-08-22</lastupdated>
 		<name>Flashlight</name>
-		<summary/>
+		<summary>A simple flashlight without ads.</summary>
 		<icon>com.simplemobiletools.flashlight.42.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>A clean flashlight with an extra bright display and customizable stroboscope. If turned on via the app (not widget), it will prevent the device from falling asleep.
+
+Comes with a 1x1 widget with customizable color.
+
+Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -574,9 +634,45 @@
 		<added>2020-09-13</added>
 		<lastupdated>2020-10-10</lastupdated>
 		<name>Freebloks</name>
-		<summary/>
+		<summary>Board game</summary>
 		<icon>de.saschahlusiak.freebloks.110.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>This is the Android version of Freebloks 3D, an implementation of the famous board game Blokus. Try to place as many tiles on the board as possible, keeping in mind only two simple rules: your tiles must touch a corner of one of your previously placed tiles, but they must not share an edge. Can you play more tiles than your opponents? 
+
+RULES
+Each player has 21 Tetris-like tiles: 12 tiles with 5 squares, 5 tiles with 4 squares, 2 tiles with 3 squares, 1 tile with 2 squares and 1 tile with 1 square. 
+Players take turns in placing one tile onto the 20x20 board. The first tile for each player has to be placed in their corner of the board. Each following tile has to touch a corner of one of your previous tiles, but it must never share an edge. It may share edges with the opponents' tiles though. 
+If a player has no more possible move, they have to pass. The game is over when no player can place a tile. 
+For each player, the squares of all their tiles on the board are added up. The player with the most points  wins. 
+
+HOW TO PLAY
+- Swipe the list of available tiles with your finger. 
+- Select and drag a tile onto the board. 
+- Rotate or flip the tile using the 4 handles. 
+- Place the tile in the desired position. The tile will appear green if the position is valid, and red otherwise. Possible corners are highlighted on the board for convenience. 
+- Tap the tile in a valid position to place it. 
+- You can rotate the board at any time to see the opponents' tiles. 
+
+Quit the app at any time, your current game will be saved and restored on next start. 
+
+FEATURES
+- Supports 2-player modes, with 2 colors (Original and Blokus Duo), 4 colors (2 each).
+- Customizable board sizes other than 20x20.
+- Play against the computer or humans on the same device. 
+- Play online against your friends
+- Hint and undo options.
+- Looks great on tablets, too!
+
+The game is network-compatible with Freebloks 3D for Windows and Linux: http://www.saschahlusiak.de/freebloks-3d/ 
+
+PLEASE DONATE
+Freebloks 3D is absolutely free, open source and without advertisement! But things for free still have a value. You can decide how much Freebloks is worth to you by purchasing an in-app donation of your choice or by buying Freebloks VIP: https://play.google.com/store/apps/details?id=de.saschahlusiak.freebloksvip
+
+The complete source code is available on GitHub: https://github.com/shlusiak/Freebloks-Android 
+
+If you have any idea, feature request or wish concerning the game, just drop us an email: apps@saschahlusiak.de 
+
+Similar: Blokish and Blokr!
+</desc>
 		<license>Unknown</license>
 		<categories>fdroid</categories>
 		<category>fdroid</category>
@@ -660,7 +756,7 @@
 		<added>2018-07-02</added>
 		<lastupdated>2018-07-02</lastupdated>
 		<name>LibreOffice Viewer</name>
-		<summary/>
+		<summary>Document Viewer</summary>
 		<icon>org.documentfoundation.libreoffice.15.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -701,7 +797,7 @@
 		<added>2020-06-15</added>
 		<lastupdated>2020-10-10</lastupdated>
 		<name>Manyverse</name>
-		<summary/>
+		<summary>A social network off the grid</summary>
 		<icon>se.manyver.92.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -742,7 +838,7 @@
 		<added>2019-08-26</added>
 		<lastupdated>2020-08-21</lastupdated>
 		<name>Maps</name>
-		<summary/>
+		<summary>Offline OpenStreetMap maps</summary>
 		<icon>com.github.axet.maps.1063.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -785,7 +881,7 @@
 		<added>2020-01-10</added>
 		<lastupdated>2020-07-12</lastupdated>
 		<name>Medic Log</name>
-		<summary/>
+		<summary>Log basic medical information</summary>
 		<icon>org.paladyn.mediclog.12.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -824,9 +920,16 @@
 		<added>2020-10-25</added>
 		<lastupdated>2020-10-31</lastupdated>
 		<name>MediLog</name>
-		<summary/>
+		<summary>Manage blood pressure and weight data </summary>
 		<icon>com.zell_mbc.medilog.5320.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>Privacy respecting tracking of blood pressure and weight values, including simple charts and ways to securely share the sensitive data with medical staff if and when required.  
+ 
+ * Support for biometric (fingerprint) logon 
+ * Charts for weight and blood pressure values
+ * CSV Data export via protected/encrypted zip files
+ * Ability to share health data via properly formated PDF files inside protected/encrypted zip files
+ 
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -865,7 +968,7 @@
 		<added>2016-01-05</added>
 		<lastupdated>2016-04-09</lastupdated>
 		<name>Mitzuli</name>
-		<summary/>
+		<summary>Offline Translator</summary>
 		<icon>com.mitzuli.10008.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -906,9 +1009,43 @@
 		<added>2020-10-02</added>
 		<lastupdated>2020-10-20</lastupdated>
 		<name>Noice</name>
-		<summary/>
+		<summary>Relax, improve focus, and boost productivity with minimal background noise.</summary>
 		<icon>com.github.ashutoshgngwr.noice.34.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>For a lot of people, a little background noise is helpful to calm down and focus. In some cases, it's also a boost to productivity. Background noise (ambience) can also help minimize the effects of stress.
+
+Noice is an app that allows you to create a customised ambience using clips from environmental noise sources. Create your perfect surroundings by combining different sounds to drown out distractions so you can focus on your work, or generate serene, peaceful environments that encourage you to fall asleep.
+
+&lt;b&gt;Features&lt;/b&gt;
+- 35 recorded noises
+- Google Cast (Chromecast) enabled [Play Store release only]
+- Auto sleep timer
+- Wake-up timer (Alarm Clock)
+- Make a customised mix
+- Save your favourite mixes
+- Play alongside other music players
+- Individual volume control for each noise source
+- Offline playback
+- Light and dark app theme variants
+
+&lt;b&gt;Noise library&lt;/b&gt;
+- Life set (birds, crickets, wolf, human heartbeat, etc.)
+- Forest set (bonfire, night, wind, palm trees, etc.)
+- Monsoon set (rain, thunders)
+- Teleportation set (coffee shop, library, office, seaside, riverbank, etc.)
+- Vehicle set (moving train, in-flight, creaking ship, electric car, etc.)
+- Raw noise (white, pink, brownian)
+
+&lt;b&gt;Permissions&lt;/b&gt;
+- &lt;b&gt;prevent device from sleeping&lt;/b&gt;: to keep device CPU awake during playback
+- &lt;b&gt;run foreground service&lt;/b&gt;: to run the player process (different than UI)
+- &lt;b&gt;run at startup&lt;/b&gt;: to ensure that wake-up timers persist across reboots
+- &lt;b&gt;full network access&lt;/b&gt;: to enable Chromecast and financial contributions
+- &lt;b&gt;view network connections&lt;/b&gt;: added by a dependency, currently not in use
+- &lt;b&gt;Google Play billing service&lt;/b&gt;: to enable financial contributions for supporting development
+
+Noice is free and open-source software.
+https://github.com/ashutoshgngwr/noice
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -945,9 +1082,28 @@
 		<added>2017-12-22</added>
 		<lastupdated>2018-04-28</lastupdated>
 		<name>ObscuraCam</name>
-		<summary/>
+		<summary>Blur faces and remove camera and location metadata with this privacy camera app</summary>
 		<icon>org.witness.sscphase1.4011.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>In a world of viral videos and facial recognition, ObscuraCam helps you share photos and videos while protecting the privacy of you and those you care about. With ObscuraCam you can blur and disguise faces in your photos and videos. Information that could identify you as the cameraperson is removed from the files for added security.
+
+* PRIVACY FOR YOUR PICTURES: ObscuraCam can be used as a camera to take photos, or to anonymize photos and videos you’ve already taken.
+* DISGUISE YOURSELF: Cover faces with pixelate, redact (blackout) or funny nose and glasses
+* AUTOMATIC FACE DETECTION: ObscuraCam automatically detects faces in both photos and videos, so you can quickly and easily anonymize a crowd or a long video.
+* MULTIPLE PRIVACY MODES: Faces can be pixelated, removed completely, or disguised with funny nose and glasses. You can also blur everything except a small portion of an image.
+* SHARE SECURELY: We remove all identifying data stored in photos including GPS location data and phone make &amp; model so you can save the protected photo back to the Gallery, or share it directly to Facebook, Twitter or any other &quot;Share&quot; enabled app.
+* PROTECTS THE IDENTITY OF THE PHOTOGRAPHER: Smartphones attach information to every photo they take, including where it was taken and by what type of camera. ObscuraCam removes all of this information.
+* AWARD-WINNING: ObscuraCam was a Winner of the 2013 Knight News Challenge
+
+***Learn More***
+* PARTNERSHIP: ObscuraCam is a partnership between the security experts at the Guardian Project and WITNESS.org, a non-profit using the power of video and storytelling to open the eyes of the world to human rights abuses.
+* ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow.
+* OUR WEBSITE: GuardianProject.info.
+* ABOUT WITNESS: A non-profit using the power of video and storytelling to open the eyes of the world to human rights abuses.
+* WITNESS’ WEBSITE: http://witness.org
+* ON TWITTER: https://twitter.com/guardianproject &amp; https://twitter.com/witnessorg
+* OPEN-SOURCE: ObscuraCam is free software. You can take a look at our source code, or join the community to help make Orweb even better: https://github.com/guardianproject/ObscuraCam
+* MESSAGE US: Are we missing your favorite feature? Found an annoying bug? Please tell us! We’d love to hear from you. Send us an email: support@guardianproject.info.
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -988,7 +1144,7 @@
 		<added>2013-05-09</added>
 		<lastupdated>2015-02-27</lastupdated>
 		<name>OCR Test</name>
-		<summary/>
+		<summary>Convert camera images to text</summary>
 		<icon>edu.sfsu.cs.orange.ocr.33.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1031,7 +1187,7 @@
 		<added>2019-08-06</added>
 		<lastupdated>2020-07-25</lastupdated>
 		<name>Open Note Scanner</name>
-		<summary/>
+		<summary>Scan documents, handwritten notes or arts</summary>
 		<icon>com.todobom.opennotescanner.35.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1070,9 +1226,11 @@
 		<added>2020-11-11</added>
 		<lastupdated>2020-11-11</lastupdated>
 		<name>OpenMRS Android Client</name>
-		<summary/>
+		<summary>Patient management (medical)</summary>
 		<icon>org.openmrs.mobile.2673.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;p&gt;OpenMRS grew out of the critical need to scale up the treatment of HIV in Africa but from the start was conceived as a general purpose electronic medical record system that could support the full range of medical treatments (see &lt;a href='https://en.wikipedia.org/wiki/OpenMRS' target='_blank'&gt;Wikipedia&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;OpenMRS Client&lt;/i&gt; is the client for Android devices. The app is designed to cover most of the functionality of the web application including registering patients, taking visit notes, capturing vitals, etc. The app will communicate with OpenMRS using REST. It will support working off-line (without network connection) with a chosen subset of patients. The database on the device will be encrypted and password protected to secure patient data.&lt;/p&gt;
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -1111,9 +1269,78 @@
 		<added>2020-06-15</added>
 		<lastupdated>2020-10-03</lastupdated>
 		<name>OsmAnd~</name>
-		<summary/>
+		<summary>Global Mobile Map Viewing &amp; Navigation for Offline and Online OSM Maps</summary>
 		<icon>net.osmand.plus.383.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>OsmAnd+ (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data.
+Enjoy voice and optical navigation, viewing POIs (points of interest), creating and managing GPX tracks, using contour lines visualization and altitude info, a choice between driving, cycling, pedestrian modes, OSM editing and much more.
+
+OsmAnd+ is the full version of this app. Please donate to support the project, fund the development of new features, and receive the latest updates.
+
+Some of the main features:
+Navigation
+ • Works online (fast) or offline (no roaming charges when you are abroad)
+ • Turn-by-turn voice guidance (recorded and synthesized voices)
+ • Optional lane guidance, street name display, and estimated time of arrival
+ • Supports intermediate points on your itinerary
+ • Automatic re-routing whenever you deviate from the route
+ • Search for places by address, by type (e.g.: restaurant, hotel, gas station, museum), or by geographical coordinates
+
+Map Viewing
+ • Display your position and orientation
+ • Optionally align the picture according to compass or your direction of motion
+ • Save your most important places as Favorites
+ • Display POIs (point of interests) around you
+ • Display specialized online tiles, satellite view (from Bing), different overlays like touring/navigation GPX tracks and additional layers with customizable transparency
+ • Optionally display place names in English, local, or phonetic spelling
+
+Use OSM and Wikipedia Data
+ • High-quality information from the best collaborative projects of the world
+ • OSM data available per country or region
+ • Wikipedia POIs, great for sightseeing
+ • Unlimited free downloads, directly from the app
+ • Compact offline vector maps updated at least once a month
+
+ • Selection between complete region data and just road network (Example: All of Japan is 700 MB or 200 MB for the road network only)
+
+Safety Features
+ • Optional automated day/night view switching
+ • Optional speed limit display, with reminder if you exceed it
+ • Optional speed-dependent zooming
+ • Share your location so that your friends can find you
+
+Bicycle and Pedestrian Features
+ • Viewing foot, hiking, and bike paths, great for outdoor activities
+ • Special routing and display modes for bike and pedestrian
+ • Optional public transport stops (bus, tram, train) including line names
+ • Optional trip recording to local GPX file or online service
+ • Optional speed and altitude display
+ • Display of contour lines and hill-shading (via additional plugin)
+
+Directly Contribute to OSM
+ • Report data bugs
+ • Upload GPX tracks to OSM directly from the app
+ • Add POIs and directly upload them to OSM (or later if offline)
+ • Optional trip recording also in background mode (while device is in sleep mode)
+OsmAnd is open-source and actively being developed. Everyone can contribute to the application by reporting bugs, improving translations or coding new features. The project is in a lively state of continuous improvement by all these forms of developer and user interaction. The project progress also relies on financial contributions to fund coding and testing of new functionalities.
+Approximate map coverage and quality:
+ • Western Europe: ****
+ • Eastern Europe: ***
+ • Russia: ***
+ • North America: ***
+ • South America: **
+ • Asia: **
+ • Japan &amp; Korea: ***
+ • Middle East: **
+ • Africa: **
+ • Antarctica: *
+Most countries around the globe available as downloads!
+From Afghanistan to Zimbabwe, from Australia to the USA. Argentina, Brazil, Canada, France, Germany, Mexico, UK, Spain, ...
+
+Anti-Features:
+* NonFreeAssets - Artwork and layouts are under a non-commercial license.
+* NonFreeNet - May download images from nonfree Mapillary online service
+* NonFreeAdd - Proposes to download a proprietary app (Mapillary) from Google Play Store to add photos to their service
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -1156,9 +1383,32 @@
 		<added>2015-06-26</added>
 		<lastupdated>2017-02-18</lastupdated>
 		<name>PixelKnot</name>
-		<summary/>
+		<summary>Have a secret that you want to share? Why not hide it in a picture?</summary>
 		<icon>info.guardianproject.pixelknot.101.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>Have a secret that you want to share? Why not hide it in a picture? With PixelKnot, only your friends with the secret password can unlock your special message. Everyone else just sees a pretty picture. It’s a fun and easy way to share hidden messages without anyone knowing. Take those pixels, twist them in a knot, and see for yourself!
+
+★ DISGUISE YOUR MESSAGES: Pictures are public, the text is hidden inside. Even a trained eye will think the image is unedited. It’s security through obscurity!
+★ FOR YOUR EYES ONLY: Put a password on the secret message to make sure that no one can read it except the person it’s meant for.
+★ EASY IMAGE CHOOSER:  You can use the camera to take photos, or just use photos you’ve already taken.
+★ INVISIBLE CHANGES: Even a trained analyst analyst shouldn’t be able to detect any message. The image bytes should seem undistorted.
+★ SHARE ACROSS PLATFORMS: Want to share the images over email, file sharing tools (like Dropbox &amp; Sparkleshare), social media (like Google+ &amp; Flickr) or directly through Bluetooth or NFC? Not a problem! The messages are still recoverable on the other side. We'll have even more tools (like Facebook) working soon, so stay tuned!
+★ AD-FREE: We want your love, not your money.
+★ MATHEMATICALLY SECURE: We use the newly developed steganography algorithm F5 which implements matrix encoding to improve the efficiency of embedding and employs permutative straddling to uniformly spread out the changes over the whole steganogram.
+★ ATTACK RESISTANT: We’ve launched attacks on images with messages hidden in them using a specialized version of stegdetect, an automated tool for detecting steganographic content in images. In most cases, the pictures have been impervious to attack. We will be including detection in an upcoming version of the application so you can easily test it yourself!
+Don’t see your language? Join us and help translate the app:
+https://hosted.weblate.org/projects/guardianproject/pixelknot
+https://hosted.weblate.org/projects/guardianproject/pixelknot-metadata
+
+***Learn More***
+★ ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow.
+★ OUR WEBSITE: https://GuardianProject.info.
+★ ON TWITTER: https://twitter.com/guardianproject
+★ OPEN-SOURCE: PixelKnot is free software. You can take a look at our source code, or join the community to help make it even better: https://github.com/guardianproject/pixelknot
+★ MESSAGE US: Are we missing your favorite feature? Found an annoying bug? Please tell us! We’d love to hear from you. Send us an email: support@guardianproject.info
+
+***Disclaimer***
+The Guardian Project makes apps that are designed to protect your security and anonymity. The protocols that we use are widely regarded as the state of the art in security technology. While we are constantly upgrading our software to combat the latest threats and eliminate bugs, no technology is 100% foolproof. For maximum security and anonymity users must utilize best practices to keep themselves safe. PixelKnot is still an experimental application and should not be used in real world deployments. You can find a good introductory guide to these topics at https://securityinabox.org
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -1201,7 +1451,7 @@
 		<added>2020-02-29</added>
 		<lastupdated>2020-10-12</lastupdated>
 		<name>PocketMaps</name>
-		<summary/>
+		<summary>View maps and use offline routing and navigation system</summary>
 		<icon>com.junjunguo.pocketmaps.37.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1244,7 +1494,7 @@
 		<added>2019-01-13</added>
 		<lastupdated>2019-06-19</lastupdated>
 		<name>Puzzles</name>
-		<summary/>
+		<summary>39 single-player logic games</summary>
 		<icon>name.boyle.chris.sgtpuzzles.120.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1287,9 +1537,35 @@
 		<added>2019-01-14</added>
 		<lastupdated>2019-09-25</lastupdated>
 		<name>Ripple</name>
-		<summary/>
+		<summary>Trigger apps to protect your privacy when in anxious or panic situations</summary>
 		<icon>info.guardianproject.ripple.139.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>Ripple is a &quot;panic button&quot; that can send it's trigger message to any app that is a &quot;panic responder&quot;.  Such apps can do things like lock, disguise themselves, delete private data, send an emergency message, and more.  It is meant for situations where there is time to react, but where users need to be sure it is not mistakenly set off.
+
+This is a BETA version of this app!  We are working now to add support to as many other apps as possible.  ChatSecure, Orweb, Umbrella, and Zom already have support, these apps are coming soon: Courier, PanicButton, OpenKeychain, Orfox, SMSSecure, StoryMaker.
+
+Here are two example scenarios:
+
+* An organization gets regularly raided by the security forces, who search all of the computers and mobile devices on the premises. The organization usually has at least a minute or two of warning before a raid starts. They need a very reliable way to trigger wiping all of the data from the sensitive apps.
+
+* An aid worker has lots of sensitive data about people on their device.  They regularly sync that data to a secure, central database.  Occasionally, the aid worker has to leave the country on very short notice.  The border guards regularly download the entire contents of mobile devices of people crossing through.  While waiting in line at the border, the aid worker sees the border guards seizing people's devices, and then remembers all the data on the device, so she unlocks the phone and hits the wipe trigger, which wipes all sensitive apps from the device. When the aid worker returns to the central office, the device is again synced up with the central database.
+
+This project was started as part of the T2 Panic work.  Read more about it here:
+https://guardianproject.info/tag/panic
+
+Don’t see your language? Join us and help translate the app:
+https://hosted.weblate.org/projects/guardianproject/ripple/
+https://hosted.weblate.org/projects/guardianproject/ripple-metadata/
+
+
+***Learn More***
+
+★ ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow
+★ OUR WEBSITE: https://GuardianProject.info
+★ ON TWITTER: https://twitter.com/guardianproject
+★ FREE SOFTWARE: Ripple is free software. You can take a look at our source code, or contribute to help make Ripple even better:
+https://github.com/guardianproject/ripple
+★ MESSAGE US: Are we missing your favorite feature? Found an annoying bug? Please tell us! We’d love to hear from you. Send us an email: support@guardianproject.info or find us in our chat room https://guardianproject.info/contact
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -1324,7 +1600,7 @@
 		<added>2020-11-11</added>
 		<lastupdated>2020-11-11</lastupdated>
 		<name>Rumble</name>
-		<summary/>
+		<summary>Off-the-grid micro-blogging application for communities</summary>
 		<icon>org.disrupted.rumble.16.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1367,7 +1643,7 @@
 		<added>2014-02-18</added>
 		<lastupdated>2014-04-26</lastupdated>
 		<name>Silent Night</name>
-		<summary/>
+		<summary>Auto disable sound on the night</summary>
 		<icon>ru.neverdark.silentnight.8.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1406,7 +1682,7 @@
 		<added>2017-09-27</added>
 		<lastupdated>2017-10-01</lastupdated>
 		<name>Simple Brick Games</name>
-		<summary/>
+		<summary>Imitates handhelds from the past</summary>
 		<icon>de.tobiasbielefeld.brickgames.18.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1445,7 +1721,7 @@
 		<added>2019-03-31</added>
 		<lastupdated>2019-03-31</lastupdated>
 		<name>SINE Isochronic Entrainer</name>
-		<summary/>
+		<summary>Brainwave Entrainment from relaxation to focus enhancement by Isochronic Tones</summary>
 		<icon>com.dosse.bwentrain.androidPlayer.25.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1472,7 +1748,7 @@
 		<added>2018-02-16</added>
 		<lastupdated>2018-11-02</lastupdated>
 		<name>SolitaireCG</name>
-		<summary/>
+		<summary>Solitaire Card Games</summary>
 		<icon>net.sourceforge.solitaire_cg.730.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1508,7 +1784,7 @@
 		<added>2020-04-19</added>
 		<lastupdated>2020-10-12</lastupdated>
 		<name>Survival Manual</name>
-		<summary/>
+		<summary>Learn how to survive</summary>
 		<icon>org.ligi.survivalmanual.426.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1545,9 +1821,45 @@
 		<added>2020-10-13</added>
 		<lastupdated>2020-10-17</lastupdated>
 		<name>Trackbook</name>
-		<summary/>
+		<summary>Record your movement</summary>
 		<icon>org.y20k.trackbook.46.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>Trackbook is a bare-bones app for recording your movements. Trackbook is great for hiking, vacationing, or working out. Once started, it traces your movements on a map. The map data is provided by OpenStreetMap (OSM).
+
+Trackbook is free software. It is published under the MIT open-source license. Trackbook uses osmdroid to display the map, which is also free software published under the Apache License.
+
+GOOD TO KNOW
+------------
+
+START RECORDING VIA QUICK SETTINGS TILE
+You can start a recording without opening Trackbook. Just pull down the System's Quick Settings and tap on the Start Recording tile. You'll need to manually add Trackbook's Recording tile to Quick Settings first. Information on customizing Quick Settings:
+https://support.google.com/android/answer/9083864
+https://www.xda-developers.com/get-custom-quick-settings-tiles/
+
+SAVE RECORDINGS AS GPX
+Recordings can be exported as GPX (GPS Exchange Format). Tap on the save button in the lower-right corner of a previously recorded track.
+
+COPY GPX FILES MANUALLY
+Trackbook automatically generates GPX files for every recording. You can find them in the folder /Android/data/org.y20k.trackbook/files/gpx/ on your device's storage.
+
+HOW DOES TRACKBOOK MEASURE DISTANCE?
+Trackbook calculates the distance between markers and adds them up.
+
+HOW DOES TRACKBOOK MEASURE ALTITUDE?
+Many devices have altitude sensors (of varying accuracy). Trackbook compares the altitude of each new marker with the previously stored altitude. The difference is added to either the uphill or downhill elevation value.
+
+WHAT DOES ACCURACY THRESHOLD MEAN?
+Every location fix that Trackbook receives is associated with an accuracy estimate. You can look up how Android defines accuracy in the developer documentation. &quot;Accuracy Threshold&quot; is the value from which location fixes are rejected. It can be adjusted in Trackbook's settings. You can increase the value if your recordings tend to be incomplete. Trackbook will then also record less accurate location fixes.
+
+WHERE ARE MY OLD RECORDINGS?
+----------------------------
+The F-Droid version of Trackbook features an auto-importer for old recordings. Sadly I was not able to implement the auto-importer for the Play Store version of Trackbook due to SDK requirements / restrictions. That is partly my fault and I am very sorry. There is a (quite complicated) solution to get back your old recordings. Please head over to the Wiki (https://github.com/y20k/trackbook/wiki) to find out how.
+
+A WORD ON PRIVACY
+-----------------
+Trackbook begins to store location data on a device as soon as a user presses the record button. Those recordings are stored in the directory /Android/data/org.y20k.trackbook/files/. They never leave the device. There is no web-service backing Trackbook.
+
+Trackbook does not use Google Play Services to get its location data. It will, however, try to use data from the NETWORK_PROVIDER on your device to augment the location data it received via GPS. The NETWORK_PROVIDER is a system-wide service that Trackbook has no control over. This service will usually query an online database for the location of cell towers or Wi-Fi access points a device can see. You can prevent those kinds of requests on your device if you set the location preferences system-wide to &quot;Device Only&quot;. Additionally, Trackbook offers a &quot;Restrict to GPS&quot; setting that deactivates the NETWORK_PROVIDER just within the app.
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -1586,9 +1898,25 @@
 		<added>2020-10-24</added>
 		<lastupdated>2020-10-27</lastupdated>
 		<name>Trail Sense</name>
-		<summary/>
+		<summary>Use your phone's sensors to assist with wilderness treks or survival situations.</summary>
 		<icon>com.kylecorry.trail_sense.22.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>&lt;h4&gt;Navigation&lt;/h4&gt;
+&lt;p&gt;The compass can be used to determine the direction to North, and when combined with the GPS it can be used to navigate to predefined locations. The predefined locations, known as beacons, can be created while at a location and at any point you can use the compass to navigate back to where the beacon was placed.&lt;/p&gt;
+&lt;p&gt;Example beacons: home, work, trailhead, campsite&lt;/p&gt;
+&lt;p&gt;The flashlight can also be easily accessed on the navigation tab (torch or SOS mode).&lt;/p&gt;
+
+&lt;h4&gt;Weather&lt;/h4&gt;
+&lt;p&gt;The barometer can be used to determine if the weather will change soon and if a storm is likely to occur. The barometric pressure history (last 48 hours) is displayed as a graph and an interpretation of the current reading is shown. If the pressure suddenly drops, a storm alert notification is sent.&lt;/p&gt;
+
+&lt;h4&gt;Astronomy&lt;/h4&gt;
+&lt;p&gt;View the sun/moon rise and set times and see the current phase of the moon at your exact location.&lt;/p&gt;
+
+&lt;h4&gt;Privacy&lt;/h4&gt;
+&lt;p&gt;All location data is stored on your device and the app does not use the Internet at all.&lt;/p&gt;
+
+&lt;h4&gt;Permissions&lt;/h4&gt;
+&lt;p&gt;Location (fine, background): Used for beacon navigation, True North, barometer altitude correction (in background), and sun/moon rise/set times&lt;/p&gt;
+&lt;p&gt;Flashlight: Used for the flashlight feature on the navigation tab.&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
@@ -1625,7 +1953,7 @@
 		<added>2013-05-09</added>
 		<lastupdated>2013-05-09</lastupdated>
 		<name>Units</name>
-		<summary/>
+		<summary>Powerful unit converter</summary>
 		<icon>info.staticfree.android.units.9.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
@@ -1662,9 +1990,12 @@
 		<added>2020-08-08</added>
 		<lastupdated>2020-08-08</lastupdated>
 		<name>US Travel Converter</name>
-		<summary/>
+		<summary>Converts some imperial units to SI units for travel to the USA.</summary>
 		<icon>uscartools.USTravelConverter.3.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>Converts useful imperial units to SI. Lots of tourists have problems with imperial units used in the USA, e.g. 6 foot 2 inch as body length.  
+Its optimized for fast access to this units. 
+Possible import tariffs can be calculated for EU import via mail or above the free of charge limit.
+</desc>
 		<license>Unknown</license>
 		<web/>
 		<source/>
