@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1605169378000,
+    "timestamp": 1605221825000,
     "version": 21,
     "name": "Wind Offline",
     "icon": "icon.png",
@@ -1200,80 +1200,6 @@
       }
     },
     {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "Freebloks",
-      "added": 1599955200000,
-      "icon": "de.saschahlusiak.freebloks.110.png",
-      "packageName": "de.saschahlusiak.freebloks",
-      "lastUpdated": 1602288000000,
-      "localized": {
-        "de": {
-          "description": "Dies ist die Android-Version von Freebloks 3D, einem Klon des bekannten Brettspiels \"Blokus\" von Sekkoia. Versuche so viele Steine wie m\u00f6glich auf das Spielfeld zu legen, mit nur zwei einfachen Regeln: jeder Stein muss mindestens eine Ecke eines bereits gelegten Steins ber\u00fchren, aber nie eine Kante. Kannst du mehr Steine ablegen, als deine Gegenspieler?\n\nSPIELREGELN:\nJeder Spieler besitzt 21 tetris-\u00e4hnliche Steine: 12 Steine mit 5 Quadraten, 5 mit 4 Quadraten, 2 mit 3 Quadraten, 1 mit 2 Quadraten und einen einzelnen Stein.\n\nDie Spieler legen der Reihe nach einen Stein auf das 20 x 20 Spielbrett ab. Der erste Stein muss in der jeweiligen Ecke des Spielers gelegt werden. Jeder Stein muss eine Ecke eines zuvor gelegten Steins ber\u00fchren aber darf nie eine Kante teilen. Kanten mit Steinen des Gegners d\u00fcrfen aber geteilt werden.\n\nWenn ein Spieler keine Z\u00fcge mehr hat, muss er aussetzen. Das Spiel ist vorbei, wenn kein Spieler mehr legen kann.\n\nDie Anzahl der einzelnen Quadrate der Spielsteine wird aufaddiert. Der Spieler mit den meisten Quadraten auf dem Spielfeld hat gewonnen.\n\nBEDIENUNG:\n- Durchscrolle die Liste deiner Steine mit dem Finger\n- Ziehe einen Stein deiner Wahl auf das Spielfeld\n- Der Stein kann auf dem Spielfeld mit den 4 \"Griffen\" gedreht und gespiegelt werden\n- Schiebe den Stein auf eine g\u00fcltige Position. G\u00fcltige Positionen werden gr\u00fcn dargestellt, ung\u00fcltige rot. M\u00f6gliche Ecken auf dem Spielfeld werden hervorgehoben um g\u00fcltige Z\u00fcge schneller finden zu k\u00f6nnen.\n- Ist der Stein in einer g\u00fcltigen Position, einfach auf dem Stein tippen, um ihn zu legen.\n- Du kannst jederzeit das Spielbrett mit dem Finger drehen, um die Steine des Gegners zu sehen\n\nDas Spiel kann jederzeit beendet werden, der aktuelle Spielstand wird beim n\u00e4chsten Start fortgesetzt.\n\nFUNKTIONEN:\n- Unterst\u00fctzung f\u00fcr 2 Spieler: entweder mit nur 2 Farben (Blokus Duo), oder mit 4 Farben und pro Spieler 2\n- Unterschiedliche Feldgr\u00f6\u00dfen\n- Spiele gegen Computergegner oder mit bis zu 4 lokalen Spielern an einem Ger\u00e4t\n- Onlinemodus (beta)\n- Hinweise und R\u00fcckg\u00e4ngig-Funktion\n- Macht auch auf Tablets Spass!\n\nDas Spiel ist netzwerkkompatibel mit \"Freebloks 3D\" f\u00fcr Windows und Linux: http://www.saschahlusiak.de/freebloks-3d/\n\nSPENDEN:\nFreebloks 3D is kostenlos, werbefrei und Open Source. Aber nicht alles, was nichts kostet, hat auch keinen Wert. Du kannst selber entscheiden, wieviel Freebloks dir wert ist und die Entwickler durch Kauf einer In-App Spende deiner Wahl unterst\u00fctzen, oder Freebloks VIP kaufen: https://play.google.com/store/apps/details?id=de.saschahlusiak.freebloksvip\n\nDer vollst\u00e4ndige Quelltext ist auf GitHub verf\u00fcgbar: https://github.com/shlusiak/Freebloks-Android\n\nWenn du eine Idee oder einen Wunsch hast, schreib mir einfach eine E-Mail: apps@saschahlusiak.de\n\n\n\u00c4hnlich Blokish und Blokr!\n",
-          "summary": "Brettspiel"
-        },
-        "en-US": {
-          "description": "This is the Android version of Freebloks 3D, an implementation of the famous board game Blokus. Try to place as many tiles on the board as possible, keeping in mind only two simple rules: your tiles must touch a corner of one of your previously placed tiles, but they must not share an edge. Can you play more tiles than your opponents? \n\nRULES\nEach player has 21 Tetris-like tiles: 12 tiles with 5 squares, 5 tiles with 4 squares, 2 tiles with 3 squares, 1 tile with 2 squares and 1 tile with 1 square. \nPlayers take turns in placing one tile onto the 20x20 board. The first tile for each player has to be placed in their corner of the board. Each following tile has to touch a corner of one of your previous tiles, but it must never share an edge. It may share edges with the opponents' tiles though. \nIf a player has no more possible move, they have to pass. The game is over when no player can place a tile. \nFor each player, the squares of all their tiles on the board are added up. The player with the most points  wins. \n\nHOW TO PLAY\n- Swipe the list of available tiles with your finger. \n- Select and drag a tile onto the board. \n- Rotate or flip the tile using the 4 handles. \n- Place the tile in the desired position. The tile will appear green if the position is valid, and red otherwise. Possible corners are highlighted on the board for convenience. \n- Tap the tile in a valid position to place it. \n- You can rotate the board at any time to see the opponents' tiles. \n\nQuit the app at any time, your current game will be saved and restored on next start. \n\nFEATURES\n- Supports 2-player modes, with 2 colors (Original and Blokus Duo), 4 colors (2 each).\n- Customizable board sizes other than 20x20.\n- Play against the computer or humans on the same device. \n- Play online against your friends\n- Hint and undo options.\n- Looks great on tablets, too!\n\nThe game is network-compatible with Freebloks 3D for Windows and Linux: http://www.saschahlusiak.de/freebloks-3d/ \n\nPLEASE DONATE\nFreebloks 3D is absolutely free, open source and without advertisement! But things for free still have a value. You can decide how much Freebloks is worth to you by purchasing an in-app donation of your choice or by buying Freebloks VIP: https://play.google.com/store/apps/details?id=de.saschahlusiak.freebloksvip\n\nThe complete source code is available on GitHub: https://github.com/shlusiak/Freebloks-Android \n\nIf you have any idea, feature request or wish concerning the game, just drop us an email: apps@saschahlusiak.de \n\nSimilar: Blokish and Blokr!\n",
-          "featureGraphic": "featureGraphic_ENar9csXgJHrM_cObfP0aVjPXlcy_q8NScqRzYZfny0=.png",
-          "icon": "icon_Fyu4CyiusRn4f55SpE0fmxvQmZVmgOwM8hrbOd7Miok=.png",
-          "phoneScreenshots": [
-            "shot_01.png",
-            "shot_02.png",
-            "shot_03.png",
-            "shot_04.png",
-            "shot_05.png"
-          ],
-          "summary": "Board game",
-          "tenInchScreenshots": [
-            "shot_06.png",
-            "shot_07.png",
-            "shot_08.png",
-            "shot_09.png"
-          ]
-        },
-        "es": {
-          "description": "Esta es la versi\u00f3n para Android de Freebloks 3D, una implementaci\u00f3n del famoso juego de mesa Blokus por Sekko\u00efa. Trata de colocar tantas piezas que puedas en el tablero, teniendo en cuenta s\u00f3lo dos reglas simples: tus piezas deben tocar por lo menos una esquina de tus piezas colocadas previamente, pero no deben tocar un borde. \u00bfPuedes colocar m\u00e1s piezas que tus adversarios?\n\nREGLAS\nCada jugador dispone de 21 fichas que se parecen a las de Tetris: 12 piezas de 5 casillas, 5 piezas de 4 casillas, 2 piezas de 3 casillas, una pieza de 2 plazas y una pieza de una casilla.\nLos jugadores van colocando por turnos sus piezas en el tablero de 20x20 casillas. La primera pieza de cada jugador tiene que ser colocada en su esquina del tablero. Cada pieza siguiente que coloques debe tocar por alguna esquina a alguna de tus piezas ya colocadas, nunca de forma adyacente con las piezas del mismo color. Sin embargo, puede compartir bordes con las piezas de los opositores.\nSi un jugador no tiene ninguna movida posible, tiene que pasar. El partido finaliza cuando ning\u00fan jugador puede colocar ninguna ficha m\u00e1s.\nAl final se suman las casillas de las piezas que le quedan a cada jugador. El jugador con el menor n\u00famero de casillas restantes es el ganador del partido.\n\nC\u00d3MO JUGAR\n- Pasa tu dedo sobre la lista de piezas disponibles.\n- Selecciona y arrastra una pieza sobre el tablero.\n- Gira o voltea la pieza usando las 4 asas.\n- Coloca la pieza en la posici\u00f3n deseada. La pieza se pondr\u00e1 verde si la posici\u00f3n es v\u00e1lida, y roja si no lo es. Las esquinas posibles son resaltadas en el tablero para mayor comodidad.\n- Toca la pieza que se encuentra en una posici\u00f3n v\u00e1lida para colocarla.\n- Se puede girar el tablero en cualquier momento para ver las piezas de los opositores.\n\nSal de la aplicaci\u00f3n en cualquier momento, la partida actual se guardar\u00e1 y se restaurar\u00e1 al pr\u00f3ximo inicio.\n\nCARACTER\u00cdSTICAS\n- Se pueden jugar tambi\u00e9n partidos de 2 jugadores, con 2 colores (Blokus Duo) o 4 colores (2 colores para cada jugador).\n- Tama\u00f1o variable del tablero (otros que 20x20 casillas)\n- Jugar contra el ordenador o seres humanos en el mismo aparato.\n- Jugar en l\u00ednea contra tus amigos (beta).\n- Opciones de ofrecer pistas y de deshacer la \u00faltima movida.\n\nEl juego es compatible para jugar en red con Freebloks 3D para Windows y Linux: http://www.saschahlusiak.de/freebloks-3d/\n\nPOR FAVOR, HAZ UNA DONACI\u00d3N\nSi te gusta Freebloks 3D, por favor apoya a los programadores mediante una donaci\u00f3n de tu elecci\u00f3n a trav\u00e9s de la aplicaci\u00f3n.\n\nEl juego es absolutamente gratis y sin publicidad. El c\u00f3digo fuente completo est\u00e1 disponible en GitHub: https://github.com/shlusiak/Freebloks-Android\n\nSi tienes alguna idea, solicitud de funci\u00f3n o deseo con respecto al juego, simplemente env\u00eda un correo electr\u00f3nico: mail@saschahlusiak.de\n\nSimilar a Blokish y Blokr!\n",
-          "summary": "Juego de mesa"
-        },
-        "fr": {
-          "description": "Il s'agit de la version pour Android de Freebloks 3D, une mise en \u0153uvre du c\u00e9l\u00e8bre jeu de soci\u00e9t\u00e9 Blokus par Sekko\u00efa. Essayez de placer autant de pi\u00e8ces que possible sur le tablier, en tenant compte seulement de deux r\u00e8gles simples: vos pi\u00e8ces doivent toucher par au moins un angle d'une pi\u00e8ce de m\u00eame couleur, mais elles ne peuvent jamais se toucher par un c\u00f4t\u00e9. Pouvez-vous placer plus de pi\u00e8ces que vos adversaires?\n\nR\u00c8GLES\nChaque joueur dispose de 21 pi\u00e8ces similaires \u00e0 celles du jeu de Tetris: 12 pi\u00e8ces \u00e0 5 carr\u00e9s, 5 pi\u00e8ces \u00e0 4 carr\u00e9s, 2 pi\u00e8ces \u00e0 3 carr\u00e9s, 1 pi\u00e8ce \u00e0 2 carr\u00e9s et une pi\u00e8ce \u00e0 un seul carr\u00e9.\nChaque joueur place \u00e0 son tour une pi\u00e8ce sur le tablier de 20x20 carr\u00e9s. La premi\u00e8re pi\u00e8ce du chaque joueur doit \u00eatre plac\u00e9e dans son coin du tablier. Chaque pi\u00e8ce pos\u00e9e par la suite doit toucher un angle de l'une de vos pi\u00e8ces pr\u00e9c\u00e9dentes, mais elles ne doivent jamais partager une ar\u00eate, bien qu'il est permis de toucher les ar\u00eates des pi\u00e8ces de vos adversaires. \nSi un joueur n'a aucun mouvement possible, il passe son tour. Lorsque tous les joueurs ont abandonn\u00e9, la partie est termin\u00e9e. \n\u00c0 la fin de la partie on additionne le nombre des carr\u00e9s de toutes les pi\u00e8ces restantes de chaque joueur. Le joueur avec le moins de pi\u00e8ces restantes est le gagnant.\n\nCOMMENT JOUER\n- Faites glisser la liste des pi\u00e8ces disponibles avec votre doigt.\n- S\u00e9lectionnez et faites glisser une pi\u00e8ce sur le tablier.\n- Faites pivoter ou retournez la pi\u00e8ce en utilisant les 4 poign\u00e9es.\n- Placez la pi\u00e8ce dans la position souhait\u00e9e. La pi\u00e8ce deviendra verte si la position est valide, et rouge en cas contraire. Les angles possibles sont mis en valeur sur le tablier pour plus de commodit\u00e9.\n- Touchez la pi\u00e8ce lorsqu'elle se trouve dans une position valide pour la placer.\n- Vous pouvez tourner le tablier \u00e0 tout moment pour voir les pi\u00e8ces des adversaires.\n\nQuittez l'application \u00e0 tout moment, la partie en cours sera sauvegard\u00e9e et restaur\u00e9e au prochain d\u00e9marrage.\n\nCARACT\u00c9RISTIQUES\n- Il est possible d'avoir une partie de 2 joueurs, soit avec 2 couleurs (Blokus Duo), soit avec 4 couleurs (2 couleurs pour chaque joueur)\n- Taille variable du tablier (20x20 ou autre)\n- Jouer contre l'ordinateur ou contre des humains sur le m\u00eame appareil\n- Jouer en ligne contre vos amis (beta)\n- Donner une piste; annuler le dernier mouvement\n\nL'application est compatible \u00e0 jouer en r\u00e9seau avec Freebloks 3D pour Windows et Linux: http://www.saschahlusiak.de/freebloks-3d/\n\nFAITES UNE DONATION S'IL VOUS PLA\u00ceT\nSi vous aimez Freebloks 3D, s'il vous pla\u00eet aidez les d\u00e9veloppeurs en faisant une donation de votre choix \u00e0 travers l'application!\n\nLe jeu est enti\u00e8rement gratuit et sans pub; le code source complet est disponible sur GitHub: https://github.com/shlusiak/Freebloks-Android\n\nSi vous avez une id\u00e9e ou une demande de fonctionnalit\u00e9 concernant le jeu, il suffit de m'envoyer un e-mail: mail@saschahlusiak.de\n\nSimilaire \u00e0 Blokish et Blokr!\n",
-          "summary": "Jeu de plateau"
-        },
-        "he": {
-          "summary": "\u05de\u05e9\u05d7\u05e7 \u05dc\u05d5\u05d7"
-        },
-        "nb": {
-          "summary": "Brettspill"
-        },
-        "pl": {
-          "summary": "Gra planszowa"
-        },
-        "pt": {
-          "description": "Esta \u00e9 a vers\u00e3o para Android de Freebloks 3D, uma implementa\u00e7\u00e3o do famoso jogo de mesa Blokus por Sekko\u00efa. Tenta colocar o maior n\u00famero de pe\u00e7as que possas no tabuleiro, levando em conta apenas duas regras simples: as pedras devem tocar um canto de uma das tuas pedras colocadas previamente, mas n\u00e3o devem compartilhar uma borda. Podes colocar mais pedras do que os teus advers\u00e1rios?\n\nREGRAS\nCada jogador tem 21 pe\u00e7as parecidas com aquelas de Tetris: 12 pedras de 5 quadrados, 5 pedras de 4 quadrados, 2 pedras de 3 quadrados, uma pedra de dos quadrados e uma pedra de um quadrado.\nOs jogadores se revezam em colocar pedras no tabuleiro de 20x20 quadrados. A primeira pedra do cada jogador tem que ser colocada no seu canto do tabuleiro. Cada pedra seguinte tem que tocar um canto de uma das tuas pedras anteriores, mas pedras da mesma cor nunca devem compartilhar uma borda. Por\u00e9m podem compartilhar bordas com as pedras dos advers\u00e1rios.\nSe um jogador n\u00e3o tem mais movimento poss\u00edvel, ele deve passar. O jogo termina quando nenhum jogador pode colocar uma pedra.\nPara cada jogador os quadrados de cada pedra restante s\u00e3o somados. O jogador com o menor n\u00famero de quadrados restantes \u00e9 o vencedor.\n\nCOMO JOGAR\n- Passa com o dedo pela lista de pedras dispon\u00edveis.\n- Seleciona e arrasta uma pedra em cima do tabuleiro.\n- Girar ou inverter a pedra usando o 4 al\u00e7as.\n- Coloca a pedra na posi\u00e7\u00e3o desejada. A pedra aparecer\u00e1 verde se a posi\u00e7\u00e3o \u00e9 v\u00e1lida, e vermelha do contr\u00e1rio. Os cantos poss\u00edveis s\u00e3o ressaltados no tabuleiro para mais conveni\u00eancia.\n- Toca a pedra que fica numa posi\u00e7\u00e3o v\u00e1lida para coloc\u00e1-la.\n- Podes girar o tabuleiro em qualquer momento para ver as pedras dos advers\u00e1rios.\n\nSaia do aplicativo a qualquer momento e o teu jogo atual ser\u00e1 guardado e restaurado na pr\u00f3xima inicializa\u00e7\u00e3o.\n\nFUN\u00c7\u00d5ES\n- Se pode jogar tamb\u00e9m com 2 advers\u00e1rios, com 2 cores (Blokus Duo) ou 4 cores (2 para cada jogador).\n- Tabuleiro de tamanho vari\u00e1vel (outro que 20x20).\n- Joga contra o computador ou os seres humanos no mesmo dispositivo.\n- Jogar online contra os teus amigos (beta).\n- Oferecer dicas; desfazer o \u00faltimo movimento. \n\nO aplicativo \u00e9 compat\u00edvel para jogar em rede com Freebloks 3D para Windows e Linux: http://www.saschahlusiak.de/freebloks-3d/\n\nPOR FAVOR, FAZ UMA DOA\u00c7\u00c3O\nSe gostas de Freebloks 3D, por favor apoia os programadores atrav\u00e9s de uma doa\u00e7\u00e3o de tua escolha pelo aplicativo!\n\nO jogo \u00e9 totalmente gratuito e sem publicidade. O c\u00f3digo fonte completo est\u00e1 dispon\u00edvel em GitHub: https://github.com/shlusiak/Freebloks-Android\n\nSe tens alguma id\u00e9ia ou pedido com respeito ao jogo, manda um e-mail: mail@saschahlusiak.de\n\nSemelhante a Blokish e Blokr!\n",
-          "summary": "Jogo de tabuleiro"
-        },
-        "pt-PT": {
-          "summary": "Jogo de tabuleiro"
-        },
-        "ro": {
-          "description": "Aceasta este versiunea pentru Android a jocului Freebloks 3D, implementarea celebrului Blokus creat de Sekko\u00efa. \u00cencearc\u0103 s\u0103 plasezi c\u00e2t mai multe piese pe tabl\u0103, \u0163in\u00e2nd cont de doar dou\u0103 reguli simple: piesele tale trebuie s\u0103 ating\u0103 cel pu\u0163in un col\u0163 al unei piese pe care ai a\u015fezat-o anterior, \u00eens\u0103 nu trebuie s\u0103 ating\u0103 nicio muchie a celorlalte piese ale tale aflate deja pe tabl\u0103. Reu\u015fe\u015fti s\u0103 plasezi mai multe piese dec\u00e2t adversarii t\u0103i?\n\nREGULI\nFiecare juc\u0103tor dispune de 21 de piese asem\u0103n\u0103toare celor de Tetris: 12 piese cu c\u00e2te 5 p\u0103trate, 5 piese cu c\u00e2te 4 p\u0103trate, 2 piese cu c\u00e2te 3 p\u0103trate, o pies\u0103 cu 2 p\u0103trate \u015fi o pies\u0103 de un singur p\u0103trat.\nJuc\u0103torii a\u015faz\u0103 pe r\u00e2nd c\u00e2te o pies\u0103 pe tabla de 20x20 de p\u0103tr\u0103\u0163ele. Prima pies\u0103 plasat\u0103 de fiecare juc\u0103tor trebuie s\u0103 se afle \u00een col\u0163ul tablei desemnat juc\u0103torului respectiv. Fiecare pies\u0103 a\u015fezat\u0103 dup\u0103 aceea trebuie s\u0103 ating\u0103 un col\u0163 al unei piese de aceea\u015fi culoare, dar niciodat\u0103 o muchie. Poate atinge \u00eens\u0103 muchiile pieselor oponen\u0163ilor.\n\u00cen cazul \u00een care un juc\u0103tor nu mai are mi\u015fc\u0103ri disponibile, trebuie s\u0103-\u015fi cedeze r\u00e2ndul. Partida se \u00eencheie atunci c\u00e2nd niciunul din juc\u0103tori nu mai are mi\u015fc\u0103ri posibile.\nLa final se face suma tuturor p\u0103tratelor apar\u0163in\u00e2nd pieselor care i-au mai r\u0103mas fiec\u0103rui juc\u0103tor. C\u00e2\u015ftig\u0103 cel care are cele mai pu\u0163ine p\u0103trate r\u0103mase.\n\nCUM SE JOAC\u0102\n- Gliseaz\u0103 cu degetul peste lista de piese disponibile.\n- Selecteaz\u0103 \u015fi mut\u0103 o pies\u0103 pe tabl\u0103.\n- Rote\u015fte sau \u00eentoarce piesa folosind cele 4 m\u00e2nere.\n- A\u015faz\u0103 piesa \u00een pozi\u0163ia dorit\u0103. Piesa se va \u00eenverzi dac\u0103 pozi\u0163ia este valid\u0103, \u015fi se ve \u00eenro\u015fi \u00een caz contrar. Punctele de contact disponibile sunt marcate pe tabl\u0103 pentru mai mult confort.\n- Atunci c\u00e2nd se afl\u0103 \u00eentr-o pozi\u0163ie valid\u0103, atinge piesa pentru a o a\u015feza \u00een locul respectiv.\n- Po\u0163i roti oric\u00e2nd tabla de joc pentru a vedea piesele celorlal\u0163i juc\u0103tori.\n\nPo\u0163i p\u0103r\u0103si aplica\u0163ia f\u0103r\u0103 grij\u0103 \u00een orice moment, deoarece partida \u00een curs va fi salvat\u0103 \u015fi reluat\u0103 la urm\u0103toarea pornire a jocului.\n\nCARACTERISTICI\n- Sunt posibile \u015fi partide de doar 2 juc\u0103tori, fie cu 2 culori (Blokus Duo), fie cu 4 culori (2 pentru fiecare juc\u0103tor).\n- Dimensiunea tablei de joc este variabil\u0103 (po\u0163i seta alt\u0103 dimensiune dec\u00e2t cea de 20x20)\n- Se poate juca at\u00e2t \u00eempotriva computerului, c\u00e2t \u015fi a altor juc\u0103tori, de pe acela\u015fi dispozitv.\n- Po\u0163i juca online cu prietenii t\u0103i (beta).\n- Jocul ofer\u0103 indicii, precum \u015fi posibilitatea de a anula ultima mi\u015fcare.\n- Arat\u0103 grozav \u015fi pe tablete!\n\nAplica\u0163ia este compatibil\u0103 \u015fi se poate juca \u00een re\u0163ea cu Freebloks 3D pentru Windows \u015fi Linux: http://www.saschahlusiak.de/freebloks-3d/ \n\nTE RUG\u0102M, F\u0102 O DONA\u0162IE\nDac\u0103 joci cu pl\u0103cere Freebloks 3D, te rug\u0103m s\u0103 sus\u0163ii activitatea programatorilor don\u00e2nd o sum\u0103 la alegere chiar din interiorul aplica\u0163iei!\n\nJocul este absolut gratis \u015fi nu con\u0163ine publicitate. Codul surs\u0103 integral este disponibil pe GitHub: https://github.com/shlusiak/Freebloks-Android \n\nDac\u0103 ai vreo idee sau vreo sugestie legat\u0103 de joc, scrie un email la: mail@saschahlusiak.de\n\nAsem\u0103n\u0103tor cu Blokish \u015fi Blokr!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-          "summary": "Freebloks 3D - versiunea pentru Android a celebrului joc Blokus."
-        },
-        "ru": {
-          "description": "\u042d\u0442\u0430 \u0438\u0433\u0440\u0430 - \u0410\u043d\u0434\u0440\u043e\u0438\u0434 \u0432\u0435\u0440\u0441\u0438\u044f Freebloks 3D, \u043f\u043e\u0440\u0442 \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442\u043e\u0439 \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u043e\u0439 \u0438\u0433\u0440\u044b Blokus. \u041f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0432\u044b\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0441\u0442\u043e\u043b\u044c\u043a\u043e \u0444\u0438\u0448\u0435\u043a, \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0441\u043c\u043e\u0436\u0435\u0442\u0435, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0434\u0432\u0430 \u043f\u0440\u043e\u0441\u0442\u044b\u0445 \u043f\u0440\u0430\u0432\u0438\u043b\u0430: \u0432\u0430\u0448\u0430 \u0444\u0438\u0448\u043a\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u043a\u0430\u0441\u0430\u0442\u044c\u0441\u044f \u0443\u0433\u043e\u043b\u043a\u043e\u043c \u0434\u0440\u0443\u0433\u0438\u0445 \u0432\u0430\u0448\u0438\u0445 \u0432\u044b\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0445 \u0444\u0438\u0448\u0435\u043a, \u043d\u043e \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u0430 \u043a\u0430\u0441\u0430\u0442\u044c\u0441\u044f \u0438\u0445 \u0440\u0435\u0431\u0440\u043e\u043c. \u0421\u043c\u043e\u0436\u0435\u0442\u0435 \u043b\u0438 \u0432\u044b \u0432\u044b\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u0444\u0438\u0448\u0435\u043a \u0447\u0435\u043c \u0432\u0430\u0448\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u0438?\n\n\u041f\u0420\u0410\u0412\u0418\u041b\u0410\n\u0423 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0438\u0433\u0440\u043e\u043a\u0430 \u0435\u0441\u0442\u044c 21 \u0444\u0438\u0448\u043a\u0430: 12 \u0444\u0438\u0448\u0435\u043a \u0432 5 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0438\u043a\u043e\u0432, 5 \u0432 4 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0438\u043a\u0430, 2 \u0432 3 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0438\u043a\u0430, 1 \u0432 2 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0438\u043a\u0430 \u0438 1 \u0432 1 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0438\u043a. \n\u0418\u0433\u0440\u043e\u043a\u0438 \u043f\u043e\u043e\u0447\u0435\u0440\u0451\u0434\u043d\u043e \u0432\u044b\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u044e\u0442 \u043f\u043e \u043e\u0434\u043d\u043e\u0439 \u0444\u0438\u0448\u043a\u0435 \u043d\u0430 \u0434\u043e\u0441\u043a\u0443 20\u044520. \u041f\u0435\u0440\u0432\u0430\u044f \u0444\u0438\u0448\u043a\u0430 \u0434\u043e\u043b\u0436\u043d\u0430 \u0431\u044b\u0442\u044c \u0432\u044b\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u0432 \u0443\u0433\u043e\u043b \u0438\u0433\u0440\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043b\u044f. \u041a\u0430\u0436\u0434\u0430\u044f \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u043a\u0430\u0441\u0430\u0442\u044c\u0441\u044f \u0443\u0433\u043e\u043b\u043a\u043e\u043c \u043e\u0434\u043d\u0443 \u0438\u0437 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0445, \u043d\u043e \u043d\u0435 \u0434\u043e\u043b\u0436\u043d\u0430 \u043a\u0430\u0441\u0430\u0442\u044c\u0441\u044f \u0435\u0451 \u0440\u0435\u0431\u0440\u043e\u043c. \u041d\u043e, \u043f\u0440\u0438 \u044d\u0442\u043e\u043c, \u043e\u043d\u0430 \u043c\u043e\u0436\u0435\u0442 \u043a\u0430\u0441\u0430\u0442\u044c\u0441\u044f \u0444\u0438\u0448\u0435\u043a \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432 \u043a\u0430\u043a \u0443\u0433\u043e\u0434\u043d\u043e.\n\u0415\u0441\u043b\u0438 \u0443 \u0438\u0433\u0440\u043e\u043a\u0430 \u0437\u0430\u043a\u043e\u043d\u0447\u0438\u043b\u0438\u0441\u044c \u0445\u043e\u0434\u044b, \u0442\u043e \u0434\u043b\u044f \u043d\u0435\u0433\u043e \u0438\u0433\u0440\u0430 \u043e\u043a\u043e\u043d\u0447\u0435\u043d\u0430. \u0418\u0433\u0440\u0430 \u0437\u0430\u043a\u0430\u043d\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u043e\u0433\u0434\u0430 \u043d\u0438 \u0443 \u043a\u043e\u0433\u043e \u043d\u0435 \u043e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0445\u043e\u0434\u043e\u0432.\n\u0414\u0430\u043b\u0435\u0435 \u043f\u043e\u0434\u0441\u0447\u0438\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0441\u0435\u0445 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0438\u043a\u043e\u0432 \u0432\u044b\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0445 \u043d\u0430 \u0434\u043e\u0441\u043a\u0443. \u0415\u0441\u043b\u0438 \u0432\u044b\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u0432\u0441\u0435 \u0444\u0438\u0448\u043a\u0438, \u0442\u043e \u0434\u0430\u0451\u0442\u0441\u044f \u0431\u043e\u043d\u0443\u0441 15 \u043e\u0447\u043a\u043e\u0432. \u0415\u0441\u043b\u0438 \u0432\u044b\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u0444\u0438\u0448\u043a\u0430 \u0432 1 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0438\u043a, \u0442\u043e \u0434\u0430\u0451\u0442\u0441\u044f \u0431\u043e\u043d\u0443\u0441 20 \u043e\u0447\u043a\u043e\u0432. \u0418\u0433\u0440\u043e\u043a \u0441 \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e\u043c \u043e\u0447\u043a\u043e\u0432 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442.\n\n\u041a\u0410\u041a \u0418\u0413\u0420\u0410\u0422\u042c\n- \u041b\u0438\u0441\u0442\u0430\u0439\u0442\u0435 \u0441\u043f\u0438\u0441\u043e\u043a \u0432\u0430\u0448\u0438\u0445 \u0444\u0438\u0448\u0435\u043a \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043f\u0430\u043b\u044c\u0446\u0430).\n- \u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0438 \u043f\u0435\u0440\u0435\u0442\u0430\u0449\u0438\u0442\u0435 \u0444\u0438\u0448\u043a\u0443 \u043d\u0430 \u0434\u043e\u0441\u043a\u0443.\n- \u041f\u043e\u0432\u043e\u0440\u0430\u0447\u0438\u0432\u0430\u0439\u0442\u0435 \u0444\u0438\u0448\u043a\u0443 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0442\u043e\u0447\u0435\u043a \u0432\u043e\u043a\u0440\u0443\u0433 \u0444\u0438\u0433\u0443\u0440\u044b.\n- \u0427\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u0444\u0438\u0448\u043a\u0443 \u043f\u0440\u043e\u0432\u0435\u0434\u0438\u0442\u0435 \u043e\u0442 \u043e\u0434\u043d\u043e\u0439 \u0442\u043e\u0447\u043a\u0438 \u043a \u0434\u0440\u0443\u0433\u043e\u0439 \u043d\u0430\u043f\u0440\u043e\u0442\u0438\u0432.\n- \u041f\u0435\u0440\u0435\u043d\u0435\u0441\u0438\u0442\u0435 \u0444\u0438\u0448\u043a\u0443 \u043a \u0436\u0435\u043b\u0430\u0435\u043c\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438. \u041e\u043d\u0430 \u0441\u0442\u0430\u043d\u0435\u0442 \u0437\u0435\u043b\u0451\u043d\u043e\u0439, \u0435\u0441\u043b\u0438 \u0435\u0451 \u043c\u043e\u0436\u043d\u043e \u0441\u044e\u0434\u0430 \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0438 \u043a\u0440\u0430\u0441\u043d\u043e\u0439, \u0435\u0441\u043b\u0438 \u043d\u0435\u0442. \u0414\u043b\u044f \u0443\u0434\u043e\u0431\u0441\u0442\u0432\u0430 \u043f\u043e\u0434\u0445\u043e\u0434\u044f\u0449\u0438\u0435 \u0443\u0433\u043e\u043b\u043a\u0438 \u043f\u043e\u0434\u0441\u0432\u0435\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f.\n- \u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u043d\u0430 \u0444\u0438\u0448\u043a\u0443, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0443\u044e\u0441\u044f \u0432 \u043d\u0443\u0436\u043d\u043e\u043c \u043c\u0435\u0441\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0435\u0451.\n- \u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u043e\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u0434\u043e\u0441\u043a\u0443, \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0438\u0434\u0435\u0442\u044c \u0444\u0438\u0448\u043a\u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u043e\u0432.\n\u0412\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u044b\u0439\u0442\u0438 \u0438\u0437 \u0438\u0433\u0440\u044b \u043a\u043e\u0433\u0434\u0430 \u0443\u0433\u043e\u0434\u043d\u043e - \u0432\u0430\u0448\u0430 \u0438\u0433\u0440\u0430 \u0431\u0443\u0434\u0435\u0442 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430 \u0438 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0435\u043d\u0430 \u043f\u043e\u0441\u043b\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \u0437\u0430\u043f\u0443\u0441\u043a\u0430.\n\n\u041e\u0421\u041e\u0411\u0415\u041d\u041d\u041e\u0421\u0422\u0418\n- \u041f\u0440\u0438\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0440\u0435\u0436\u0438\u043c 2-\u0445 \u0438\u0433\u0440\u043e\u043a\u043e\u0432: \u0441 \u0434\u0432\u0443\u043c\u044f \u0446\u0432\u0435\u0442\u0430\u043c\u0438 (Original \u0438 Blokus Duo) \u0438 \u0441 \u0447\u0435\u0442\u044b\u0440\u044c\u043c\u044f \u0446\u0432\u0435\u0442\u0430\u043c\u0438 (\u043f\u043e \u0434\u0432\u0430 \u0446\u0432\u0435\u0442\u0430 \u043a\u0430\u0436\u0434\u043e\u043c\u0443).\n- \u0418\u0437\u043c\u0435\u043d\u044f\u0435\u043c\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0434\u043e\u0441\u043a\u0438.\n- \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043f\u0440\u043e\u0442\u0438\u0432 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430 \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043b\u044e\u0434\u0435\u0439 \u043d\u0430 \u043e\u0434\u043d\u043e\u043c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435.\n- \u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0438\u0433\u0440\u0430\u0442\u044c \u043e\u043d\u043b\u0430\u0439\u043d \u043f\u0440\u043e\u0442\u0438\u0432 \u0432\u0430\u0448\u0438\u0445 \u0434\u0440\u0443\u0437\u0435\u0439.\n- \u041f\u043e\u0434\u0441\u043a\u0430\u0437\u043a\u0438 \u0438 \u043e\u0442\u043c\u0435\u043d\u0430 \u0445\u043e\u0434\u0430.\n- \u0421\u043f\u0438\u0441\u043e\u043a \u043b\u0443\u0447\u0448\u0438\u0445 \u0438 \u0414\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u044f (\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u0439\u0442\u0438 \u0447\u0435\u0440\u0435\u0437 Google+).\n- \u041e\u0442\u043b\u0438\u0447\u043d\u043e \u0432\u044b\u0433\u043b\u044f\u0434\u0438\u0442 \u043d\u0430 \u043f\u043b\u0430\u043d\u0448\u0435\u0442\u0430\u0445!\n\u0418\u0433\u0440\u0430 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0441\u043e\u0432\u043c\u0435\u0441\u0442\u0438\u043c\u0430 \u0441 Freebloks \u0434\u043b\u044f Windows \u0438 Linux: http://www.saschahlusiak.de/freebloks-3d/\n\n\u041f\u041e\u0416\u0410\u041b\u0423\u0419\u0421\u0422\u0410 \u041f\u041e\u041c\u041e\u0413\u0418\u0422\u0415\nFreebloks 3D - \u044d\u0442\u043e \u0430\u0431\u0441\u043e\u043b\u044e\u0442\u043d\u043e \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0438\u0433\u0440\u0430, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0430\u044f\u0441\u044f \u0432 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043c \u0434\u043e\u0441\u0442\u0443\u043f\u0435 \u0438 \u0431\u0435\u0437 \u0440\u0435\u043a\u043b\u0430\u043c\u044b! \u041d\u043e \u0432\u0441\u0451 \u0438\u043c\u0435\u0435\u0442 \u0441\u0432\u043e\u044e \u0446\u0435\u043d\u0443. \u0415\u0441\u043b\u0438 \u0432\u044b \u0440\u0435\u0448\u0438\u0442\u0435 \u0447\u0442\u043e \u044d\u0442\u0430 \u0438\u0433\u0440\u0430 \u0447\u0435\u0433\u043e-\u0442\u043e \u0441\u0442\u043e\u0438\u0442 \u0438 \u0440\u0435\u0448\u0438\u0442\u0435\u0441\u044c \u043f\u043e\u043c\u043e\u0447\u044c \u043d\u0430\u043c, \u0442\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043f\u043b\u0430\u0442\u0443 \u0432\u043d\u0443\u0442\u0440\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u043a\u0443\u043f\u0438\u0442\u0435 Freebloks VIP:\nhttps://play.google.com/store/apps/details?id=de.saschahlusiak.freebloksvip\n\n\u041f\u043e\u043b\u043d\u044b\u0439 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u044b\u0439 \u043a\u043e\u0434 \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u043d\u0430 \u0441\u0430\u0439\u0442\u0435 GitHub: https://github.com/shlusiak/Freebloks-Android\n\n\u0415\u0441\u043b\u0438 \u0443 \u0432\u0430\u0441 \u0435\u0441\u0442\u044c \u043a\u0430\u043a\u0430\u044f-\u043b\u0438\u0431\u043e \u0438\u0434\u0435\u044f, \u043f\u0440\u043e\u0441\u044c\u0431\u0430 \u0438\u043b\u0438 \u043f\u043e\u0436\u0435\u043b\u0430\u043d\u0438\u0435 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0438\u0433\u0440\u044b, \u043f\u0440\u043e\u0441\u0442\u043e \u043f\u0440\u0438\u0448\u043b\u0438\u0442\u0435 \u043c\u043d\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0435 \u043f\u0438\u0441\u044c\u043c\u043e: apps@saschahlusiak.de\n"
-        },
-        "uk": {
-          "summary": "\u041d\u0430\u0441\u0442\u0456\u043b\u044c\u043d\u0430 \u0433\u0440\u0430"
-        },
-        "zh-CN": {
-          "summary": "\u68cb\u76d8\u6e38\u620f"
-        }
-      }
-    },
-    {
       "suggestedVersionCode": "2001",
       "license": "Unknown",
       "name": "Haven",
@@ -1451,41 +1377,6 @@
         },
         "zh-CN": {
           "summary": "\u79bb\u7ebf OpenStreetMap \u5730\u56fe"
-        }
-      }
-    },
-    {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "Medic Log",
-      "added": 1578614400000,
-      "icon": "org.paladyn.mediclog.12.png",
-      "packageName": "org.paladyn.mediclog",
-      "lastUpdated": 1594512000000,
-      "localized": {
-        "de": {
-          "summary": "Medizinische Basisinformationen protokollieren"
-        },
-        "en-US": {
-          "summary": "Log basic medical information"
-        },
-        "it": {
-          "summary": "Registrare le informazioni mediche di base"
-        },
-        "pl": {
-          "summary": "Rejestrowanie podstawowych informacji medycznych"
-        },
-        "pt": {
-          "summary": "Registrar informa\u00e7\u00f5es m\u00e9dicas b\u00e1sicas"
-        },
-        "pt-PT": {
-          "summary": "Registrar informa\u00e7\u00f5es m\u00e9dicas b\u00e1sicas"
-        },
-        "zh-CN": {
-          "summary": "\u8bb0\u5f55\u57fa\u672c\u533b\u7597\u4fe1\u606f"
         }
       }
     },
@@ -2732,44 +2623,6 @@
         },
         "zh-TW": {
           "summary": "\u7576\u8655\u65bc\u7dca\u6025\u5371\u96aa\u72c0\u6cc1\u4e0b\uff0c\u555f\u52d5\u6b64\u61c9\u7528\u4ee5\u4fdd\u8b77\u60a8\u7684\u96b1\u79c1"
-        }
-      }
-    },
-    {
-      "categories": [
-        "fdroid"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "Rumble",
-      "added": 1605081500000,
-      "icon": "org.disrupted.rumble.16.png",
-      "packageName": "org.disrupted.rumble",
-      "lastUpdated": 1605081501000,
-      "localized": {
-        "de": {
-          "summary": "Anwendung zur internetlosen Verbreitung von Mikro-Blogs"
-        },
-        "en-US": {
-          "summary": "Off-the-grid micro-blogging application for communities"
-        },
-        "fr": {
-          "summary": "Application de micro-blogging hors r\u00e9seau pour les communaut\u00e9s"
-        },
-        "it": {
-          "summary": "Applicazione di micro-blogging off-the-grid per le comunit\u00e0"
-        },
-        "pl": {
-          "summary": "Aplikacja do mikroblogowania poza sieci\u0105 dla spo\u0142eczno\u015bci"
-        },
-        "pt": {
-          "summary": "Aplica\u00e7\u00e3o de microblogging fora da grade para comunidades"
-        },
-        "pt-PT": {
-          "summary": "Aplica\u00e7\u00e3o de microblogging fora da grade para comunidades"
-        },
-        "zh-CN": {
-          "summary": "\u9762\u5411\u793e\u533a\u7684\u79bb\u7ebf\u5fae\u578b\u535a\u5ba2\u5e94\u7528\u7a0b\u5e8f"
         }
       }
     },
@@ -4530,84 +4383,6 @@
         "versionName": "1.33.0"
       }
     ],
-    "de.saschahlusiak.freebloks": [
-      {
-        "added": 1599955200000,
-        "apkName": "de.saschahlusiak.freebloks_110.apk",
-        "hash": "ce42ee79a5fa39adfb501f0ed89ae621b413e91ab31eedb19b4951426a017d66",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "de.saschahlusiak.freebloks",
-        "sig": "2cc1780efc6ff88a58080eb5edfd3ec0",
-        "signer": "b84ad1afd452a019934fbe6a6b8417d8a278373917b738a6776f4db30214d470",
-        "size": 6121112,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH_ADMIN",
-            21
-          ]
-        ],
-        "versionCode": 110,
-        "versionName": "1.3.0"
-      },
-      {
-        "added": 1602288000000,
-        "apkName": "de.saschahlusiak.freebloks_109.apk",
-        "hash": "ff15150525c34ffa5142af866eb9ff3cac7bf7b45ea30a4be7a3935c8c41c4f5",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "de.saschahlusiak.freebloks",
-        "sig": "2cc1780efc6ff88a58080eb5edfd3ec0",
-        "signer": "b84ad1afd452a019934fbe6a6b8417d8a278373917b738a6776f4db30214d470",
-        "size": 6112920,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH_ADMIN",
-            21
-          ]
-        ],
-        "versionCode": 109,
-        "versionName": "1.2.9"
-      }
-    ],
     "de.tobiasbielefeld.brickgames": [
       {
         "added": 1506816000000,
@@ -5467,160 +5242,6 @@
         "versionName": "1.2.11"
       }
     ],
-    "org.disrupted.rumble": [
-      {
-        "added": 1605081501000,
-        "apkName": "org.disrupted.rumble_16.apk",
-        "features": [
-          "android.hardware.screen.landscape",
-          "android.hardware.touchscreen"
-        ],
-        "hash": "db6f4e5d797c95f6cf111f22c4ae17f07aa65cc2eececc7a7ad18f8cc473343e",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "org.disrupted.rumble",
-        "sig": "f2f99ae555a5d123b22dee10512f3efd",
-        "signer": "f1bb37e9ce65e9948e593ba580d3b96f683f0194575aa708795522c4d2530b19",
-        "size": 2831152,
-        "targetSdkVersion": 24,
-        "uses-permission": [
-          [
-            "android.permission.BLUETOOTH_ADMIN",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FLASHLIGHT",
-            null
-          ]
-        ],
-        "versionCode": 16,
-        "versionName": "1.0.2"
-      },
-      {
-        "added": 1605081500000,
-        "apkName": "org.disrupted.rumble_15.apk",
-        "features": [
-          "android.hardware.screen.landscape",
-          "android.hardware.touchscreen"
-        ],
-        "hash": "5f317ef2b3eb534294e154371b0c755a5bbc33f092b4d688176ff0285fb4afa9",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "org.disrupted.rumble",
-        "sig": "f2f99ae555a5d123b22dee10512f3efd",
-        "signer": "f1bb37e9ce65e9948e593ba580d3b96f683f0194575aa708795522c4d2530b19",
-        "size": 2870069,
-        "targetSdkVersion": 24,
-        "uses-permission": [
-          [
-            "android.permission.BLUETOOTH_ADMIN",
-            null
-          ],
-          [
-            "android.permission.BLUETOOTH",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.CAMERA",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FLASHLIGHT",
-            null
-          ]
-        ],
-        "versionCode": 15,
-        "versionName": "1.0.2"
-      }
-    ],
     "org.documentfoundation.libreoffice": [
       {
         "added": 1530489600000,
@@ -6150,36 +5771,6 @@
         ],
         "versionCode": 1988,
         "versionName": "v2.8.1988"
-      }
-    ],
-    "org.paladyn.mediclog": [
-      {
-        "added": 1594512000000,
-        "apkName": "org.paladyn.mediclog_12.apk",
-        "hash": "82c8cc45f1606e5e77dfb152dd822c448596e8d91507aa862f55779f02a3c7b6",
-        "hashType": "sha256",
-        "minSdkVersion": 14,
-        "packageName": "org.paladyn.mediclog",
-        "sig": "e3452728c78c618b2a00fc2d1ed8baba",
-        "signer": "a7f7f3730727bee58d84b09ae54bcdf9cf1828ef557235a5a8a04da9656068ab",
-        "size": 52721,
-        "targetSdkVersion": 23,
-        "versionCode": 12,
-        "versionName": "0.2.8"
-      },
-      {
-        "added": 1578614400000,
-        "apkName": "org.paladyn.mediclog_11.apk",
-        "hash": "42fe7c162d7dbc4e94c23f895f0bf637eb4ad67cad5fc4440488685908601025",
-        "hashType": "sha256",
-        "minSdkVersion": 14,
-        "packageName": "org.paladyn.mediclog",
-        "sig": "e3452728c78c618b2a00fc2d1ed8baba",
-        "signer": "a7f7f3730727bee58d84b09ae54bcdf9cf1828ef557235a5a8a04da9656068ab",
-        "size": 55752,
-        "targetSdkVersion": 23,
-        "versionCode": 11,
-        "versionName": "0.2.7"
       }
     ],
     "org.shadowice.flocke.andotp": [
