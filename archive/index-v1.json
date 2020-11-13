@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1605221847000,
+    "timestamp": 1605264142000,
     "version": 21,
     "name": "Wind Offline Archive",
     "icon": "icon.png",
@@ -15,6 +15,15 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "suggestedVersionCode": "41",
+      "license": "Unknown",
+      "name": "Flashlight",
+      "added": 1591056000000,
+      "icon": "com.simplemobiletools.flashlight.41.png",
+      "packageName": "com.simplemobiletools.flashlight",
+      "lastUpdated": 1605264118000
+    },
     {
       "suggestedVersionCode": "40",
       "license": "Unknown",
@@ -35,7 +44,67 @@
     }
   ],
   "packages": {
+    "com.simplemobiletools.flashlight": [
+      {
+        "added": 1591056000000,
+        "apkName": "com.simplemobiletools.flashlight_41.apk",
+        "features": [
+          "android.hardware.camera.flash"
+        ],
+        "hash": "c0bf78edee3de69daee7e07c48a98265105020b5eb6df161c109e60a93db107e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.simplemobiletools.flashlight",
+        "sig": "06f944519827a579ad419350dba97cc4",
+        "signer": "aa91d60a9f96812da5d557f2f0edcd40dc3e488619ff1b5c9ffcca16fe1bdf8d",
+        "size": 5677235,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            23
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ]
+        ],
+        "versionCode": 41,
+        "versionName": "5.1.1"
+      }
+    ],
     "info.guardianproject.pixelknot": [
+      {
+        "added": 1435276800000,
+        "apkName": "PixelKnot-release-0.3.3.apk",
+        "hash": "6beede8519a9e87ba8edaa5a76f203cfefd5f39eb911e789031cc6e911714b89",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "armeabi"
+        ],
+        "packageName": "info.guardianproject.pixelknot",
+        "sig": "a0eeebb161f946e3516945fae8a92a3e",
+        "signer": "d71620711b04dfa13216116fbc8a9f3e3409846b16ff2bacf43e1c5ef5a3ed6b",
+        "size": 4751233,
+        "targetSdkVersion": 17,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 6,
+        "versionName": "0.3.3"
+      },
       {
         "added": 1435276800000,
         "apkName": "PixelKnot-release-0.3.3.apk",
@@ -69,6 +138,51 @@
       }
     ],
     "org.witness.sscphase1": [
+      {
+        "added": 1513900800000,
+        "apkName": "ObscuraCam-v4.0.0.40-alpha-2.apk",
+        "hash": "71992a2cfbb614f22f7a64f5c0cfe23550463f92d2728282c0092e07de19ff37",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi",
+          "armeabi-v7a",
+          "mips",
+          "mips64",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.witness.sscphase1",
+        "sig": "a0eeebb161f946e3516945fae8a92a3e",
+        "signer": "d71620711b04dfa13216116fbc8a9f3e3409846b16ff2bacf43e1c5ef5a3ed6b",
+        "size": 24367391,
+        "targetSdkVersion": 25,
+        "uses-permission": [
+          [
+            "android.permission.READ_MEDIA_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            18
+          ]
+        ],
+        "versionCode": 40,
+        "versionName": "4.0.0-alpha-2"
+      },
       {
         "added": 1513900800000,
         "apkName": "ObscuraCam-v4.0.0.40-alpha-2.apk",

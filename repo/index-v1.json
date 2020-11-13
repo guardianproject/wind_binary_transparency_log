@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1605221917000,
+    "timestamp": 1605264144000,
     "version": 21,
     "name": "Wind Offline",
     "icon": "icon.png",
@@ -1082,13 +1082,13 @@
       }
     },
     {
-      "suggestedVersionCode": "42",
+      "suggestedVersionCode": "43",
       "license": "Unknown",
       "name": "Flashlight",
       "added": 1591056000000,
-      "icon": "com.simplemobiletools.flashlight.42.png",
+      "icon": "com.simplemobiletools.flashlight.43.png",
       "packageName": "com.simplemobiletools.flashlight",
-      "lastUpdated": 1598054400000,
+      "lastUpdated": 1605264118000,
       "localized": {
         "cs": {
           "description": "Jednoduch\u00e1 sv\u00edtilna s jasn\u00fdm displejem a nastaviteln\u00fdm stroboskopem. P\u0159i spu\u0161t\u011bn\u00ed p\u0159es ikonu aplikace (ne widget), zabr\u00e1n\u00ed usp\u00e1n\u00ed za\u0159\u00edzen\u00ed.\n\nPoskytuje i 1x1 widget s nastavitelnou barvou.\n\nNeobsahuje \u017e\u00e1dn\u00e9 reklamy \u010di nepot\u0159ebn\u00e1 opr\u00e1vn\u011bn\u00ed. M\u00e1 otev\u0159en\u00fd zdrojov\u00fd k\u00f3d a mo\u017enost zm\u011bny barev.\n\nTato aplikace je jen jednou ze sady aplikac\u00ed. Ostatn\u00ed si m\u016f\u017eete prohl\u00e9dnout na https://www.simplemobiletools.com\n",
@@ -1127,7 +1127,8 @@
           "tenInchScreenshots": [
             "tablet-10.jpg",
             "tablet-10.png"
-          ]
+          ],
+          "whatsNew": " * Added a widget for Bright Display\n * Couple stability and translation improvements\n"
         },
         "es": {
           "description": "Una sencilla linterna con brillo extra de pantalla y un personalizable estroboscopio. Si la enciende a trav\u00e9s de la aplicaci\u00f3n (no del widget), prevendr\u00e1 que el dispositivo se duerma.\n\nViene con un widget 1x1 con color personalizable.\n\nNo contiene anuncios ni permisos innecesarios. Es completamente OpenSource y adem\u00e1s provee un tema oscuro.\n\nEsta aplicaci\u00f3n es tan solo una peque\u00f1a parte de una serie de aplicaciones. Puede encontrar el resto en https://www.simplemobiletools.com\n",
@@ -1419,7 +1420,8 @@
             "list1.png",
             "list2.png"
           ],
-          "summary": "Manage blood pressure and weight data "
+          "summary": "Manage blood pressure and weight data ",
+          "whatsNew": "## v1.9.1.0, build 5320\nNew \n\n- Translations (thank you https://mastodon.technology/@mondstern)\n    + Hungarian\n    + Russian\n    + Portuguese (Brazil)\n\nFixed\n\n- Changed threshold lines in blood pressure view to same colour dashed lines for better visibility\n\nKnown issues\n\n- Water Intake report not (yet) showing summary\n"
         }
       }
     },
@@ -4051,6 +4053,33 @@
     ],
     "com.simplemobiletools.flashlight": [
       {
+        "added": 1605264118000,
+        "apkName": "com.simplemobiletools.flashlight_43.apk",
+        "features": [
+          "android.hardware.camera.flash"
+        ],
+        "hash": "1c91609894bc2195b4b261d949c5f44e161c80fe41495b69a5e19efe32f7ae57",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.simplemobiletools.flashlight",
+        "sig": "06f944519827a579ad419350dba97cc4",
+        "signer": "aa91d60a9f96812da5d557f2f0edcd40dc3e488619ff1b5c9ffcca16fe1bdf8d",
+        "size": 6323556,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            23
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "5.3.0"
+      },
+      {
         "added": 1598054400000,
         "apkName": "com.simplemobiletools.flashlight_42.apk",
         "features": [
@@ -4076,33 +4105,6 @@
         ],
         "versionCode": 42,
         "versionName": "5.2.0"
-      },
-      {
-        "added": 1591056000000,
-        "apkName": "com.simplemobiletools.flashlight_41.apk",
-        "features": [
-          "android.hardware.camera.flash"
-        ],
-        "hash": "c0bf78edee3de69daee7e07c48a98265105020b5eb6df161c109e60a93db107e",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "packageName": "com.simplemobiletools.flashlight",
-        "sig": "06f944519827a579ad419350dba97cc4",
-        "signer": "aa91d60a9f96812da5d557f2f0edcd40dc3e488619ff1b5c9ffcca16fe1bdf8d",
-        "size": 5677235,
-        "targetSdkVersion": 29,
-        "uses-permission": [
-          [
-            "android.permission.CAMERA",
-            23
-          ],
-          [
-            "android.permission.FLASHLIGHT",
-            null
-          ]
-        ],
-        "versionCode": 41,
-        "versionName": "5.1.1"
       }
     ],
     "com.todobom.opennotescanner": [
